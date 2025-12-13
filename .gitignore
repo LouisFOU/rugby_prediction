@@ -1,0 +1,13 @@
+# Ignore l'environnement virtuel
+.venv/
+
+# Ignore les fichiers temporaires Python
+__pycache__/
+
+# Ignore les fichiers de données
+*.csv
+data/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
