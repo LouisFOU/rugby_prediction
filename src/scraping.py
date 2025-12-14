@@ -1,95 +1,130 @@
 """
 Module: scraping.py
-Description: Scrapes and cleans Top 14 rugby match results.
+Description: Scrapes Top 14 rugby match results (2014-2026).
+Features: Anti-bot delays, Date extraction (Day/Month) for international window detection.
 """
 
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import os
-import re # Import du module Regex (Expressions Régulières)
+import re
+import time
+import random
 
 # --- CONFIGURATION ---
-BASE_URL = "https://www.allrugby.com/competitions/top-14-2024/calendrier.html"
+BASE_URL_TEMPLATE = "https://www.allrugby.com/competitions/top-14-{}/calendrier.html"
+START_YEAR = 2015
+END_YEAR = 2026  # On inclut la saison en cours (2025-2026)
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
 }
-MATCH_SELECTOR = '.mat' 
 
 def fetch_html_content(url: str) -> BeautifulSoup:
     try:
         print(f"[INFO] Connecting to {url}...")
-        response = requests.get(url, headers=HEADERS, timeout=10)
+        response = requests.get(url, headers=HEADERS, timeout=15)
         if response.status_code == 200:
             return BeautifulSoup(response.content, 'html.parser')
-        else:
-            print(f"[ERROR] Connection failed: {response.status_code}")
-            return None
+        return None
     except Exception as e:
         print(f"[CRITICAL] Connection error: {e}")
         return None
 
-def clean_match_data(raw_text: str) -> dict:
+def parse_date(date_text: str) -> dict:
     """
-    Parses a string like 'Bayonne 26 - 7 Toulouse détails' 
-    into structured data: Home, Away, Scores.
+    Parses french date header like "Samedi 24 Août 2024" or "24/08/24"
+    Returns month (int) to help identify international windows.
     """
-    # Regex Pattern explanation:
-    # (.*?)   -> Capture Home Team (any text until the number)
-    # (\d+)   -> Capture Home Score (digits)
-    # \s*-\s* -> Ignore the separator " - "
-    # (\d+)   -> Capture Away Score (digits)
-    # (.*)    -> Capture Away Team (rest of the text)
-    pattern = r"(.*?) (\d+)\s*-\s*(\d+) (.*)"
+    # Mapping mois français -> numéro
+    MONTHS = {
+        'janvier': 1, 'février': 2, 'mars': 3, 'avril': 4, 'mai': 5, 'juin': 6,
+        'juillet': 7, 'août': 8, 'septembre': 9, 'octobre': 10, 'novembre': 11, 'décembre': 12
+    }
     
+    try:
+        clean_text = date_text.lower()
+        for name, num in MONTHS.items():
+            if name in clean_text:
+                return num
+    except:
+        pass
+    return None
+
+def clean_match_data(raw_text: str, year: int, month: int) -> dict:
+    pattern = r"(.*?) (\d+)\s*-\s*(\d+) (.*)"
     match = re.search(pattern, raw_text)
     
     if match:
-        home_team = match.group(1).strip()
-        # Remove 'détails' from the away team name if present
-        away_team = match.group(4).replace("détails", "").strip()
-        
         return {
-            'home_team': home_team,
+            'season': year,
+            'month': month if month else 0,  # 0 si date non trouvée
+            'home_team': match.group(1).strip(),
             'home_score': int(match.group(2)),
             'away_score': int(match.group(3)),
-            'away_team': away_team
+            'away_team': match.group(4).replace("détails", "").strip()
         }
     return None
 
-def parse_matches(soup: BeautifulSoup) -> pd.DataFrame:
-    matches_data = []
-    match_elements = soup.select(MATCH_SELECTOR)
+def parse_season(year: int) -> pd.DataFrame:
+    url = BASE_URL_TEMPLATE.format(year)
+    soup = fetch_html_content(url)
     
-    print(f"[INFO] Parsing {len(match_elements)} raw blocks...")
+    if not soup:
+        return pd.DataFrame()
 
-    for match in match_elements:
-        try:
-            content = match.get_text(separator=" ", strip=True)
-            cleaned = clean_match_data(content)
-            
+    matches_data = []
+    
+    # On cherche tous les H3 (dates potentielles) et les .mat (matchs)
+    # L'ordre est important : on lit la page de haut en bas
+    elements = soup.find_all(['h3', 'a'])
+    
+    current_month = 0
+    
+    for el in elements:
+        # Si c'est un titre (Date potentielle)
+        if el.name == 'h3':
+            month = parse_date(el.get_text(strip=True))
+            if month:
+                current_month = month
+                
+        # Si c'est un match (classe .mat)
+        elif el.name == 'a' and 'mat' in el.get('class', []):
+            content = el.get_text(separator=" ", strip=True)
+            cleaned = clean_match_data(content, year, current_month)
             if cleaned:
                 matches_data.append(cleaned)
-                
-        except Exception as e:
-            continue
 
+    print(f"[INFO] Season {year}: Found {len(matches_data)} matches.")
     return pd.DataFrame(matches_data)
 
-def save_data(df: pd.DataFrame, filename: str):
-    output_dir = "data/processed" # On change de dossier car c'est de la donnée propre
-    os.makedirs(output_dir, exist_ok=True)
-    
-    path = os.path.join(output_dir, filename)
-    df.to_csv(path, index=False)
-    print(f"[SUCCESS] Clean data saved to {path}")
+def main():
+    all_seasons_data = []
+
+    print(f"--- STARTING SCRAPING ({START_YEAR}-{END_YEAR}) ---")
+
+    for year in range(START_YEAR, END_YEAR + 1):
+        df_season = parse_season(year)
+        if not df_season.empty:
+            all_seasons_data.append(df_season)
+        
+        # Pause aléatoire pour ne pas se faire bannir
+        time.sleep(random.uniform(2, 4))
+
+    if all_seasons_data:
+        master_df = pd.concat(all_seasons_data, ignore_index=True)
+        
+        # Sauvegarde
+        output_path = "data/processed/top14_historical_matches.csv"
+        os.makedirs("data/processed", exist_ok=True)
+        master_df.to_csv(output_path, index=False)
+        
+        print("-" * 40)
+        print(f"[SUCCESS] Saved {len(master_df)} matches to {output_path}")
+        print("Columns: season, month, home_team, ...")
+        print("-" * 40)
+    else:
+        print("[ERROR] No data collected.")
 
 if __name__ == "__main__":
-    soup = fetch_html_content(BASE_URL)
-    if soup:
-        df_matches = parse_matches(soup)
-        if not df_matches.empty:
-            print(df_matches.head())
-            save_data(df_matches, "top14_matches_2024.csv")
-        else:
-            print("[ERROR] No data extracted.")
+    main()

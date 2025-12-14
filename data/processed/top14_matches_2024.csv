@@ -1,0 +1,189 @@
+home_team,home_score,away_score,away_team
+Bayonne,26,7,Toulouse
+Racing 92,23,18,Bordeaux
+Perpignan,7,29,Paris
+Oyonnax,36,17,Clermont
+Castres,24,23,Pau
+Lyon,27,15,Toulon
+Montpellier,26,15,La Rochelle
+Paris,28,18,Oyonnax
+La Rochelle,35,14,Lyon
+Bordeaux,25,23,Castres
+Clermont,38,14,Perpignan
+Pau,19,17,Racing 92
+Toulon,19,14,Bayonne
+Toulouse,38,13,Montpellier
+Oyonnax,21,27,Toulouse
+Castres,37,0,Bayonne
+Paris,24,9,Montpellier
+Pau,40,10,Lyon
+Racing 92,59,10,Perpignan
+Clermont,11,10,La Rochelle
+Bordeaux,22,17,Toulon
+Bayonne,16,3,Paris
+Perpignan,24,39,Pau
+Lyon,41,22,Clermont
+Montpellier,16,19,Racing 92
+Toulon,41,7,Oyonnax
+La Rochelle,24,27,Castres
+Toulouse,29,22,Bordeaux
+Oyonnax,19,17,La Rochelle
+Perpignan,26,22,Toulon
+Bordeaux,26,13,Montpellier
+Clermont,46,14,Bayonne
+Paris,39,16,Castres
+Racing 92,22,20,Lyon
+Pau,13,9,Toulouse
+Toulouse,43,34,Perpignan
+Castres,39,11,Oyonnax
+Lyon,32,36,Paris
+Montpellier,17,20,Clermont
+Pau,20,11,Bordeaux
+La Rochelle,18,15,Bayonne
+Toulon,31,26,Racing 92
+Paris,9,13,Racing 92
+Bayonne,35,16,Pau
+Perpignan,23,16,Montpellier
+Oyonnax,38,20,Lyon
+Clermont,27,30,Toulon
+Castres,31,23,Toulouse
+La Rochelle,25,21,Bordeaux
+Toulon,41,19,Castres
+Bordeaux,46,22,Perpignan
+Lyon,42,29,Bayonne
+Montpellier,21,26,Oyonnax
+Pau,30,6,Paris
+Toulouse,31,10,Clermont
+Racing 92,32,10,La Rochelle
+Toulon,36,13,Pau
+Bayonne,34,19,Montpellier
+Oyonnax,23,29,Bordeaux
+Castres,29,14,Lyon
+La Rochelle,35,6,Perpignan
+Clermont,23,18,Racing 92
+Paris,27,12,Toulouse
+Perpignan,36,10,Bayonne
+Bordeaux,46,10,Lyon
+Montpellier,30,21,Castres
+Racing 92,66,10,Oyonnax
+Pau,22,11,Clermont
+Paris,18,13,La Rochelle
+Toulouse,25,17,Toulon
+Oyonnax,34,13,Pau
+Clermont,35,40,Bordeaux
+Lyon,20,18,Montpellier
+Bayonne,27,23,Racing 92
+Toulon,19,5,Paris
+La Rochelle,29,8,Toulouse
+Castres,13,17,Perpignan
+Pau,20,29,La Rochelle
+Perpignan,27,12,Oyonnax
+Bordeaux,24,23,Bayonne
+Paris,14,14,Clermont
+Racing 92,34,30,Castres
+Toulouse,45,0,Lyon
+Montpellier,27,17,Toulon
+Bordeaux,26,30,Paris
+Bayonne,21,17,Oyonnax
+Castres,20,23,Clermont
+Lyon,36,24,Perpignan
+Montpellier,22,17,Pau
+Toulon,25,23,La Rochelle
+Racing 92,20,27,Toulouse
+Perpignan,26,5,Racing 92
+Oyonnax,19,23,Paris
+Clermont,38,21,Lyon
+La Rochelle,18,10,Montpellier
+Pau,33,44,Castres
+Toulouse,46,26,Bayonne
+Toulon,32,37,Bordeaux
+Lyon,28,17,La Rochelle
+Bordeaux,10,20,Pau
+Paris,32,19,Perpignan
+Racing 92,20,44,Montpellier
+Toulouse,61,34,Oyonnax
+Bayonne,21,13,Clermont
+Castres,25,17,Toulon
+Montpellier,28,23,Bayonne
+Perpignan,27,15,La Rochelle
+Castres,41,12,Bordeaux
+Lyon,43,26,Oyonnax
+Pau,17,9,Toulon
+Racing 92,11,27,Paris
+Clermont,33,37,Toulouse
+Toulouse,33,6,Castres
+Bayonne,39,10,Lyon
+Oyonnax,35,39,Montpellier
+Paris,25,12,Pau
+Toulon,44,22,Perpignan
+Bordeaux,21,5,Racing 92
+La Rochelle,42,3,Clermont
+La Rochelle,23,3,Paris
+Clermont,15,15,Oyonnax
+Lyon,34,19,Castres
+Montpellier,10,3,Bordeaux
+Pau,42,40,Bayonne
+Perpignan,27,17,Toulouse
+Racing 92,20,6,Toulon
+Toulon,54,7,Montpellier
+Oyonnax,14,15,Perpignan
+Castres,21,23,Racing 92
+Clermont,31,28,Pau
+Paris,22,13,Lyon
+Bayonne,13,12,La Rochelle
+Bordeaux,31,28,Toulouse
+Montpellier,10,12,Paris
+Perpignan,43,12,Castres
+La Rochelle,40,21,Oyonnax
+Lyon,27,10,Bordeaux
+Racing 92,26,10,Clermont
+Toulouse,31,29,Pau
+Bayonne,10,46,Toulon
+Castres,25,24,La Rochelle
+Perpignan,51,20,Lyon
+Oyonnax,13,43,Racing 92
+Paris,28,24,Bayonne
+Pau,31,23,Montpellier
+Toulon,20,19,Toulouse
+Bordeaux,41,7,Clermont
+Toulouse,32,12,Racing 92
+Bayonne,15,34,Bordeaux
+Oyonnax,22,19,Castres
+Lyon,38,20,Pau
+Montpellier,20,25,Perpignan
+Clermont,41,18,Paris
+La Rochelle,27,17,Toulon
+Perpignan,28,35,Clermont
+Castres,27,26,Montpellier
+Pau,39,17,Oyonnax
+Racing 92,28,37,Bayonne
+Toulon,30,24,Lyon
+Bordeaux,34,14,La Rochelle
+Toulouse,49,18,Paris
+Montpellier,22,29,Toulouse
+Bayonne,23,20,Perpignan
+Oyonnax,17,27,Toulon
+Clermont,36,20,Castres
+Lyon,20,14,Racing 92
+La Rochelle,25,23,Pau
+Paris,22,18,Bordeaux
+Racing 92,24,15,Pau
+Perpignan,37,30,Bordeaux
+Oyonnax,27,20,Bayonne
+Castres,27,18,Paris
+Montpellier,41,26,Lyon
+Toulon,52,10,Clermont
+Toulouse,31,31,La Rochelle
+Bayonne,17,28,Castres
+Bordeaux,40,7,Oyonnax
+Clermont,52,15,Montpellier
+La Rochelle,24,19,Racing 92
+Lyon,40,28,Toulouse
+Paris,23,20,Toulon
+Pau,36,24,Perpignan
+Toulon,29,34,La Rochelle
+Bordeaux,31,17,Racing 92
+Toulouse,39,23,La Rochelle
+Paris,20,22,Bordeaux
+Toulouse,59,3,Bordeaux
+Grenoble,18,20,Montpellier

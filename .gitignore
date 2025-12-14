@@ -1,13 +1,26 @@
-# Ignore l'environnement virtuel
+# Environnement virtuel (TRES IMPORTANT)
 .venv/
+venv/
+env/
 
-# Ignore les fichiers temporaires Python
+# Fichiers compilés Python
 __pycache__/
+*.pyc
 
-# Ignore les fichiers de données
-*.csv
-data/
+# Données (Optionnel : pour un portfolio, on peut laisser 'processed' si <50Mo)
+# Mais la bonne pratique pro est de tout ignorer :
+data/raw/
+# On garde data/processed exceptionnellement pour que le recruteur puisse lancer le code direct
+# data/processed/ 
+
+# Modèles (On garde juste le final, on ignore les intermédiaires)
+models/*.pkl
+!models/rugby_xgb.pkl
+!models/team_encoder_xgb.pkl
 
 # Fichiers système
 .DS_Store
 Thumbs.db
+
+# Logs ou fichiers temporaires VS Code
+.vscode/
