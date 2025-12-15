@@ -1,6 +1,6 @@
 """
 Module: predict_2026_xgb.py
-Description: Simulation XGBoost (Lecture via Joblib).
+Description: Simulation XGBoost prenant en compte la force de l'effectif (Stars).
 """
 import pandas as pd
 import joblib
@@ -8,25 +8,26 @@ import os
 import random
 
 # Chemins
-MODEL_PATH = "models/rugby_xgb.pkl" # .pkl ici aussi
+MODEL_PATH = "models/rugby_xgb.pkl"
 ENCODER_PATH = "models/team_encoder_xgb.pkl"
 
-# Métadonnées
+# Métadonnées complètes pour 2026
+# Ajout de la clé 'stars' (1-10)
 CLUB_METADATA = {
-    'Toulouse':    {'budget': 3, 'capacity': 19000, 'exp': 10},
-    'La Rochelle': {'budget': 3, 'capacity': 16000, 'exp': 8},
-    'Paris':       {'budget': 3, 'capacity': 20000, 'exp': 4},
-    'Toulon':      {'budget': 3, 'capacity': 18000, 'exp': 7},
-    'Racing 92':   {'budget': 3, 'capacity': 30000, 'exp': 9},
-    'Bordeaux':    {'budget': 3, 'capacity': 33000, 'exp': 6},
-    'Lyon':        {'budget': 3, 'capacity': 25000, 'exp': 4},
-    'Clermont':    {'budget': 3, 'capacity': 19000, 'exp': 7},
-    'Montpellier': {'budget': 3, 'capacity': 15600, 'exp': 5},
-    'Castres':     {'budget': 2, 'capacity': 12500, 'exp': 6},
-    'Pau':         {'budget': 2, 'capacity': 18000, 'exp': 0},
-    'Bayonne':     {'budget': 2, 'capacity': 16900, 'exp': 0},
-    'Perpignan':   {'budget': 1, 'capacity': 14500, 'exp': 0},
-    'Montauban':   {'budget': 1, 'capacity': 11000, 'exp': 0, 'proxy_model': 'Vannes'}
+    'Toulouse':    {'budget': 3, 'capacity': 19000, 'exp': 10, 'stars': 10},
+    'La Rochelle': {'budget': 3, 'capacity': 16000, 'exp': 8, 'stars': 9},
+    'Paris':       {'budget': 3, 'capacity': 20000, 'exp': 4, 'stars': 7},
+    'Toulon':      {'budget': 3, 'capacity': 18000, 'exp': 7, 'stars': 8},
+    'Racing 92':   {'budget': 3, 'capacity': 30000, 'exp': 9, 'stars': 8},
+    'Bordeaux':    {'budget': 3, 'capacity': 33000, 'exp': 6, 'stars': 9},
+    'Lyon':        {'budget': 3, 'capacity': 25000, 'exp': 4, 'stars': 6},
+    'Clermont':    {'budget': 3, 'capacity': 19000, 'exp': 7, 'stars': 7},
+    'Montpellier': {'budget': 3, 'capacity': 15600, 'exp': 5, 'stars': 6},
+    'Castres':     {'budget': 2, 'capacity': 12500, 'exp': 6, 'stars': 5},
+    'Pau':         {'budget': 2, 'capacity': 18000, 'exp': 0, 'stars': 4},
+    'Bayonne':     {'budget': 2, 'capacity': 16900, 'exp': 0, 'stars': 5},
+    'Perpignan':   {'budget': 1, 'capacity': 14500, 'exp': 0, 'stars': 3},
+    'Montauban':   {'budget': 1, 'capacity': 11000, 'exp': 0, 'stars': 2, 'proxy_model': 'Vannes'}
 }
 
 def simulate_match_points(proba_home_win):
@@ -40,19 +41,18 @@ def simulate_match_points(proba_home_win):
     else: return 0, 5
 
 def simulate_season():
-    print("[INFO] Chargement du moteur XGBoost...")
+    print("[INFO] Chargement du moteur XGBoost (Version Squad Strength)...")
     if not os.path.exists(MODEL_PATH):
         print(f"Modèle introuvable : {MODEL_PATH}")
         return
 
-    # CORRECTION : Chargement standard joblib
     model = joblib.load(MODEL_PATH)
     encoder = joblib.load(ENCODER_PATH)
     
     teams = list(CLUB_METADATA.keys())
     standings = {team: 0 for team in teams}
     
-    print("[INFO] Simulation Saison 2026 (XGBoost + Poids Temporel)...")
+    print("[INFO] Simulation Saison 2026 en cours...")
 
     for home in teams:
         for away in teams:
@@ -77,7 +77,9 @@ def simulate_season():
                 'stadium_capacity': home_meta['capacity'],
                 'is_international_window': 0,
                 'home_exp': home_meta['exp'],
-                'away_exp': away_meta['exp']
+                'away_exp': away_meta['exp'],
+                'home_stars': home_meta['stars'],
+                'away_stars': away_meta['stars']
             }])
             
             probs = model.predict_proba(match_data)
@@ -88,7 +90,7 @@ def simulate_season():
             standings[away] += pts_away
 
     print("\n" + "="*45)
-    print(" 🚀 CLASSEMENT FINAL 2026 (XGBOOST) 🚀")
+    print(" 🚀 CLASSEMENT FINAL 2026 (EFFECTIFS INCLUS) 🚀")
     print("="*45)
     
     sorted_standings = sorted(standings.items(), key=lambda x: x[1], reverse=True)

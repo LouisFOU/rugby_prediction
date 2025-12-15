@@ -1,6 +1,6 @@
 """
 Module: train_xgb.py
-Description: Entraînement XGBoost corrigé (Sauvegarde via Joblib).
+Description: Entraînement XGBoost avec Feature 'Squad Strength' (Internationaux).
 """
 import pandas as pd
 import numpy as np
@@ -14,11 +14,10 @@ from sklearn.metrics import accuracy_score
 # Chemins
 INPUT_FILE = "data/processed/dataset_enriched.csv"
 MODEL_DIR = "models"
-# CHANGEMENT : On passe en .pkl comme le random forest
 MODEL_PATH = os.path.join(MODEL_DIR, "rugby_xgb.pkl") 
 ENCODER_PATH = os.path.join(MODEL_DIR, "team_encoder_xgb.pkl")
 
-# --- FEATURE ENGINEERING ---
+# --- FEATURE 1 : EXPERIENCE PHASES FINALES ---
 PLAYOFF_EXPERIENCE = {
     'Toulouse': 10, 'La Rochelle': 8, 'Clermont': 7, 'Racing 92': 9,
     'Toulon': 7, 'Castres': 6, 'Bordeaux': 6, 'Montpellier': 5,
@@ -27,10 +26,25 @@ PLAYOFF_EXPERIENCE = {
     'Montauban': 0, 'Mt.Marsan': 0
 }
 
+# --- FEATURE 2 : SQUAD STRENGTH (INTERNATIONAUX/EFFECTIF) ---
+# Note sur 10 basée sur la qualité de l'effectif 2024-2025
+SQUAD_STRENGTH = {
+    'Toulouse': 10, 'La Rochelle': 9, 'Bordeaux': 9, 'Racing 92': 8,
+    'Toulon': 8, 'Paris': 7, 'Lyon': 6, 'Clermont': 7,
+    'Montpellier': 6, 'Castres': 5, 'Pau': 4, 'Bayonne': 5,
+    'Perpignan': 3, 'Oyonnax': 2, 'Vannes': 2, 'Montauban': 1,
+    'Agen': 1, 'Brive': 2, 'Grenoble': 1, 'Biarritz': 1, 'Mt.Marsan': 1
+}
+
 def get_playoff_exp(team_name):
     for key, val in PLAYOFF_EXPERIENCE.items():
         if key in str(team_name): return val
     return 0
+
+def get_squad_strength(team_name):
+    for key, val in SQUAD_STRENGTH.items():
+        if key in str(team_name): return val
+    return 2 # Valeur par défaut pour les petits clubs
 
 def train():
     if not os.path.exists(MODEL_DIR): os.makedirs(MODEL_DIR)
@@ -38,9 +52,13 @@ def train():
     print("[INFO] Chargement des données...")
     df = pd.read_csv(INPUT_FILE)
 
-    # Features
+    # Création des Features
+    print("[INFO] Engineering : Expérience & Star Power...")
     df['home_exp'] = df['home_team'].apply(get_playoff_exp)
     df['away_exp'] = df['away_team'].apply(get_playoff_exp)
+    
+    df['home_stars'] = df['home_team'].apply(get_squad_strength)
+    df['away_stars'] = df['away_team'].apply(get_squad_strength)
 
     # Encodage
     le = LabelEncoder()
@@ -53,11 +71,13 @@ def train():
     min_season = df['season'].min()
     weights = (df['season'] - min_season + 1) ** 2
 
+    # Liste des features utilisées par le modèle
     features = [
         'home_team_code', 'away_team_code', 
         'home_budget', 'away_budget', 
         'stadium_capacity', 'is_international_window',
-        'home_exp', 'away_exp'
+        'home_exp', 'away_exp',
+        'home_stars', 'away_stars' # Nouveaux features
     ]
     X = df[features]
     y = df['home_win']
@@ -67,7 +87,6 @@ def train():
     )
 
     print("[INFO] Entraînement XGBoost...")
-    # CORRECTION : Suppression de use_label_encoder=False (obsolète)
     model = XGBClassifier(
         n_estimators=200,      
         learning_rate=0.05,    
@@ -86,7 +105,6 @@ def train():
     print("Importance des variables :")
     print(importances)
 
-    # CORRECTION CRITIQUE : Utilisation de joblib au lieu de save_model
     joblib.dump(model, MODEL_PATH)
     joblib.dump(le, ENCODER_PATH)
     print(f"[SUCCESS] Modèle sauvegardé sous {MODEL_PATH}")
