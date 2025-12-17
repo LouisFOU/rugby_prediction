@@ -12,23 +12,22 @@ import re
 import time
 import random
 
-# --- CONFIGURATION ---
 BASE_URL_TEMPLATE = "https://www.allrugby.com/competitions/top-14-{}/calendrier.html"
 START_YEAR = 2015
-END_YEAR = 2026  # On inclut la saison en cours (2025-2026)
+END_YEAR = 2026 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
 }
 
 def fetch_html_content(url: str) -> BeautifulSoup:
     try:
-        print(f"[INFO] Connecting to {url}...")
+        print(f"Connecting to {url}...")
         response = requests.get(url, headers=HEADERS, timeout=15)
         if response.status_code == 200:
             return BeautifulSoup(response.content, 'html.parser')
         return None
     except Exception as e:
-        print(f"[CRITICAL] Connection error: {e}")
+        print(f"Connection error: {e}")
         return None
 
 def parse_date(date_text: str) -> dict:

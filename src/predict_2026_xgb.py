@@ -13,29 +13,27 @@ MODEL_PATH = "models/rugby_xgb.pkl"
 ENCODER_PATH = "models/team_encoder_xgb.pkl"
 
 # Nombre de simulations
-N_SIMULATIONS = 200 
+N_SIMULATIONS = 100 
 
-# Métadonnées complètes (Avec Stars + Struggle)
-# Struggle : 0 = Serein, 10 = En danger critique (Promu ou habitué du fond)
 CLUB_METADATA = {
     'Toulouse':    {'budget': 3, 'capacity': 19000, 'exp': 10, 'stars': 10, 'struggle': 0},
     'La Rochelle': {'budget': 3, 'capacity': 16000, 'exp': 8, 'stars': 9, 'struggle': 0},
     'Paris':       {'budget': 3, 'capacity': 20000, 'exp': 4, 'stars': 7, 'struggle': 1},
-    'Toulon':      {'budget': 3, 'capacity': 18000, 'exp': 7, 'stars': 8, 'struggle': 0},
-    'Racing 92':   {'budget': 3, 'capacity': 30000, 'exp': 9, 'stars': 8, 'struggle': 0},
-    'Bordeaux':    {'budget': 3, 'capacity': 33000, 'exp': 6, 'stars': 9, 'struggle': 0},
+    'Toulon':      {'budget': 3, 'capacity': 18000, 'exp': 7, 'stars': 8, 'struggle': 1},
+    'Racing 92':   {'budget': 3, 'capacity': 30000, 'exp': 6, 'stars': 8, 'struggle': 0},
+    'Bordeaux':    {'budget': 3, 'capacity': 33000, 'exp': 9, 'stars': 10, 'struggle': 0},
     'Lyon':        {'budget': 3, 'capacity': 25000, 'exp': 4, 'stars': 6, 'struggle': 1},
-    'Clermont':    {'budget': 3, 'capacity': 19000, 'exp': 7, 'stars': 7, 'struggle': 2},
-    'Montpellier': {'budget': 3, 'capacity': 15600, 'exp': 5, 'stars': 6, 'struggle': 5}, # <-- Poids lourd ici
-    'Castres':     {'budget': 2, 'capacity': 12500, 'exp': 6, 'stars': 5, 'struggle': 0},
-    'Pau':         {'budget': 2, 'capacity': 18000, 'exp': 0, 'stars': 4, 'struggle': 4},
+    'Clermont':    {'budget': 3, 'capacity': 19000, 'exp': 6, 'stars': 7, 'struggle': 2},
+    'Montpellier': {'budget': 3, 'capacity': 15600, 'exp': 5, 'stars': 6, 'struggle': 5},
+    'Castres':     {'budget': 2, 'capacity': 12500, 'exp': 6, 'stars': 5, 'struggle': 2},
+    'Pau':         {'budget': 2, 'capacity': 18000, 'exp': 0, 'stars': 5, 'struggle': 3},
     'Bayonne':     {'budget': 2, 'capacity': 16900, 'exp': 0, 'stars': 5, 'struggle': 1},
-    'Perpignan':   {'budget': 1, 'capacity': 14500, 'exp': 0, 'stars': 3, 'struggle': 8},
+    'Perpignan':   {'budget': 1, 'capacity': 14500, 'exp': 0, 'stars': 2, 'struggle': 10},
     'Montauban':   {'budget': 1, 'capacity': 11000, 'exp': 0, 'stars': 2, 'struggle': 10, 'proxy_model': 'Vannes'}
 }
 
 def simulate_match_points(proba_home_win):
-    noise = random.uniform(-0.05, 0.05)
+    noise = random.uniform(-0.2, 0.2)
     adjusted_proba = proba_home_win + noise
     if adjusted_proba > 0.75: return 5, 0
     elif adjusted_proba > 0.55: return 4, 0
@@ -45,7 +43,7 @@ def simulate_match_points(proba_home_win):
 
 def simulate_season():
     if not os.path.exists(MODEL_PATH):
-        print(f"Modèle introuvable : {MODEL_PATH}")
+        print(f"Erreur dans le modèle : {MODEL_PATH}")
         return
 
     model = joblib.load(MODEL_PATH)
@@ -54,9 +52,10 @@ def simulate_season():
     
     stats = {team: {'points': 0, 'titles': 0, 'top2': 0, 'top6': 0, 'relegation': 0} for team in teams}
     
-    print(f"[INFO] Simulation (Avec facteur 'Struggle')...")
+    print(f"Simulation finale du championnat")
 
     for i in range(N_SIMULATIONS):
+        print(f"Simulation ", i)
         current_standings = {team: 0 for team in teams}
         for home in teams:
             for away in teams:
@@ -78,7 +77,7 @@ def simulate_season():
                     'stadium_capacity': hm['capacity'], 'is_international_window': 0,
                     'home_exp': hm['exp'], 'away_exp': am['exp'],
                     'home_stars': hm['stars'], 'away_stars': am['stars'],
-                    'home_struggle': hm['struggle'], 'away_struggle': am['struggle'] # <-- Nouveau
+                    'home_struggle': hm['struggle'], 'away_struggle': am['struggle']
                 }])
                 
                 probs = model.predict_proba(match_data)
@@ -94,8 +93,8 @@ def simulate_season():
             if rank <= 6: stats[team]['top6'] += 1
             if rank >= 13: stats[team]['relegation'] += 1
 
-    print("\n" + "="*85)
-    print(f" 📊 CLASSEMENT FINAL (Facteur 'Galère' inclus) 📊")
+    print("\n" + "="*100)
+    print(f"Classement final")
     print("="*85)
     print(f"{'Rg':<3} {'Équipe':<15} {'Pts':<6} | {'Titre':<7} {'Top 2':<7} {'Top 6':<7} | {'Reléguable':<10}")
     print("-" * 85)
@@ -113,9 +112,9 @@ def simulate_season():
         s_top6  = f"{p_top6:>5.1f}%" if p_top6 > 0 else "   -  "
         s_releg = f"{p_releg:>5.1f}%" if p_releg > 0 else "   -  "
         
-        prefix = "🆕 " if team == "Montauban" else f"{rank:<2}. "
-        print(f"{prefix}{team:<15} {avg_pts:<6.1f} | {s_title} {s_top2} {s_top6} | {s_releg}")
-    print("="*85)
+        #prefix = "(Promu) " if team == "Montauban" else f"{rank:<2}. "
+        print(f"{team:<15} {avg_pts:<6.1f} | {s_title} {s_top2} {s_top6} | {s_releg}")
+    print("="*100)
 
 if __name__ == "__main__":
     simulate_season()
