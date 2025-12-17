@@ -1,6 +1,6 @@
-# 🏉 Top 14 Rugby Predictor (AI-Powered)
+# Top 14 Rugby Predictor (AI-Powered)
 
-> A Machine Learning pipeline to predict the outcome of the French Rugby Championship (Top 14) for the 2026 season.
+> A Machine Learning pipeline to predict the outcome of the French Rugby Championship (Top 14) for the 2026 season by Foujols Louis (https://www.linkedin.com/in/louis-foujols)
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue) ![XGBoost](https://img.shields.io/badge/Model-XGBoost-green) ![Status](https://img.shields.io/badge/Status-Completed-success)
 
