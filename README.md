@@ -28,3 +28,6 @@ It goes beyond simple win/loss prediction by calculating probabilistic outcomes 
 ### Prerequisites
 ```bash
 pip install -r requirements.txt
+
+```bash
+streamlit run src/dashboard.py
