@@ -1,19 +1,19 @@
-# 🏉 Top 14 Rugby Predictor (AI-Powered)
+# Top 14 Rugby Predictor (AI-Powered)
 
-> A Machine Learning pipeline to predict the outcome of the French Rugby Championship (Top 14) for the 2026 season.
+> A Machine Learning pipeline to predict the outcome of the French Rugby Championship (Top 14) for the 2026 season by Foujols Louis, [Linkedin](https://www.linkedin.com/in/louis-foujols)
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue) ![XGBoost](https://img.shields.io/badge/Model-XGBoost-green) ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-## 📋 Overview
-This project applies **Data Science** and **Predictive Modeling** to sports analytics. By scraping over 10 years of historical match data, enriching it with economic and physical metadata (budgets, stadium capacity), and training an **XGBoost Classifier**, this engine simulates the entire 2026 Top 14 season.
+## Overview
+This project applies **Data Science** and **Predictive Modeling** to sports analytics. By scraping over 10 years of historical match data, enriching it with economic and physical metadata (budgets, stadium capacity), and training an **XGBoost Classifier**, this engine simulates the entire 2026 Top 14 season and gives the final prediction.
 
 It goes beyond simple win/loss prediction by calculating probabilistic outcomes to attribute **Offensive and Defensive Bonus Points**, which are critical in the French league system.
 
-## ⚙️ Key Technical Features
+##  Key Technical Features
 
 ### 1. Data Engineering (ETL)
 - **Web Scraping:** Automated extraction of 2,000+ matches (2014-2025) using `BeautifulSoup`.
-- **Data Enrichment:** Integration of club budgets, stadium capacities, and "International Window" detection (Six Nations tournament impact).
+- **Data Enrichment:** Integration of club budgets, stadium capacities, and Star players or Past titles are also added.
 - **Proxy Handling:** Implemented a proxy mechanism to simulate promoted teams (e.g., Montauban) using statistical profiles of past promoted squads (e.g., Vannes).
 
 ### 2. Machine Learning Strategy
@@ -23,7 +23,7 @@ It goes beyond simple win/loss prediction by calculating probabilistic outcomes 
   - `home_exp` / `away_exp`: Quantified "Playoff Experience" to model the psychological edge in high-stakes games.
   - `is_international_window`: Boolean flag to account for roster depletion during international tests.
 
-## 🚀 Installation & Usage
+## Installation & Usage
 
 ### Prerequisites
 ```bash
@@ -31,3 +31,4 @@ pip install -r requirements.txt
 
 ```bash
 streamlit run src/dashboard.py
+
