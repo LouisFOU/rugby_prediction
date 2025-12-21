@@ -64,7 +64,24 @@ def load_resources():
         return None, None
 
 # --- 3. SIMULATION ENGINE ---
-def run_simulation(n_simulations, chaos_factor):
+def run_simulation(n_simulations: int, chaos_factor: float) -> pd.DataFrame:
+    """
+    Exécute une simulation Monte Carlo de la saison.
+    
+    Args:
+        n_simulations (int): Nombre d'itérations.
+        chaos_factor (float): Niveau d'incertitude aléatoire (0.0 à 0.2).
+        
+    Returns:
+        pd.DataFrame: Le classement final moyen avec les probabilités.
+    """
+    model, encoder = load_resources()
+    
+    if model is None:
+        st.error("Model file not found. Please ensure 'rugby_xgb.pkl' is in the models directory.")
+        st.stop()
+
+    teams = list(CLUB_METADATA.keys())
     model, encoder = load_resources()
     
     if model is None:
