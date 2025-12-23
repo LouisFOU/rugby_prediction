@@ -170,6 +170,45 @@ def run_simulation(n_simulations: int, chaos_factor: float) -> pd.DataFrame:
 
 # --- 4. USER INTERFACE (UI) ---
 
+def generate_heatmap(model, encoder):
+    """Génère une matrice des probabilités de victoire à domicile."""
+    teams = sorted(list(CLUB_METADATA.keys()))
+    matrix_data = []
+
+    for home in teams:
+        row = {}
+        for away in teams:
+            if home == away:
+                row[away] = None # Pas de match contre soi-même
+                continue
+
+            # On prépare les données du match fictif
+            hm, am = CLUB_METADATA[home], CLUB_METADATA[away]
+            try:
+                h_code = encoder.transform([hm.get('proxy_model', home)])[0]
+                a_code = encoder.transform([am.get('proxy_model', away)])[0]
+            except:
+                row[away] = 0.5
+                continue
+
+            match_data = pd.DataFrame([{
+                'home_team_code': h_code, 'away_team_code': a_code,
+                'home_budget': hm['budget'], 'away_budget': am['budget'],
+                'stadium_capacity': hm['capacity'], 'is_international_window': 0,
+                'home_exp': hm['exp'], 'away_exp': am['exp'],
+                'home_stars': hm['stars'], 'away_stars': am['stars'],
+                'home_struggle': hm['struggle'], 'away_struggle': am['struggle']
+            }])
+            
+            # Prediction brute
+            proba = model.predict_proba(match_data)[0][1] # Proba victoire domicile
+            row[away] = proba
+            
+        matrix_data.append(row)
+
+    df_matrix = pd.DataFrame(matrix_data, index=teams)
+    return df_matrix
+
 st.title("Top 14 Performance Model (2026 Forecast)")
 st.markdown("""
 **Predictive Analytics Dashboard** based on XGBoost & Monte Carlo Simulations.
@@ -203,6 +242,7 @@ if launch_btn:
     st.subheader("Forecasted Standings & Probabilities")
     
     # Data Table
+   # Data Table
     st.dataframe(
         df_results,
         column_config={
@@ -221,7 +261,23 @@ if launch_btn:
         hide_index=True,
         use_container_width=True,
         height=600
-    )
+    ) # <--- J'ai ajouté la parenthèse fermante ici !
+
+    st.divider()
+    st.subheader("🔥 Win Probability Heatmap (Home Advantage)")
+    st.markdown("This matrix shows the probability of the **Home Team (Rows)** beating the **Away Team (Columns)**.")
+    
+    # On charge le modèle juste pour la matrice
+    model_inst, encoder_inst = load_resources()
+    if model_inst:
+        df_heatmap = generate_heatmap(model_inst, encoder_inst)
+        
+        # Affichage avec un dégradé de couleurs (Heatmap)
+        st.dataframe(
+            df_heatmap.style.background_gradient(cmap="RdYlGn", axis=None, vmin=0, vmax=1).format("{:.0%}"), # <-- Virgule ajoutée ici
+            height=600,
+            use_container_width=True
+        )
 
 else:
     st.info("Configure simulation parameters in the sidebar and click **Run Analysis** to proceed.")
