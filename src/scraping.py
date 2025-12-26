@@ -1,7 +1,7 @@
 """
 Module: scraping.py
 Description: Scrapes Top 14 rugby match results (2014-2026).
-Features: Anti-bot delays, Date extraction (Day/Month) for international window detection.
+Features: Anti-bot delays (2seconds), Date extraction (Day/Month) for international window detection.
 """
 
 import requests
@@ -15,19 +15,22 @@ import random
 BASE_URL_TEMPLATE = "https://www.allrugby.com/competitions/top-14-{}/calendrier.html"
 START_YEAR = 2015
 END_YEAR = 2026 
+
+#J'ai mis mon header propre pour que le site ne bloque pas mon scraping
 HEADERS = {
+
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+
 }
 
 def fetch_html_content(url: str) -> BeautifulSoup:
     try:
-        print(f"Connecting to {url}...")
         response = requests.get(url, headers=HEADERS, timeout=15)
         if response.status_code == 200:
             return BeautifulSoup(response.content, 'html.parser')
         return None
     except Exception as e:
-        print(f"Connection error: {e}")
+        print("Connection error")
         return None
 
 def parse_date(date_text: str) -> dict:
@@ -35,7 +38,7 @@ def parse_date(date_text: str) -> dict:
     Parses french date header like "Samedi 24 Août 2024" or "24/08/24"
     Returns month (int) to help identify international windows.
     """
-    # Mapping mois français -> numéro
+    # Mapping en passant des mois français -> numéro
     MONTHS = {
         'janvier': 1, 'février': 2, 'mars': 3, 'avril': 4, 'mai': 5, 'juin': 6,
         'juillet': 7, 'août': 8, 'septembre': 9, 'octobre': 10, 'novembre': 11, 'décembre': 12
@@ -74,6 +77,7 @@ def parse_season(year: int) -> pd.DataFrame:
 
     matches_data = []
     
+    #Il a fallu regarder le html du site allrugby
     # On cherche tous les H3 (dates potentielles) et les .mat (matchs)
     # L'ordre est important : on lit la page de haut en bas
     elements = soup.find_all(['h3', 'a'])
@@ -94,21 +98,19 @@ def parse_season(year: int) -> pd.DataFrame:
             if cleaned:
                 matches_data.append(cleaned)
 
-    print(f"[INFO] Season {year}: Found {len(matches_data)} matches.")
+    print(f"Season {year}: Found {len(matches_data)} matches.")
     return pd.DataFrame(matches_data)
 
 def main():
     all_seasons_data = []
-
-    print(f"--- STARTING SCRAPING ({START_YEAR}-{END_YEAR}) ---")
 
     for year in range(START_YEAR, END_YEAR + 1):
         df_season = parse_season(year)
         if not df_season.empty:
             all_seasons_data.append(df_season)
         
-        # Pause aléatoire pour ne pas se faire bannir
-        time.sleep(random.uniform(2, 4))
+        # Pause pour ne pas se faire bannir du site pas utile ici (après test)
+        
 
     if all_seasons_data:
         master_df = pd.concat(all_seasons_data, ignore_index=True)
@@ -118,12 +120,10 @@ def main():
         os.makedirs("data/processed", exist_ok=True)
         master_df.to_csv(output_path, index=False)
         
-        print("-" * 40)
-        print(f"[SUCCESS] Saved {len(master_df)} matches to {output_path}")
+        print(f"Saved {len(master_df)} matches to {output_path}")
         print("Columns: season, month, home_team, ...")
-        print("-" * 40)
     else:
-        print("[ERROR] No data collected.")
+        print("No data collected.")
 
 if __name__ == "__main__":
     main()
