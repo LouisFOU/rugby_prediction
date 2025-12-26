@@ -33,25 +33,6 @@ def fetch_html_content(url: str) -> BeautifulSoup:
         print("Connection error")
         return None
 
-def parse_date(date_text: str) -> dict:
-    """
-    Parses french date header like "Samedi 24 Août 2024" or "24/08/24"
-    Returns month (int) to help identify international windows.
-    """
-    # Mapping en passant des mois français -> numéro
-    MONTHS = {
-        'janvier': 1, 'février': 2, 'mars': 3, 'avril': 4, 'mai': 5, 'juin': 6,
-        'juillet': 7, 'août': 8, 'septembre': 9, 'octobre': 10, 'novembre': 11, 'décembre': 12
-    }
-    
-    try:
-        clean_text = date_text.lower()
-        for name, num in MONTHS.items():
-            if name in clean_text:
-                return num
-    except:
-        pass
-    return None
 
 def clean_match_data(raw_text: str, year: int, month: int) -> dict:
     pattern = r"(.*?) (\d+)\s*-\s*(\d+) (.*)"
@@ -60,7 +41,6 @@ def clean_match_data(raw_text: str, year: int, month: int) -> dict:
     if match:
         return {
             'season': year,
-            'month': month if month else 0,  # 0 si date non trouvée
             'home_team': match.group(1).strip(),
             'home_score': int(match.group(2)),
             'away_score': int(match.group(3)),

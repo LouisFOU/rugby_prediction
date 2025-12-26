@@ -1,1997 +1,1997 @@
-season,month,home_team,home_score,away_score,away_team
-2015,0,Bayonne,15,29,Toulon
-2015,0,Clermont,30,26,Grenoble
-2015,0,Bordeaux,18,9,Lyon
-2015,0,Brive,37,15,La Rochelle
-2015,0,Castres,22,25,Paris
-2015,0,Toulouse,20,19,Oyonnax
-2015,0,Montpellier,16,19,Racing 92
-2015,0,Toulouse,35,6,Castres
-2015,0,Brive,6,21,Clermont
-2015,0,Bayonne,38,12,Oyonnax
-2015,0,Bordeaux,30,21,Racing 92
-2015,0,Montpellier,20,17,Grenoble
-2015,0,Toulon,60,19,La Rochelle
-2015,0,Paris,23,20,Lyon
-2015,0,Clermont,20,21,Montpellier
-2015,0,La Rochelle,37,25,Toulouse
-2015,0,Castres,30,6,Bayonne
-2015,0,Grenoble,37,23,Bordeaux
-2015,0,Lyon,24,6,Brive
-2015,0,Oyonnax,33,6,Paris
-2015,0,Racing 92,17,10,Toulon
-2015,0,Montpellier,43,10,Castres
-2015,0,Brive,26,19,Toulouse
-2015,0,Clermont,32,6,Racing 92
-2015,0,Grenoble,30,12,La Rochelle
-2015,0,Lyon,26,23,Oyonnax
-2015,0,Paris,34,29,Bayonne
-2015,0,Toulon,18,13,Bordeaux
-2015,0,La Rochelle,41,16,Castres
-2015,0,Toulouse,9,13,Clermont
-2015,0,Bayonne,23,6,Brive
-2015,0,Oyonnax,40,27,Grenoble
-2015,0,Racing 92,28,11,Lyon
-2015,0,Toulon,24,28,Paris
-2015,0,Bordeaux,27,21,Montpellier
-2015,0,Brive,13,53,Toulon
-2015,0,Racing 92,27,16,Toulouse
-2015,0,Castres,27,18,Oyonnax
-2015,0,Clermont,43,12,Lyon
-2015,0,Grenoble,24,15,Bayonne
-2015,0,La Rochelle,26,29,Bordeaux
-2015,0,Montpellier,23,3,Paris
-2015,0,Bayonne,35,19,Toulouse
-2015,0,Toulon,40,17,Montpellier
-2015,0,Brive,34,24,Bordeaux
-2015,0,Grenoble,27,25,Racing 92
-2015,0,Lyon,28,18,Castres
-2015,0,Paris,43,10,La Rochelle
-2015,0,Oyonnax,8,19,Clermont
-2015,0,Oyonnax,18,21,Toulon
-2015,0,Bordeaux,51,21,Clermont
-2015,0,Bayonne,10,15,Montpellier
-2015,0,Castres,51,10,Grenoble
-2015,0,La Rochelle,29,10,Lyon
-2015,0,Racing 92,46,32,Brive
-2015,0,Toulouse,22,10,Paris
-2015,0,Grenoble,26,25,Brive
-2015,0,Bordeaux,59,7,Castres
-2015,0,Clermont,30,10,La Rochelle
-2015,0,Lyon,24,19,Bayonne
-2015,0,Montpellier,25,9,Oyonnax
-2015,0,Paris,23,19,Racing 92
-2015,0,Toulouse,21,10,Toulon
-2015,0,Lyon,17,41,Toulouse
-2015,0,Brive,21,15,Castres
-2015,0,La Rochelle,21,15,Montpellier
-2015,0,Paris,39,22,Bordeaux
-2015,0,Racing 92,17,21,Oyonnax
-2015,0,Bayonne,24,13,Clermont
-2015,0,Toulon,61,28,Grenoble
-2015,0,Montpellier,10,25,Brive
-2015,0,Castres,22,14,Toulon
-2015,0,Clermont,51,9,Paris
-2015,0,Grenoble,34,30,Lyon
-2015,0,Oyonnax,37,9,La Rochelle
-2015,0,Racing 92,27,10,Bayonne
-2015,0,Bordeaux,20,21,Toulouse
-2015,0,Toulon,27,19,Clermont
-2015,0,Castres,9,14,Racing 92
-2015,0,La Rochelle,19,19,Bayonne
-2015,0,Lyon,23,20,Montpellier
-2015,0,Oyonnax,28,23,Bordeaux
-2015,0,Toulouse,22,25,Grenoble
-2015,0,Paris,20,17,Brive
-2015,0,Grenoble,30,43,Paris
-2015,0,Montpellier,23,20,Toulouse
-2015,0,Bayonne,15,12,Bordeaux
-2015,0,Brive,19,6,Oyonnax
-2015,0,Racing 92,27,8,La Rochelle
-2015,0,Toulon,30,6,Lyon
-2015,0,Clermont,19,10,Castres
-2015,0,Toulouse,15,9,Racing 92
-2015,0,Bordeaux,46,10,Brive
-2015,0,Castres,27,9,Montpellier
-2015,0,La Rochelle,19,15,Grenoble
-2015,0,Oyonnax,12,9,Bayonne
-2015,0,Lyon,16,13,Clermont
-2015,0,Paris,30,6,Toulon
-2015,0,Lyon,12,9,Paris
-2015,0,Racing 92,12,9,Bordeaux
-2015,0,Brive,25,9,Bayonne
-2015,0,Castres,30,15,La Rochelle
-2015,0,Grenoble,33,19,Oyonnax
-2015,0,Montpellier,16,12,Toulon
-2015,0,Clermont,24,6,Toulouse
-2015,0,Paris,49,13,Castres
-2015,0,Toulon,32,23,Racing 92
-2015,0,Bayonne,23,22,Lyon
-2015,0,Bordeaux,34,16,Grenoble
-2015,0,Oyonnax,20,13,Montpellier
-2015,0,Toulouse,29,26,La Rochelle
-2015,0,Clermont,44,20,Brive
-2015,0,Toulon,24,17,Bayonne
-2015,0,Montpellier,34,24,Bordeaux
-2015,0,Brive,23,0,Grenoble
-2015,0,La Rochelle,16,12,Clermont
-2015,0,Lyon,11,13,Racing 92
-2015,0,Paris,13,15,Oyonnax
-2015,0,Castres,9,13,Toulouse
-2015,0,La Rochelle,19,12,Brive
-2015,0,Bordeaux,28,23,Toulon
-2015,0,Bayonne,23,6,Paris
-2015,0,Grenoble,20,18,Montpellier
-2015,0,Oyonnax,23,13,Castres
-2015,0,Toulouse,23,20,Lyon
-2015,0,Racing 92,13,13,Clermont
-2015,0,Oyonnax,9,3,Toulouse
-2015,0,Bordeaux,22,23,Paris
-2015,0,Castres,23,20,Lyon
-2015,0,Clermont,28,16,Bayonne
-2015,0,Montpellier,15,15,La Rochelle
-2015,0,Racing 92,34,29,Grenoble
-2015,0,Toulon,34,11,Brive
-2015,0,Clermont,31,23,Bordeaux
-2015,0,Toulouse,18,13,Montpellier
-2015,0,Bayonne,21,19,Castres
-2015,0,Brive,36,12,Racing 92
-2015,0,La Rochelle,35,20,Oyonnax
-2015,0,Paris,21,30,Grenoble
-2015,0,Lyon,14,22,Toulon
-2015,0,Bayonne,6,12,Racing 92
-2015,0,Paris,40,26,Clermont
-2015,0,Bordeaux,21,22,La Rochelle
-2015,0,Montpellier,45,17,Lyon
-2015,0,Oyonnax,24,3,Brive
-2015,0,Toulon,24,34,Toulouse
-2015,0,Grenoble,12,16,Castres
-2015,0,La Rochelle,19,19,Paris
-2015,0,Racing 92,24,24,Montpellier
-2015,0,Brive,22,20,Lyon
-2015,0,Clermont,10,11,Oyonnax
-2015,0,Toulouse,20,17,Bayonne
-2015,0,Grenoble,24,35,Toulon
-2015,0,Castres,22,20,Bordeaux
-2015,0,Paris,12,21,Toulouse
-2015,0,La Rochelle,32,29,Toulon
-2015,0,Bayonne,42,33,Grenoble
-2015,0,Brive,15,10,Montpellier
-2015,0,Lyon,22,37,Bordeaux
-2015,0,Oyonnax,21,16,Racing 92
-2015,0,Castres,31,10,Clermont
-2015,0,Toulon,37,21,Castres
-2015,0,Bordeaux,26,23,Oyonnax
-2015,0,Lyon,16,16,La Rochelle
-2015,0,Montpellier,33,16,Bayonne
-2015,0,Toulouse,67,19,Brive
-2015,0,Grenoble,17,37,Clermont
-2015,0,Racing 92,19,28,Paris
-2015,0,Oyonnax,28,10,Lyon
-2015,0,Grenoble,32,11,Toulouse
-2015,0,Bordeaux,38,20,Bayonne
-2015,0,Castres,32,12,Brive
-2015,0,La Rochelle,18,18,Racing 92
-2015,0,Paris,35,21,Montpellier
-2015,0,Clermont,22,19,Toulon
-2015,0,Bayonne,45,12,La Rochelle
-2015,0,Brive,27,0,Paris
-2015,0,Lyon,29,24,Grenoble
-2015,0,Montpellier,17,29,Clermont
-2015,0,Racing 92,53,10,Castres
-2015,0,Toulon,46,17,Oyonnax
-2015,0,Toulouse,23,22,Bordeaux
-2015,0,Paris,38,15,Racing 92
-2015,0,Toulouse,20,19,Oyonnax
-2015,0,Toulon,16,33,Paris
-2015,0,Clermont,18,14,Toulouse
-2015,0,Clermont,6,12,Paris
-2016,0,Toulon,22,27,Racing 92
-2016,0,La Rochelle,6,44,Clermont
-2016,0,Toulouse,24,7,Brive
-2016,0,Montpellier,35,19,Oyonnax
-2016,0,Grenoble,38,23,Agen
-2016,0,Bordeaux,19,16,Castres
-2016,0,Paris,34,18,Pau
-2016,0,Clermont,25,6,Grenoble
-2016,0,Agen,9,20,Toulouse
-2016,0,Racing 92,20,19,La Rochelle
-2016,0,Oyonnax,37,19,Bordeaux
-2016,0,Pau,26,16,Montpellier
-2016,0,Brive,22,13,Paris
-2016,0,Castres,24,9,Toulon
-2016,0,Oyonnax,24,41,Clermont
-2016,0,La Rochelle,21,18,Brive
-2016,0,Grenoble,41,15,Pau
-2016,0,Agen,30,18,Racing 92
-2016,0,Toulouse,37,20,Castres
-2016,0,Bordeaux,22,24,Montpellier
-2016,0,Paris,13,20,Toulon
-2016,0,Castres,35,26,Oyonnax
-2016,0,Toulon,45,24,La Rochelle
-2016,0,Racing 92,23,14,Grenoble
-2016,0,Montpellier,44,20,Paris
-2016,0,Clermont,26,26,Bordeaux
-2016,0,Brive,18,12,Agen
-2016,0,Pau,9,6,Toulouse
-2016,0,Clermont,35,10,Pau
-2016,0,Oyonnax,9,18,Racing 92
-2016,0,Grenoble,19,30,Montpellier
-2016,0,Agen,16,31,Bordeaux
-2016,0,Paris,22,9,Castres
-2016,0,Toulouse,39,22,La Rochelle
-2016,0,Brive,29,26,Toulon
-2016,0,Racing 92,27,18,Paris
-2016,0,Castres,23,31,Grenoble
-2016,0,Pau,13,18,Brive
-2016,0,Toulon,61,3,Oyonnax
-2016,0,Bordeaux,12,10,Toulouse
-2016,0,Montpellier,24,19,Clermont
-2016,0,La Rochelle,23,6,Agen
-2016,0,Bordeaux,21,16,La Rochelle
-2016,0,Oyonnax,42,23,Pau
-2016,0,Agen,28,23,Paris
-2016,0,Racing 92,17,14,Brive
-2016,0,Montpellier,25,33,Toulouse
-2016,0,Clermont,42,13,Castres
-2016,0,Grenoble,33,29,Toulon
-2016,0,Toulon,52,8,Montpellier
-2016,0,La Rochelle,38,3,Oyonnax
-2016,0,Pau,33,31,Agen
-2016,0,Brive,16,3,Bordeaux
-2016,0,Toulouse,52,12,Grenoble
-2016,0,Castres,34,8,Racing 92
-2016,0,Paris,14,9,Clermont
-2016,0,Montpellier,25,20,La Rochelle
-2016,0,Racing 92,28,13,Toulouse
-2016,0,Oyonnax,9,34,Brive
-2016,0,Bordeaux,46,10,Pau
-2016,0,Agen,18,23,Castres
-2016,0,Clermont,9,35,Toulon
-2016,0,Grenoble,19,21,Paris
-2016,0,Pau,15,15,Racing 92
-2016,0,Toulon,53,23,Agen
-2016,0,Castres,34,19,Montpellier
-2016,0,La Rochelle,33,16,Grenoble
-2016,0,Paris,21,24,Bordeaux
-2016,0,Toulouse,27,3,Oyonnax
-2016,0,Brive,21,26,Clermont
-2016,0,Oyonnax,25,12,Paris
-2016,0,Montpellier,45,20,Agen
-2016,0,Pau,15,11,La Rochelle
-2016,0,Castres,23,8,Brive
-2016,0,Bordeaux,25,19,Grenoble
-2016,0,Clermont,16,20,Racing 92
-2016,0,Toulouse,31,8,Toulon
-2016,0,Agen,16,33,Clermont
-2016,0,La Rochelle,25,21,Castres
-2016,0,Grenoble,42,17,Oyonnax
-2016,0,Racing 92,23,18,Bordeaux
-2016,0,Brive,19,18,Montpellier
-2016,0,Toulon,21,17,Pau
-2016,0,Paris,18,17,Toulouse
-2016,0,Bordeaux,15,12,Toulon
-2016,0,Paris,33,20,La Rochelle
-2016,0,Montpellier,60,7,Racing 92
-2016,0,Oyonnax,30,28,Agen
-2016,0,Pau,21,16,Castres
-2016,0,Grenoble,26,22,Brive
-2016,0,Clermont,32,23,Toulouse
-2016,0,Brive,28,6,La Rochelle
-2016,0,Clermont,15,19,Montpellier
-2016,0,Castres,19,9,Bordeaux
-2016,0,Racing 92,26,3,Oyonnax
-2016,0,Agen,27,33,Grenoble
-2016,0,Toulouse,54,3,Pau
-2016,0,Toulon,23,16,Paris
-2016,0,Paris,32,17,Brive
-2016,0,Castres,17,28,Clermont
-2016,0,Montpellier,16,19,Pau
-2016,0,Bordeaux,24,19,Agen
-2016,0,Grenoble,35,39,Racing 92
-2016,0,La Rochelle,28,8,Toulouse
-2016,0,Oyonnax,13,44,Toulon
-2016,0,Toulon,44,15,Brive
-2016,0,Paris,18,33,Grenoble
-2016,0,Agen,31,27,La Rochelle
-2016,0,Clermont,44,16,Oyonnax
-2016,0,Pau,3,15,Bordeaux
-2016,0,Racing 92,9,13,Castres
-2016,0,Toulouse,29,31,Montpellier
-2016,0,Grenoble,12,45,Clermont
-2016,0,Brive,21,21,Toulouse
-2016,0,Racing 92,38,13,Agen
-2016,0,Pau,19,12,Paris
-2016,0,Bordeaux,48,20,Oyonnax
-2016,0,Montpellier,22,19,Castres
-2016,0,La Rochelle,19,14,Toulon
-2016,0,Toulouse,13,13,Bordeaux
-2016,0,Paris,16,34,Racing 92
-2016,0,Clermont,25,6,Brive
-2016,0,La Rochelle,35,16,Pau
-2016,0,Castres,50,6,Agen
-2016,0,Toulon,38,8,Grenoble
-2016,0,Oyonnax,10,31,Montpellier
-2016,0,Racing 92,20,21,Toulon
-2016,0,Brive,23,22,Castres
-2016,0,Grenoble,39,23,La Rochelle
-2016,0,Agen,21,45,Montpellier
-2016,0,Pau,25,6,Oyonnax
-2016,0,Bordeaux,19,24,Clermont
-2016,0,Toulouse,36,3,Paris
-2016,0,Montpellier,19,3,Brive
-2016,0,Castres,15,9,Toulouse
-2016,0,Agen,26,33,Pau
-2016,0,Oyonnax,20,27,Grenoble
-2016,0,La Rochelle,21,18,Paris
-2016,0,Bordeaux,20,28,Racing 92
-2016,0,Toulon,18,19,Clermont
-2016,0,Grenoble,28,33,Castres
-2016,0,Pau,9,25,Toulon
-2016,0,Brive,31,13,Oyonnax
-2016,0,Clermont,38,10,Agen
-2016,0,La Rochelle,22,15,Bordeaux
-2016,0,Paris,20,26,Montpellier
-2016,0,Toulouse,14,3,Racing 92
-2016,0,Toulon,10,12,Toulouse
-2016,0,Montpellier,51,10,Grenoble
-2016,0,Oyonnax,17,16,La Rochelle
-2016,0,Castres,37,6,Pau
-2016,0,Agen,37,19,Brive
-2016,0,Bordeaux,35,25,Paris
-2016,0,Racing 92,26,20,Clermont
-2016,0,Grenoble,14,20,Bordeaux
-2016,0,La Rochelle,36,10,Montpellier
-2016,0,Pau,10,16,Clermont
-2016,0,Paris,69,8,Oyonnax
-2016,0,Brive,33,27,Racing 92
-2016,0,Toulouse,52,19,Agen
-2016,0,Toulon,17,7,Castres
-2016,0,Agen,13,52,Toulon
-2016,0,Racing 92,43,13,Pau
-2016,0,Castres,67,20,La Rochelle
-2016,0,Oyonnax,17,25,Toulouse
-2016,0,Brive,45,24,Grenoble
-2016,0,Montpellier,19,16,Bordeaux
-2016,0,Clermont,36,10,Paris
-2016,0,La Rochelle,14,30,Racing 92
-2016,0,Bordeaux,34,7,Brive
-2016,0,Paris,28,26,Agen
-2016,0,Pau,29,12,Grenoble
-2016,0,Oyonnax,20,25,Castres
-2016,0,Toulouse,22,11,Clermont
-2016,0,Montpellier,36,21,Toulon
-2016,0,Grenoble,14,53,Toulouse
-2016,0,Toulon,44,3,Bordeaux
-2016,0,Brive,46,10,Pau
-2016,0,Clermont,57,8,La Rochelle
-2016,0,Agen,23,19,Oyonnax
-2016,0,Racing 92,40,25,Montpellier
-2016,0,Castres,35,14,Paris
-2016,0,Racing 92,21,16,Toulouse
-2016,0,Montpellier,28,9,Castres
-2016,0,Clermont,33,34,Racing 92
-2016,0,Toulon,27,18,Montpellier
-2016,0,Toulon,21,29,Racing 92
-2017,0,Bordeaux,15,9,Racing 92
-2017,0,Castres,28,11,Pau
-2017,0,La Rochelle,30,30,Clermont
-2017,0,Lyon,15,15,Brive
-2017,0,Paris,54,20,Grenoble
-2017,0,Toulouse,20,12,Montpellier
-2017,0,Bayonne,28,23,Toulon
-2017,0,Pau,18,22,Toulon
-2017,0,Bayonne,12,12,Castres
-2017,0,Brive,28,20,Paris
-2017,0,Grenoble,19,22,La Rochelle
-2017,0,Racing 92,29,16,Lyon
-2017,0,Toulouse,22,17,Bordeaux
-2017,0,Montpellier,22,26,Clermont
-2017,0,Paris,30,30,Clermont
-2017,0,Castres,18,26,La Rochelle
-2017,0,Lyon,32,13,Grenoble
-2017,0,Pau,25,9,Bayonne
-2017,0,Toulon,21,25,Brive
-2017,0,Bordeaux,15,32,Montpellier
-2017,0,Racing 92,28,14,Toulouse
-2017,0,Paris,29,25,Castres
-2017,0,Bordeaux,40,20,Bayonne
-2017,0,La Rochelle,43,18,Lyon
-2017,0,Montpellier,41,13,Pau
-2017,0,Clermont,47,10,Racing 92
-2017,0,Grenoble,36,23,Brive
-2017,0,Toulouse,15,32,Toulon
-2017,0,Lyon,25,20,Toulouse
-2017,0,Bayonne,9,21,Montpellier
-2017,0,Brive,29,28,La Rochelle
-2017,0,Pau,23,6,Paris
-2017,0,Clermont,40,16,Bordeaux
-2017,0,Castres,46,9,Grenoble
-2017,0,Racing 92,41,30,Toulon
-2017,0,Castres,31,23,Racing 92
-2017,0,Bordeaux,32,10,Lyon
-2017,0,Grenoble,38,39,Pau
-2017,0,La Rochelle,34,17,Bayonne
-2017,0,Toulouse,23,18,Paris
-2017,0,Montpellier,42,13,Brive
-2017,0,Toulon,23,21,Clermont
-2017,0,Clermont,29,19,Castres
-2017,0,Bayonne,22,22,Lyon
-2017,0,Pau,28,30,Bordeaux
-2017,0,Toulouse,31,3,Grenoble
-2017,0,Brive,25,16,Racing 92
-2017,0,Paris,31,26,La Rochelle
-2017,0,Toulon,28,6,Montpellier
-2017,0,Racing 92,29,22,Paris
-2017,0,Bordeaux,27,25,Brive
-2017,0,Grenoble,44,16,Bayonne
-2017,0,Montpellier,28,19,Castres
-2017,0,La Rochelle,17,17,Toulon
-2017,0,Lyon,27,22,Pau
-2017,0,Clermont,29,25,Toulouse
-2017,0,Pau,20,24,Toulouse
-2017,0,Montpellier,12,11,La Rochelle
-2017,0,Paris,25,19,Lyon
-2017,0,Toulon,42,12,Grenoble
-2017,0,Bayonne,3,16,Racing 92
-2017,0,Castres,33,27,Bordeaux
-2017,0,Brive,16,40,Clermont
-2017,0,Bordeaux,37,19,Paris
-2017,0,Brive,26,9,Bayonne
-2017,0,Clermont,21,20,Grenoble
-2017,0,Toulouse,16,15,Castres
-2017,0,Racing 92,21,9,Montpellier
-2017,0,La Rochelle,27,6,Pau
-2017,0,Lyon,27,13,Toulon
-2017,0,Pau,26,17,Racing 92
-2017,0,Castres,32,13,Brive
-2017,0,Grenoble,22,24,Bordeaux
-2017,0,Montpellier,25,20,Lyon
-2017,0,Bayonne,22,14,Clermont
-2017,0,La Rochelle,25,19,Toulouse
-2017,0,Toulon,31,12,Paris
-2017,0,Castres,34,17,Toulon
-2017,0,Bordeaux,26,0,La Rochelle
-2017,0,Brive,38,25,Pau
-2017,0,Clermont,16,13,Lyon
-2017,0,Racing 92,29,24,Grenoble
-2017,0,Paris,21,17,Montpellier
-2017,0,Bayonne,16,13,Toulouse
-2017,0,Pau,40,35,Clermont
-2017,0,Grenoble,37,51,Montpellier
-2017,0,Lyon,19,23,Castres
-2017,0,Paris,51,5,Bayonne
-2017,0,La Rochelle,23,23,Racing 92
-2017,0,Toulouse,30,12,Brive
-2017,0,Toulon,37,10,Bordeaux
-2017,0,Grenoble,26,22,Toulouse
-2017,0,Brive,22,6,Lyon
-2017,0,Bayonne,17,42,La Rochelle
-2017,0,Bordeaux,16,18,Pau
-2017,0,Clermont,46,10,Paris
-2017,0,Racing 92,23,10,Castres
-2017,0,Montpellier,33,29,Toulon
-2017,0,Lyon,19,16,Bordeaux
-2017,0,Pau,32,27,Montpellier
-2017,0,Castres,47,18,Bayonne
-2017,0,Paris,12,10,Brive
-2017,0,Toulouse,26,20,Clermont
-2017,0,La Rochelle,40,3,Grenoble
-2017,0,Toulon,17,11,Racing 92
-2017,0,Montpellier,31,26,Bordeaux
-2017,0,Brive,23,22,Grenoble
-2017,0,La Rochelle,22,8,Castres
-2017,0,Paris,15,18,Toulouse
-2017,0,Clermont,30,6,Toulon
-2017,0,Racing 92,59,20,Bayonne
-2017,0,Pau,38,15,Lyon
-2017,0,Toulon,20,23,La Rochelle
-2017,0,Castres,38,25,Montpellier
-2017,0,Grenoble,44,22,Paris
-2017,0,Toulouse,10,20,Pau
-2017,0,Lyon,37,25,Racing 92
-2017,0,Bayonne,33,23,Brive
-2017,0,Bordeaux,23,23,Clermont
-2017,0,La Rochelle,37,18,Paris
-2017,0,Clermont,46,27,Bayonne
-2017,0,Pau,39,22,Grenoble
-2017,0,Racing 92,33,25,Brive
-2017,0,Toulon,31,17,Lyon
-2017,0,Bordeaux,17,29,Castres
-2017,0,Montpellier,27,18,Toulouse
-2017,0,Castres,26,16,Clermont
-2017,0,Bayonne,25,25,Pau
-2017,0,Grenoble,19,10,Racing 92
-2017,0,Brive,15,5,Toulon
-2017,0,Lyon,16,3,Montpellier
-2017,0,Paris,32,9,Bordeaux
-2017,0,Toulouse,21,27,La Rochelle
-2017,0,Bordeaux,46,14,Grenoble
-2017,0,Lyon,35,33,Paris
-2017,0,Toulon,82,14,Bayonne
-2017,0,Brive,21,19,Toulouse
-2017,0,Racing 92,15,38,La Rochelle
-2017,0,Pau,18,12,Castres
-2017,0,Clermont,19,28,Montpellier
-2017,0,Bayonne,24,20,Bordeaux
-2017,0,Clermont,65,13,Pau
-2017,0,La Rochelle,36,17,Brive
-2017,0,Toulouse,42,26,Lyon
-2017,0,Grenoble,23,23,Toulon
-2017,0,Castres,33,10,Paris
-2017,0,Montpellier,54,3,Racing 92
-2017,0,Racing 92,27,24,Clermont
-2017,0,Grenoble,21,20,Castres
-2017,0,Lyon,52,7,Bayonne
-2017,0,Pau,13,23,La Rochelle
-2017,0,Bordeaux,20,11,Toulouse
-2017,0,Brive,28,25,Montpellier
-2017,0,Paris,17,11,Toulon
-2017,0,La Rochelle,16,5,Bordeaux
-2017,0,Bayonne,16,32,Paris
-2017,0,Castres,16,17,Lyon
-2017,0,Montpellier,54,14,Grenoble
-2017,0,Clermont,21,26,Brive
-2017,0,Racing 92,34,32,Pau
-2017,0,Toulon,33,23,Toulouse
-2017,0,Toulon,23,14,Castres
-2017,0,Brive,19,22,Bordeaux
-2017,0,Grenoble,18,59,Clermont
-2017,0,Paris,51,16,Pau
-2017,0,Lyon,29,25,La Rochelle
-2017,0,Montpellier,61,22,Bayonne
-2017,0,Toulouse,8,10,Racing 92
-2017,0,Castres,52,7,Toulouse
-2017,0,Bayonne,43,35,Grenoble
-2017,0,Lyon,20,23,Clermont
-2017,0,Pau,32,27,Brive
-2017,0,Bordeaux,13,26,Toulon
-2017,0,La Rochelle,40,37,Montpellier
-2017,0,Paris,27,23,Racing 92
-2017,0,Brive,33,27,Castres
-2017,0,Clermont,30,26,La Rochelle
-2017,0,Grenoble,53,21,Lyon
-2017,0,Montpellier,27,26,Paris
-2017,0,Racing 92,22,20,Bordeaux
-2017,0,Toulon,32,12,Pau
-2017,0,Toulouse,40,12,Bayonne
-2017,0,Toulon,26,22,Castres
-2017,0,Montpellier,13,22,Racing 92
-2017,0,La Rochelle,15,18,Toulon
-2017,0,Clermont,37,31,Racing 92
-2017,0,Clermont,22,16,Toulon
-2018,0,Oyonnax,23,23,Toulouse
-2018,0,Brive,10,19,La Rochelle
-2018,0,Montpellier,48,19,Agen
-2018,0,Paris,16,25,Lyon
-2018,0,Racing 92,25,21,Castres
-2018,0,Bordeaux,32,25,Clermont
-2018,0,Toulon,41,14,Pau
-2018,0,Agen,23,19,Racing 92
-2018,0,Paris,35,24,La Rochelle
-2018,0,Castres,33,19,Bordeaux
-2018,0,Lyon,29,14,Brive
-2018,0,Montpellier,37,6,Oyonnax
-2018,0,Toulouse,23,19,Pau
-2018,0,Clermont,21,16,Toulon
-2018,0,La Rochelle,51,20,Clermont
-2018,0,Bordeaux,30,10,Paris
-2018,0,Brive,6,25,Racing 92
-2018,0,Oyonnax,12,10,Agen
-2018,0,Castres,17,22,Montpellier
-2018,0,Pau,30,14,Lyon
-2018,0,Toulon,20,16,Toulouse
-2018,0,Toulouse,53,17,Paris
-2018,0,Agen,15,20,La Rochelle
-2018,0,Lyon,49,14,Bordeaux
-2018,0,Pau,28,13,Castres
-2018,0,Clermont,62,6,Brive
-2018,0,Racing 92,25,13,Oyonnax
-2018,0,Montpellier,43,20,Toulon
-2018,0,Clermont,23,21,Racing 92
-2018,0,Agen,14,20,Pau
-2018,0,Bordeaux,47,17,Montpellier
-2018,0,La Rochelle,57,12,Oyonnax
-2018,0,Brive,19,22,Toulouse
-2018,0,Lyon,31,12,Castres
-2018,0,Paris,15,19,Toulon
-2018,0,Toulon,26,20,La Rochelle
-2018,0,Oyonnax,9,39,Bordeaux
-2018,0,Pau,23,25,Paris
-2018,0,Toulouse,30,10,Agen
-2018,0,Racing 92,17,20,Lyon
-2018,0,Montpellier,54,10,Brive
-2018,0,Castres,29,23,Clermont
-2018,0,Paris,31,20,Montpellier
-2018,0,Bordeaux,30,27,Toulon
-2018,0,Brive,27,22,Castres
-2018,0,Oyonnax,16,19,Pau
-2018,0,Agen,6,25,Lyon
-2018,0,La Rochelle,16,9,Racing 92
-2018,0,Toulouse,28,18,Clermont
-2018,0,Toulon,41,24,Brive
-2018,0,Lyon,52,18,Oyonnax
-2018,0,Pau,16,22,Montpellier
-2018,0,Racing 92,29,13,Bordeaux
-2018,0,Clermont,33,10,Paris
-2018,0,Castres,43,28,Agen
-2018,0,La Rochelle,37,21,Toulouse
-2018,0,Toulouse,38,37,Bordeaux
-2018,0,Lyon,15,19,La Rochelle
-2018,0,Oyonnax,19,32,Castres
-2018,0,Racing 92,23,20,Pau
-2018,0,Agen,26,24,Toulon
-2018,0,Brive,20,19,Paris
-2018,0,Montpellier,28,24,Clermont
-2018,0,Clermont,39,18,Lyon
-2018,0,Bordeaux,33,23,Agen
-2018,0,Castres,31,15,La Rochelle
-2018,0,Montpellier,32,22,Toulouse
-2018,0,Pau,34,15,Brive
-2018,0,Paris,39,35,Oyonnax
-2018,0,Toulon,29,40,Racing 92
-2018,0,Castres,20,19,Toulon
-2018,0,Agen,29,13,Paris
-2018,0,Bordeaux,27,27,Brive
-2018,0,La Rochelle,44,14,Pau
-2018,0,Oyonnax,32,32,Clermont
-2018,0,Racing 92,26,0,Montpellier
-2018,0,Lyon,9,17,Toulouse
-2018,0,La Rochelle,26,14,Montpellier
-2018,0,Brive,33,30,Oyonnax
-2018,0,Pau,27,17,Bordeaux
-2018,0,Toulouse,31,41,Castres
-2018,0,Toulon,39,11,Lyon
-2018,0,Clermont,35,26,Agen
-2018,0,Paris,27,17,Racing 92
-2018,0,Racing 92,23,19,Toulouse
-2018,0,Agen,27,13,Brive
-2018,0,Bordeaux,29,19,La Rochelle
-2018,0,Montpellier,38,17,Lyon
-2018,0,Castres,28,6,Paris
-2018,0,Pau,22,21,Clermont
-2018,0,Toulon,49,25,Oyonnax
-2018,0,La Rochelle,47,6,Agen
-2018,0,Paris,22,12,Bordeaux
-2018,0,Brive,29,10,Montpellier
-2018,0,Oyonnax,12,16,Racing 92
-2018,0,Toulouse,18,13,Toulon
-2018,0,Lyon,35,23,Pau
-2018,0,Clermont,27,31,Castres
-2018,0,Bordeaux,19,10,Lyon
-2018,0,Brive,13,12,Toulon
-2018,0,Agen,30,3,Castres
-2018,0,Oyonnax,38,38,La Rochelle
-2018,0,Montpellier,28,16,Paris
-2018,0,Pau,11,10,Toulouse
-2018,0,Racing 92,58,6,Clermont
-2018,0,Toulon,36,12,Bordeaux
-2018,0,La Rochelle,33,24,Brive
-2018,0,Lyon,71,17,Agen
-2018,0,Toulouse,37,15,Oyonnax
-2018,0,Castres,13,18,Racing 92
-2018,0,Paris,5,40,Pau
-2018,0,Clermont,29,30,Montpellier
-2018,0,Toulon,43,5,Paris
-2018,0,Agen,25,52,Toulouse
-2018,0,Brive,16,21,Pau
-2018,0,Oyonnax,30,43,Montpellier
-2018,0,Lyon,36,10,Clermont
-2018,0,Bordeaux,6,7,Castres
-2018,0,Racing 92,19,12,La Rochelle
-2018,0,Montpellier,11,10,Bordeaux
-2018,0,Castres,33,22,Lyon
-2018,0,Clermont,12,18,Oyonnax
-2018,0,Paris,34,36,Agen
-2018,0,Pau,24,15,Racing 92
-2018,0,Toulouse,45,28,Brive
-2018,0,La Rochelle,20,27,Toulon
-2018,0,Lyon,15,6,Toulon
-2018,0,Agen,31,29,Montpellier
-2018,0,Castres,27,29,Pau
-2018,0,Racing 92,17,13,Brive
-2018,0,Bordeaux,19,25,Toulouse
-2018,0,Oyonnax,33,27,Paris
-2018,0,Clermont,21,17,La Rochelle
-2018,0,Montpellier,41,3,Racing 92
-2018,0,Bordeaux,20,26,Oyonnax
-2018,0,Pau,18,15,La Rochelle
-2018,0,Toulon,54,5,Agen
-2018,0,Brive,9,11,Clermont
-2018,0,Paris,23,17,Castres
-2018,0,Toulouse,20,27,Lyon
-2018,0,Racing 92,28,22,Paris
-2018,0,Agen,10,15,Bordeaux
-2018,0,La Rochelle,19,15,Lyon
-2018,0,Oyonnax,29,26,Toulon
-2018,0,Clermont,38,14,Pau
-2018,0,Castres,37,28,Brive
-2018,0,Toulouse,22,14,Montpellier
-2018,0,La Rochelle,31,20,Bordeaux
-2018,0,Paris,33,37,Toulouse
-2018,0,Brive,15,12,Agen
-2018,0,Pau,33,12,Oyonnax
-2018,0,Montpellier,45,7,Castres
-2018,0,Toulon,49,0,Clermont
-2018,0,Lyon,22,24,Racing 92
-2018,0,Castres,28,23,Toulouse
-2018,0,Bordeaux,19,18,Pau
-2018,0,Brive,25,27,Lyon
-2018,0,Paris,50,13,Clermont
-2018,0,Agen,36,21,Oyonnax
-2018,0,Montpellier,40,24,La Rochelle
-2018,0,Racing 92,17,13,Toulon
-2018,0,Toulon,32,17,Montpellier
-2018,0,Clermont,33,3,Bordeaux
-2018,0,Oyonnax,40,17,Brive
-2018,0,Pau,22,33,Agen
-2018,0,Lyon,44,3,Paris
-2018,0,La Rochelle,18,26,Castres
-2018,0,Toulouse,42,27,Racing 92
-2018,0,Toulon,59,13,Castres
-2018,0,Agen,27,17,Clermont
-2018,0,Montpellier,45,13,Pau
-2018,0,Oyonnax,39,18,Lyon
-2018,0,Paris,30,22,Brive
-2018,0,Bordeaux,15,39,Racing 92
-2018,0,Toulouse,19,14,La Rochelle
-2018,0,Brive,22,20,Bordeaux
-2018,0,Castres,54,3,Oyonnax
-2018,0,La Rochelle,31,7,Paris
-2018,0,Lyon,32,24,Montpellier
-2018,0,Pau,38,26,Toulon
-2018,0,Racing 92,42,13,Agen
-2018,0,Clermont,36,26,Toulouse
-2018,0,Toulon,19,19,Lyon
-2018,0,Toulouse,11,23,Castres
-2018,0,Montpellier,40,14,Lyon
-2018,0,Racing 92,14,19,Castres
-2018,0,Montpellier,13,29,Castres
-2018,0,Grenoble,47,22,Oyonnax
-2019,0,Perpignan,15,46,Paris
-2019,0,La Rochelle,28,21,Grenoble
-2019,0,Bordeaux,41,19,Pau
-2019,0,Clermont,67,23,Agen
-2019,0,Lyon,16,16,Toulouse
-2019,0,Toulon,9,25,Racing 92
-2019,0,Montpellier,20,25,Castres
-2019,0,Pau,20,10,Toulon
-2019,0,Paris,20,8,Bordeaux
-2019,0,Castres,19,16,Lyon
-2019,0,Montpellier,36,14,La Rochelle
-2019,0,Grenoble,20,23,Toulouse
-2019,0,Agen,25,23,Perpignan
-2019,0,Racing 92,17,40,Clermont
-2019,0,Bordeaux,9,9,Montpellier
-2019,0,Toulouse,33,26,La Rochelle
-2019,0,Racing 92,59,7,Agen
-2019,0,Perpignan,16,22,Lyon
-2019,0,Clermont,42,20,Paris
-2019,0,Grenoble,21,24,Pau
-2019,0,Toulon,28,27,Castres
-2019,0,Lyon,55,13,Montpellier
-2019,0,Pau,23,27,Clermont
-2019,0,Agen,22,17,Bordeaux
-2019,0,Castres,29,13,Grenoble
-2019,0,Toulouse,30,17,Racing 92
-2019,0,La Rochelle,37,10,Perpignan
-2019,0,Paris,37,10,Toulon
-2019,0,Bordeaux,23,19,Clermont
-2019,0,La Rochelle,30,13,Lyon
-2019,0,Toulon,33,3,Agen
-2019,0,Grenoble,31,22,Perpignan
-2019,0,Racing 92,27,11,Castres
-2019,0,Pau,13,25,Paris
-2019,0,Montpellier,66,15,Toulouse
-2019,0,Toulouse,22,26,Castres
-2019,0,Agen,25,28,Pau
-2019,0,Bordeaux,34,22,La Rochelle
-2019,0,Lyon,34,6,Grenoble
-2019,0,Perpignan,20,23,Montpellier
-2019,0,Clermont,28,8,Toulon
-2019,0,Paris,16,17,Racing 92
-2019,0,La Rochelle,16,12,Clermont
-2019,0,Grenoble,28,25,Bordeaux
-2019,0,Pau,12,9,Perpignan
-2019,0,Racing 92,13,19,Lyon
-2019,0,Toulouse,10,0,Agen
-2019,0,Castres,9,14,Paris
-2019,0,Montpellier,29,17,Toulon
-2019,0,Clermont,41,6,Castres
-2019,0,Agen,9,9,Grenoble
-2019,0,Perpignan,18,36,Toulouse
-2019,0,Racing 92,48,28,Pau
-2019,0,Paris,25,20,Montpellier
-2019,0,Bordeaux,35,13,Lyon
-2019,0,Toulon,9,13,La Rochelle
-2019,0,Grenoble,27,27,Clermont
-2019,0,Castres,37,10,Pau
-2019,0,La Rochelle,33,29,Agen
-2019,0,Toulon,26,16,Perpignan
-2019,0,Toulouse,40,0,Bordeaux
-2019,0,Lyon,41,6,Paris
-2019,0,Montpellier,13,27,Racing 92
-2019,0,Bordeaux,36,25,Toulon
-2019,0,Agen,15,18,Montpellier
-2019,0,Pau,13,15,Toulouse
-2019,0,Perpignan,12,16,Castres
-2019,0,Racing 92,24,23,Grenoble
-2019,0,Paris,12,14,La Rochelle
-2019,0,Clermont,31,11,Lyon
-2019,0,Montpellier,23,28,Clermont
-2019,0,Castres,13,16,Agen
-2019,0,Lyon,30,10,Pau
-2019,0,La Rochelle,16,11,Racing 92
-2019,0,Toulon,22,3,Grenoble
-2019,0,Perpignan,11,22,Bordeaux
-2019,0,Toulouse,49,20,Paris
-2019,0,Agen,6,19,Paris
-2019,0,Toulon,40,7,Lyon
-2019,0,Grenoble,17,16,Montpellier
-2019,0,Pau,23,28,La Rochelle
-2019,0,Racing 92,64,28,Perpignan
-2019,0,Castres,13,32,Bordeaux
-2019,0,Clermont,20,20,Toulouse
-2019,0,Lyon,52,20,Agen
-2019,0,Paris,23,20,Grenoble
-2019,0,La Rochelle,53,27,Castres
-2019,0,Perpignan,16,37,Clermont
-2019,0,Montpellier,41,13,Pau
-2019,0,Bordeaux,40,7,Racing 92
-2019,0,Toulouse,39,0,Toulon
-2019,0,Paris,27,8,Perpignan
-2019,0,Grenoble,6,16,Castres
-2019,0,Montpellier,14,25,Lyon
-2019,0,Pau,40,23,Bordeaux
-2019,0,Agen,20,27,Toulouse
-2019,0,Racing 92,22,13,Toulon
-2019,0,Clermont,44,19,La Rochelle
-2019,0,Castres,24,16,Clermont
-2019,0,Bordeaux,25,17,Agen
-2019,0,Perpignan,24,30,Pau
-2019,0,La Rochelle,27,25,Montpellier
-2019,0,Lyon,32,11,Racing 92
-2019,0,Toulouse,29,16,Grenoble
-2019,0,Toulon,33,30,Paris
-2019,0,Clermont,40,20,Bordeaux
-2019,0,Montpellier,10,28,Perpignan
-2019,0,Paris,13,24,Lyon
-2019,0,Pau,9,14,Castres
-2019,0,Agen,19,10,Toulon
-2019,0,Grenoble,21,28,La Rochelle
-2019,0,Racing 92,29,34,Toulouse
-2019,0,Bordeaux,47,31,Grenoble
-2019,0,Perpignan,13,20,Agen
-2019,0,Toulon,38,11,Pau
-2019,0,Toulouse,27,14,Montpellier
-2019,0,La Rochelle,14,27,Paris
-2019,0,Castres,18,9,Racing 92
-2019,0,Lyon,19,13,Clermont
-2019,0,Racing 92,50,14,La Rochelle
-2019,0,Clermont,52,17,Grenoble
-2019,0,Montpellier,37,10,Bordeaux
-2019,0,Pau,27,17,Agen
-2019,0,Lyon,15,23,Castres
-2019,0,Perpignan,11,24,Toulon
-2019,0,Paris,9,28,Toulouse
-2019,0,Toulon,18,21,Montpellier
-2019,0,Agen,19,7,La Rochelle
-2019,0,Castres,36,17,Perpignan
-2019,0,Grenoble,16,34,Racing 92
-2019,0,Bordeaux,26,12,Paris
-2019,0,Clermont,27,14,Pau
-2019,0,Toulouse,53,21,Lyon
-2019,0,Lyon,42,33,Toulon
-2019,0,Paris,32,16,Castres
-2019,0,Pau,15,24,Montpellier
-2019,0,Perpignan,22,16,Grenoble
-2019,0,Agen,13,28,Clermont
-2019,0,Racing 92,45,27,Bordeaux
-2019,0,La Rochelle,19,23,Toulouse
-2019,0,Toulon,25,10,Toulouse
-2019,0,Bordeaux,31,22,Perpignan
-2019,0,Grenoble,21,17,Paris
-2019,0,Montpellier,33,17,Agen
-2019,0,Castres,25,11,La Rochelle
-2019,0,Pau,24,27,Lyon
-2019,0,Clermont,31,31,Racing 92
-2019,0,Bordeaux,12,16,Castres
-2019,0,Lyon,47,9,Perpignan
-2019,0,Paris,25,22,Agen
-2019,0,La Rochelle,71,21,Pau
-2019,0,Grenoble,19,18,Toulon
-2019,0,Racing 92,26,25,Montpellier
-2019,0,Toulouse,47,44,Clermont
-2019,0,Pau,29,27,Racing 92
-2019,0,Castres,20,21,Toulouse
-2019,0,Agen,25,15,Lyon
-2019,0,Montpellier,47,12,Grenoble
-2019,0,Perpignan,29,49,La Rochelle
-2019,0,Toulon,45,17,Bordeaux
-2019,0,Paris,25,41,Clermont
-2019,0,Toulouse,83,6,Pau
-2019,0,Castres,9,12,Montpellier
-2019,0,Clermont,35,13,Perpignan
-2019,0,Grenoble,11,29,Agen
-2019,0,La Rochelle,30,21,Toulon
-2019,0,Lyon,34,10,Bordeaux
-2019,0,Racing 92,23,27,Paris
-2019,0,Agen,10,17,Castres
-2019,0,Pau,22,0,Grenoble
-2019,0,Perpignan,14,52,Racing 92
-2019,0,Lyon,29,19,La Rochelle
-2019,0,Montpellier,42,25,Paris
-2019,0,Bordeaux,36,43,Toulouse
-2019,0,Toulon,32,11,Clermont
-2019,0,Agen,3,35,Racing 92
-2019,0,Castres,16,25,Toulon
-2019,0,Clermont,27,28,Montpellier
-2019,0,Grenoble,23,24,Lyon
-2019,0,Paris,31,17,Pau
-2019,0,La Rochelle,81,12,Bordeaux
-2019,0,Toulouse,47,7,Perpignan
-2019,0,Racing 92,13,19,La Rochelle
-2019,0,Lyon,21,16,Montpellier
-2019,0,Toulouse,20,6,La Rochelle
-2019,0,Clermont,33,13,Lyon
-2019,0,Toulouse,24,18,Clermont
-2019,0,Brive,28,22,Grenoble
-2020,0,Agen,25,44,Toulon
-2020,0,Castres,26,25,Montpellier
-2020,0,Lyon,43,9,Paris
-2020,0,Pau,33,14,Brive
-2020,0,Racing 92,17,24,Bayonne
-2020,0,Bordeaux,30,25,Toulouse
-2020,0,Clermont,28,10,La Rochelle
-2020,0,Bayonne,30,34,Clermont
-2020,0,Agen,16,10,Brive
-2020,0,La Rochelle,28,26,Paris
-2020,0,Montpellier,43,22,Pau
-2020,0,Bordeaux,34,12,Toulon
-2020,0,Racing 92,23,14,Castres
-2020,0,Lyon,22,12,Toulouse
-2020,0,Castres,32,34,Bordeaux
-2020,0,Toulon,6,20,Lyon
-2020,0,Montpellier,30,16,La Rochelle
-2020,0,Paris,33,27,Bayonne
-2020,0,Pau,18,12,Agen
-2020,0,Brive,28,21,Clermont
-2020,0,Toulouse,20,17,Racing 92
-2020,0,La Rochelle,28,13,Toulouse
-2020,0,Bayonne,27,17,Castres
-2020,0,Clermont,28,37,Pau
-2020,0,Lyon,59,3,Brive
-2020,0,Bordeaux,52,3,Paris
-2020,0,Agen,29,10,Montpellier
-2020,0,Toulon,32,29,Racing 92
-2020,0,Brive,39,17,Toulon
-2020,0,Bayonne,23,22,La Rochelle
-2020,0,Castres,30,27,Agen
-2020,0,Toulouse,24,23,Pau
-2020,0,Racing 92,20,31,Lyon
-2020,0,Montpellier,17,17,Bordeaux
-2020,0,Paris,18,32,Clermont
-2020,0,Clermont,20,13,Montpellier
-2020,0,Agen,27,29,Bayonne
-2020,0,Brive,23,9,Toulouse
-2020,0,Castres,46,16,Paris
-2020,0,Lyon,25,23,Bordeaux
-2020,0,Pau,3,31,Racing 92
-2020,0,Toulon,23,3,La Rochelle
-2020,0,Bayonne,28,24,Montpellier
-2020,0,Toulouse,36,15,Castres
-2020,0,La Rochelle,41,17,Brive
-2020,0,Lyon,27,8,Pau
-2020,0,Racing 92,27,27,Agen
-2020,0,Paris,33,30,Toulon
-2020,0,Bordeaux,42,15,Clermont
-2020,0,Montpellier,33,22,Toulouse
-2020,0,Agen,27,14,Paris
-2020,0,Brive,30,9,Bordeaux
-2020,0,Pau,37,24,Castres
-2020,0,Toulon,20,9,Bayonne
-2020,0,La Rochelle,12,6,Racing 92
-2020,0,Clermont,24,15,Lyon
-2020,0,Toulon,19,19,Montpellier
-2020,0,Bayonne,3,9,Pau
-2020,0,Bordeaux,23,0,Agen
-2020,0,Castres,28,26,Brive
-2020,0,Toulouse,34,8,Clermont
-2020,0,Lyon,45,17,La Rochelle
-2020,0,Paris,9,25,Racing 92
-2020,0,Racing 92,30,34,Bordeaux
-2020,0,Clermont,30,13,Agen
-2020,0,La Rochelle,22,13,Castres
-2020,0,Pau,9,19,Toulon
-2020,0,Montpellier,33,8,Lyon
-2020,0,Brive,26,21,Paris
-2020,0,Toulouse,45,10,Bayonne
-2020,0,Bayonne,6,6,Brive
-2020,0,Castres,29,12,Lyon
-2020,0,Racing 92,29,25,Montpellier
-2020,0,Agen,8,13,Toulouse
-2020,0,Paris,21,18,Pau
-2020,0,Bordeaux,20,15,La Rochelle
-2020,0,Toulon,41,19,Clermont
-2020,0,Lyon,52,9,Bayonne
-2020,0,Brive,20,44,Racing 92
-2020,0,Montpellier,20,20,Paris
-2020,0,La Rochelle,40,8,Agen
-2020,0,Pau,23,27,Bordeaux
-2020,0,Clermont,39,22,Castres
-2020,0,Toulouse,13,13,Toulon
-2020,0,Agen,12,13,Lyon
-2020,0,Racing 92,27,19,Clermont
-2020,0,Bordeaux,22,3,Bayonne
-2020,0,Montpellier,29,26,Brive
-2020,0,Pau,13,44,La Rochelle
-2020,0,Toulon,43,3,Castres
-2020,0,Paris,30,18,Toulouse
-2020,0,Lyon,27,12,Toulon
-2020,0,Brive,33,26,Pau
-2020,0,Castres,0,27,Racing 92
-2020,0,La Rochelle,35,30,Montpellier
-2020,0,Clermont,29,19,Paris
-2020,0,Bayonne,22,23,Agen
-2020,0,Toulouse,22,14,Bordeaux
-2020,0,Bordeaux,37,19,Lyon
-2020,0,Montpellier,31,29,Bayonne
-2020,0,Pau,20,23,Clermont
-2020,0,Toulon,34,17,Brive
-2020,0,Paris,21,20,La Rochelle
-2020,0,Agen,24,43,Castres
-2020,0,Racing 92,30,27,Toulouse
-2020,0,La Rochelle,17,12,Toulon
-2020,0,Bayonne,28,17,Paris
-2020,0,Brive,16,30,Agen
-2020,0,Castres,26,16,Pau
-2020,0,Clermont,22,31,Bordeaux
-2020,0,Lyon,29,20,Racing 92
-2020,0,Toulouse,25,7,Montpellier
-2020,0,Racing 92,49,0,La Rochelle
-2020,0,Agen,15,32,Clermont
-2020,0,Bayonne,20,10,Toulouse
-2020,0,Pau,19,15,Montpellier
-2020,0,Brive,30,16,Lyon
-2020,0,Bordeaux,26,24,Castres
-2020,0,Toulon,19,18,Paris
-2021,0,Montpellier,23,26,Pau
-2021,0,La Rochelle,29,15,Toulon
-2021,0,Agen,22,26,Castres
-2021,0,Lyon,23,27,Racing 92
-2021,0,Brive,42,23,Bayonne
-2021,0,Clermont,33,30,Toulouse
-2021,0,Paris,26,16,Bordeaux
-2021,0,Pau,33,23,Agen
-2021,0,Racing 92,41,17,Montpellier
-2021,0,Toulouse,39,23,La Rochelle
-2021,0,Bayonne,21,19,Clermont
-2021,0,Bordeaux,25,20,Brive
-2021,0,Castres,16,22,Paris
-2021,0,Toulon,36,14,Lyon
-2021,0,Brive,19,13,Pau
-2021,0,Paris,19,26,Bayonne
-2021,0,Clermont,31,12,Agen
-2021,0,Toulouse,39,19,Toulon
-2021,0,Lyon,27,10,Bordeaux
-2021,0,La Rochelle,9,6,Racing 92
-2021,0,Montpellier,19,21,Castres
-2021,0,Bayonne,19,36,La Rochelle
-2021,0,Agen,3,20,Paris
-2021,0,Toulon,25,21,Montpellier
-2021,0,Racing 92,24,30,Toulouse
-2021,0,Pau,29,29,Lyon
-2021,0,Castres,24,25,Brive
-2021,0,Bordeaux,16,16,Clermont
-2021,0,La Rochelle,62,3,Castres
-2021,0,Montpellier,42,13,Agen
-2021,0,Pau,29,24,Bordeaux
-2021,0,Brive,16,36,Toulouse
-2021,0,Lyon,62,10,Bayonne
-2021,0,Clermont,41,27,Paris
-2021,0,Racing 92,23,29,Toulon
-2021,0,Toulon,19,6,Castres
-2021,0,Toulouse,7,16,Lyon
-2021,0,Paris,25,27,Racing 92
-2021,0,Agen,15,26,Bayonne
-2021,0,Clermont,50,29,Pau
-2021,0,Montpellier,30,6,Brive
-2021,0,La Rochelle,20,6,Bordeaux
-2021,0,Brive,21,43,Clermont
-2021,0,Bordeaux,71,5,Agen
-2021,0,Castres,28,26,Racing 92
-2021,0,Pau,24,35,La Rochelle
-2021,0,Paris,48,14,Toulouse
-2021,0,Bayonne,35,29,Toulon
-2021,0,Lyon,24,20,Montpellier
-2021,0,Toulon,35,19,Brive
-2021,0,Toulouse,16,16,Castres
-2021,0,Bordeaux,43,19,Bayonne
-2021,0,Racing 92,24,22,Pau
-2021,0,Agen,16,19,Lyon
-2021,0,La Rochelle,19,10,Clermont
-2021,0,Montpellier,31,6,Paris
-2021,0,Castres,29,30,Bordeaux
-2021,0,Pau,16,22,Toulouse
-2021,0,Agen,9,38,Toulon
-2021,0,Bayonne,29,20,Montpellier
-2021,0,Brive,19,23,Racing 92
-2021,0,Paris,35,13,La Rochelle
-2021,0,Clermont,26,18,Lyon
-2021,0,Castres,14,40,Clermont
-2021,0,Toulon,18,13,Pau
-2021,0,La Rochelle,36,22,Brive
-2021,0,Montpellier,22,23,Bordeaux
-2021,0,Toulouse,63,18,Agen
-2021,0,Racing 92,43,17,Bayonne
-2021,0,Lyon,20,19,Paris
-2021,0,Clermont,15,21,Montpellier
-2021,0,Bordeaux,12,17,Racing 92
-2021,0,Agen,6,15,Brive
-2021,0,Bayonne,20,24,Toulouse
-2021,0,Lyon,22,18,La Rochelle
-2021,0,Pau,13,17,Castres
-2021,0,Paris,24,23,Toulon
-2021,0,La Rochelle,22,9,Montpellier
-2021,0,Brive,12,8,Lyon
-2021,0,Racing 92,45,10,Agen
-2021,0,Toulouse,45,23,Bordeaux
-2021,0,Pau,29,27,Paris
-2021,0,Toulon,27,9,Clermont
-2021,0,Castres,31,21,Bayonne
-2021,0,Bordeaux,31,18,Toulon
-2021,0,Montpellier,9,16,Toulouse
-2021,0,Agen,13,43,La Rochelle
-2021,0,Lyon,14,15,Castres
-2021,0,Paris,51,21,Brive
-2021,0,Clermont,22,24,Racing 92
-2021,0,Bayonne,22,23,Pau
-2021,0,Castres,39,23,Agen
-2021,0,Brive,23,22,Montpellier
-2021,0,Pau,31,42,Clermont
-2021,0,Bordeaux,31,9,Lyon
-2021,0,Toulouse,48,24,Paris
-2021,0,Racing 92,26,22,La Rochelle
-2021,0,Toulon,14,16,Bayonne
-2021,0,Montpellier,22,24,Racing 92
-2021,0,Clermont,36,37,Bordeaux
-2021,0,Brive,25,23,Toulon
-2021,0,Lyon,17,18,Pau
-2021,0,Paris,29,9,Castres
-2021,0,La Rochelle,11,14,Toulouse
-2021,0,Bayonne,48,20,Agen
-2021,0,Toulouse,31,9,Pau
-2021,0,Bordeaux,44,6,Paris
-2021,0,Castres,48,17,Montpellier
-2021,0,Racing 92,34,26,Lyon
-2021,0,Toulon,11,29,La Rochelle
-2021,0,Bayonne,26,23,Brive
-2021,0,Agen,16,52,Clermont
-2021,0,Racing 92,23,20,Castres
-2021,0,La Rochelle,16,11,Paris
-2021,0,Agen,19,39,Montpellier
-2021,0,Brive,25,23,Bordeaux
-2021,0,Clermont,73,3,Bayonne
-2021,0,Pau,29,33,Toulon
-2021,0,Lyon,31,23,Toulouse
-2021,0,Montpellier,22,16,Clermont
-2021,0,Toulouse,42,17,Brive
-2021,0,Bayonne,20,28,Lyon
-2021,0,Bordeaux,29,23,Pau
-2021,0,Castres,22,15,La Rochelle
-2021,0,Paris,40,21,Agen
-2021,0,Toulon,25,21,Racing 92
-2021,0,La Rochelle,40,3,Bayonne
-2021,0,Racing 92,32,33,Bordeaux
-2021,0,Agen,0,59,Toulouse
-2021,0,Clermont,59,19,Castres
-2021,0,Montpellier,16,21,Lyon
-2021,0,Pau,27,32,Brive
-2021,0,Toulon,35,13,Paris
-2021,0,Paris,27,34,Clermont
-2021,0,Bayonne,23,13,Racing 92
-2021,0,Bordeaux,11,26,La Rochelle
-2021,0,Brive,57,3,Agen
-2021,0,Castres,38,33,Pau
-2021,0,Toulouse,16,29,Montpellier
-2021,0,Lyon,54,16,Toulon
-2021,0,Pau,43,33,Bayonne
-2021,0,Castres,26,24,Toulouse
-2021,0,La Rochelle,38,23,Lyon
-2021,0,Racing 92,29,35,Paris
-2021,0,Clermont,37,27,Brive
-2021,0,Montpellier,29,10,Toulon
-2021,0,Agen,3,49,Bordeaux
-2021,0,Lyon,41,30,Clermont
-2021,0,Paris,46,32,Pau
-2021,0,Toulouse,34,16,Racing 92
-2021,0,Bayonne,23,26,Castres
-2021,0,Toulon,34,17,Agen
-2021,0,Brive,24,12,La Rochelle
-2021,0,Bordeaux,57,9,Montpellier
-2021,0,Castres,37,29,Lyon
-2021,0,Racing 92,45,19,Clermont
-2021,0,Agen,7,47,Pau
-2021,0,Bayonne,22,47,Bordeaux
-2021,0,Brive,28,31,Paris
-2021,0,Montpellier,32,22,La Rochelle
-2021,0,Toulon,44,10,Toulouse
-2021,0,Pau,29,35,Racing 92
-2021,0,Bordeaux,20,16,Castres
-2021,0,La Rochelle,59,0,Agen
-2021,0,Lyon,24,7,Brive
-2021,0,Paris,32,10,Montpellier
-2021,0,Toulouse,28,32,Bayonne
-2021,0,Clermont,25,16,Toulon
-2021,0,Paris,46,27,Lyon
-2021,0,Toulon,25,19,Bordeaux
-2021,0,Agen,14,54,Racing 92
-2021,0,Brive,28,33,Castres
-2021,0,La Rochelle,51,27,Pau
-2021,0,Montpellier,23,19,Bayonne
-2021,0,Toulouse,36,27,Clermont
-2021,0,Bayonne,9,12,Paris
-2021,0,Castres,46,24,Toulon
-2021,0,Clermont,25,20,La Rochelle
-2021,0,Lyon,52,7,Agen
-2021,0,Pau,41,25,Montpellier
-2021,0,Racing 92,55,12,Brive
-2021,0,Bordeaux,10,21,Toulouse
-2021,0,Racing 92,38,21,Paris
-2021,0,Bordeaux,25,16,Clermont
-2021,0,La Rochelle,19,6,Racing 92
-2021,0,Toulouse,24,21,Bordeaux
-2021,0,Toulouse,18,8,La Rochelle
-2021,0,Biarritz,6,6,Bayonne
-2022,0,Biarritz,27,15,Bordeaux
-2022,0,Brive,36,15,Perpignan
-2022,0,Castres,16,12,Pau
-2022,0,Paris,21,36,Racing 92
-2022,0,Toulon,24,24,Montpellier
-2022,0,Lyon,28,19,Clermont
-2022,0,La Rochelle,16,20,Toulouse
-2022,0,Clermont,30,34,Castres
-2022,0,Montpellier,39,17,Brive
-2022,0,Pau,21,17,Lyon
-2022,0,Perpignan,33,20,Biarritz
-2022,0,Bordeaux,37,10,Paris
-2022,0,Racing 92,23,10,La Rochelle
-2022,0,Toulouse,41,10,Toulon
-2022,0,Biarritz,28,19,Racing 92
-2022,0,Brive,30,13,Pau
-2022,0,Castres,23,23,Bordeaux
-2022,0,Lyon,47,3,Perpignan
-2022,0,Montpellier,15,17,Toulouse
-2022,0,Clermont,23,22,La Rochelle
-2022,0,Toulon,38,5,Paris
-2022,0,Bordeaux,29,10,Brive
-2022,0,Pau,23,22,Montpellier
-2022,0,Paris,34,10,Castres
-2022,0,La Rochelle,59,17,Biarritz
-2022,0,Racing 92,24,20,Lyon
-2022,0,Perpignan,12,9,Toulon
-2022,0,Toulouse,27,15,Clermont
-2022,0,Brive,19,12,Paris
-2022,0,Lyon,15,20,Bordeaux
-2022,0,Montpellier,21,11,La Rochelle
-2022,0,Perpignan,14,29,Pau
-2022,0,Biarritz,11,17,Toulouse
-2022,0,Castres,27,16,Toulon
-2022,0,Clermont,26,17,Racing 92
-2022,0,Biarritz,5,40,Lyon
-2022,0,Bordeaux,27,23,Montpellier
-2022,0,Racing 92,17,14,Perpignan
-2022,0,La Rochelle,29,10,Castres
-2022,0,Toulouse,38,10,Pau
-2022,0,Toulon,13,9,Brive
-2022,0,Paris,22,14,Clermont
-2022,0,Brive,6,8,La Rochelle
-2022,0,Castres,38,20,Biarritz
-2022,0,Pau,33,37,Bordeaux
-2022,0,Perpignan,22,23,Paris
-2022,0,Montpellier,20,22,Clermont
-2022,0,Toulon,20,27,Racing 92
-2022,0,Lyon,25,19,Toulouse
-2022,0,Clermont,42,20,Pau
-2022,0,Biarritz,37,9,Brive
-2022,0,Bordeaux,39,13,Perpignan
-2022,0,Paris,23,18,Lyon
-2022,0,Racing 92,21,32,Montpellier
-2022,0,Toulouse,41,0,Castres
-2022,0,La Rochelle,39,6,Toulon
-2022,0,Castres,23,22,Brive
-2022,0,Toulon,13,9,Biarritz
-2022,0,Pau,18,9,Paris
-2022,0,Perpignan,22,13,La Rochelle
-2022,0,Montpellier,30,8,Lyon
-2022,0,Bordeaux,25,9,Clermont
-2022,0,Racing 92,27,18,Toulouse
-2022,0,La Rochelle,26,3,Bordeaux
-2022,0,Lyon,30,23,Castres
-2022,0,Pau,33,21,Biarritz
-2022,0,Paris,27,31,Montpellier
-2022,0,Toulouse,37,15,Perpignan
-2022,0,Brive,12,10,Racing 92
-2022,0,Clermont,31,16,Toulon
-2022,0,Biarritz,17,14,Paris
-2022,0,Montpellier,25,24,Castres
-2022,0,La Rochelle,36,8,Pau
-2022,0,Perpignan,26,24,Clermont
-2022,0,Toulon,19,13,Lyon
-2022,0,Toulouse,18,11,Brive
-2022,0,Racing 92,14,37,Bordeaux
-2022,0,Clermont,39,11,Biarritz
-2022,0,Castres,25,3,Racing 92
-2022,0,Lyon,41,0,Brive
-2022,0,Montpellier,30,6,Perpignan
-2022,0,Pau,16,16,Toulon
-2022,0,Bordeaux,17,7,Toulouse
-2022,0,Paris,25,20,La Rochelle
-2022,0,Perpignan,19,20,Castres
-2022,0,Biarritz,12,27,Montpellier
-2022,0,La Rochelle,25,3,Lyon
-2022,0,Toulouse,28,29,Paris
-2022,0,Racing 92,35,29,Pau
-2022,0,Brive,27,20,Clermont
-2022,0,Toulon,21,18,Bordeaux
-2022,0,Paris,27,17,Perpignan
-2022,0,Clermont,16,13,Toulouse
-2022,0,Pau,43,20,Brive
-2022,0,Bordeaux,30,27,Biarritz
-2022,0,Castres,31,30,La Rochelle
-2022,0,Lyon,37,35,Racing 92
-2022,0,Montpellier,18,16,Toulon
-2022,0,Castres,15,9,Paris
-2022,0,Biarritz,23,25,Perpignan
-2022,0,Brive,19,22,Bordeaux
-2022,0,Lyon,35,10,Pau
-2022,0,Racing 92,33,28,Clermont
-2022,0,Toulon,41,11,La Rochelle
-2022,0,Toulouse,35,10,Montpellier
-2022,0,Bordeaux,23,10,Castres
-2022,0,Brive,33,10,Biarritz
-2022,0,La Rochelle,23,29,Montpellier
-2022,0,Perpignan,23,28,Lyon
-2022,0,Toulouse,15,20,Racing 92
-2022,0,Pau,28,20,Clermont
-2022,0,Paris,26,24,Toulon
-2022,0,Perpignan,36,13,Toulouse
-2022,0,Lyon,26,22,Paris
-2022,0,Montpellier,29,12,Pau
-2022,0,Racing 92,57,19,Brive
-2022,0,Toulon,10,22,Castres
-2022,0,Biarritz,27,24,La Rochelle
-2022,0,Clermont,29,26,Bordeaux
-2022,0,Pau,27,22,Toulouse
-2022,0,Brive,16,16,Montpellier
-2022,0,Castres,19,17,Lyon
-2022,0,Toulon,29,18,Perpignan
-2022,0,Paris,65,19,Biarritz
-2022,0,La Rochelle,31,27,Clermont
-2022,0,Bordeaux,13,16,Racing 92
-2022,0,Clermont,52,12,Perpignan
-2022,0,Lyon,34,15,Biarritz
-2022,0,Racing 92,45,25,Castres
-2022,0,Pau,16,22,La Rochelle
-2022,0,Brive,17,10,Toulon
-2022,0,Montpellier,30,3,Paris
-2022,0,Toulouse,12,11,Bordeaux
-2022,0,Castres,25,9,Montpellier
-2022,0,Biarritz,17,45,Toulon
-2022,0,Bordeaux,16,23,Pau
-2022,0,La Rochelle,41,15,Brive
-2022,0,Perpignan,34,13,Racing 92
-2022,0,Clermont,25,16,Lyon
-2022,0,Paris,23,16,Toulouse
-2022,0,Toulon,32,22,Clermont
-2022,0,Brive,28,12,Castres
-2022,0,Montpellier,37,22,Biarritz
-2022,0,Pau,27,22,Perpignan
-2022,0,La Rochelle,19,0,Racing 92
-2022,0,Paris,18,31,Bordeaux
-2022,0,Toulouse,27,19,Lyon
-2022,0,Castres,19,13,Toulouse
-2022,0,Clermont,41,10,Brive
-2022,0,Biarritz,19,42,Pau
-2022,0,Lyon,10,43,Toulon
-2022,0,Perpignan,13,23,Montpellier
-2022,0,Bordeaux,15,16,La Rochelle
-2022,0,Racing 92,53,20,Paris
-2022,0,Castres,12,0,Clermont
-2022,0,Paris,21,18,Pau
-2022,0,Brive,17,31,Lyon
-2022,0,Racing 92,40,7,Biarritz
-2022,0,La Rochelle,32,16,Perpignan
-2022,0,Toulon,19,15,Toulouse
-2022,0,Montpellier,22,23,Bordeaux
-2022,0,Lyon,43,20,Montpellier
-2022,0,Clermont,29,26,Paris
-2022,0,Biarritz,13,48,Castres
-2022,0,Pau,21,42,Racing 92
-2022,0,Perpignan,27,10,Brive
-2022,0,Toulouse,23,16,La Rochelle
-2022,0,Bordeaux,16,29,Toulon
-2022,0,Bordeaux,42,10,Lyon
-2022,0,Biarritz,8,26,Clermont
-2022,0,Montpellier,22,13,Racing 92
-2022,0,Toulon,37,20,Pau
-2022,0,La Rochelle,32,13,Paris
-2022,0,Brive,8,26,Toulouse
-2022,0,Castres,28,12,Perpignan
-2022,0,Clermont,20,15,Montpellier
-2022,0,Lyon,26,29,La Rochelle
-2022,0,Racing 92,21,16,Toulon
-2022,0,Pau,16,26,Castres
-2022,0,Paris,17,33,Brive
-2022,0,Toulouse,80,7,Biarritz
-2022,0,Perpignan,22,15,Bordeaux
-2022,0,Toulouse,33,28,La Rochelle
-2022,0,Bordeaux,36,16,Racing 92
-2022,0,Castres,24,18,Toulouse
-2022,0,Montpellier,19,10,Bordeaux
-2022,0,Castres,10,29,Montpellier
-2022,0,Mt.Marsan,16,41,Perpignan
-2023,0,Racing 92,25,19,Castres
-2023,0,Brive,27,31,Lyon
-2023,0,Toulon,40,25,Bayonne
-2023,0,Pau,16,14,Perpignan
-2023,0,Paris,24,18,Clermont
-2023,0,La Rochelle,26,22,Montpellier
-2023,0,Bordeaux,25,26,Toulouse
-2023,0,Lyon,21,23,La Rochelle
-2023,0,Clermont,33,24,Pau
-2023,0,Bayonne,31,25,Racing 92
-2023,0,Castres,30,20,Paris
-2023,0,Perpignan,6,17,Brive
-2023,0,Montpellier,29,19,Bordeaux
-2023,0,Toulouse,28,8,Toulon
-2023,0,Bordeaux,33,12,Castres
-2023,0,Brive,26,31,Montpellier
-2023,0,Racing 92,32,19,Lyon
-2023,0,Paris,26,16,Bayonne
-2023,0,La Rochelle,43,8,Perpignan
-2023,0,Pau,26,16,Toulouse
-2023,0,Toulon,30,29,Clermont
-2023,0,Perpignan,19,13,Toulon
-2023,0,Bayonne,20,15,Bordeaux
-2023,0,Castres,12,6,Brive
-2023,0,Lyon,33,27,Paris
-2023,0,Montpellier,43,17,Pau
-2023,0,Toulouse,37,10,Racing 92
-2023,0,Clermont,22,13,La Rochelle
-2023,0,Bordeaux,15,10,Paris
-2023,0,Clermont,43,20,Lyon
-2023,0,Brive,25,22,Bayonne
-2023,0,Pau,17,34,Toulon
-2023,0,Perpignan,14,10,Castres
-2023,0,La Rochelle,24,19,Racing 92
-2023,0,Montpellier,17,19,Toulouse
-2023,0,Castres,26,13,Montpellier
-2023,0,Bayonne,29,13,La Rochelle
-2023,0,Racing 92,26,13,Pau
-2023,0,Toulon,47,0,Brive
-2023,0,Paris,52,3,Perpignan
-2023,0,Toulouse,46,10,Clermont
-2023,0,Lyon,36,21,Bordeaux
-2023,0,Brive,7,45,Toulouse
-2023,0,Castres,39,22,Bayonne
-2023,0,Montpellier,26,33,Lyon
-2023,0,Pau,29,31,Paris
-2023,0,Perpignan,10,20,Clermont
-2023,0,Bordeaux,29,17,Racing 92
-2023,0,La Rochelle,32,5,Toulon
-2023,0,Racing 92,38,31,Montpellier
-2023,0,Bayonne,24,20,Perpignan
-2023,0,Lyon,31,27,Pau
-2023,0,Toulon,28,20,Castres
-2023,0,Paris,27,0,Brive
-2023,0,Clermont,23,23,Bordeaux
-2023,0,Toulouse,26,17,La Rochelle
-2023,0,Castres,26,22,Clermont
-2023,0,Brive,38,43,Racing 92
-2023,0,Montpellier,23,19,Paris
-2023,0,La Rochelle,21,38,Pau
-2023,0,Perpignan,28,21,Lyon
-2023,0,Bayonne,26,22,Toulouse
-2023,0,Bordeaux,27,26,Toulon
-2023,0,Toulouse,16,16,Paris
-2023,0,Clermont,20,25,Bayonne
-2023,0,Brive,17,19,La Rochelle
-2023,0,Lyon,26,20,Castres
-2023,0,Racing 92,44,20,Perpignan
-2023,0,Pau,33,7,Bordeaux
-2023,0,Toulon,16,26,Montpellier
-2023,0,Montpellier,35,14,Bayonne
-2023,0,Pau,22,6,Brive
-2023,0,La Rochelle,53,7,Castres
-2023,0,Perpignan,23,20,Bordeaux
-2023,0,Paris,12,17,Toulon
-2023,0,Racing 92,46,12,Clermont
-2023,0,Lyon,21,14,Toulouse
-2023,0,Clermont,19,14,Montpellier
-2023,0,Bayonne,19,7,Lyon
-2023,0,Toulouse,34,13,Perpignan
-2023,0,Bordeaux,33,13,Brive
-2023,0,Paris,27,14,La Rochelle
-2023,0,Castres,26,22,Pau
-2023,0,Toulon,14,31,Racing 92
-2023,0,Toulon,21,3,Lyon
-2023,0,Brive,20,16,Clermont
-2023,0,Montpellier,38,10,Perpignan
-2023,0,Pau,22,22,Bayonne
-2023,0,La Rochelle,8,12,Bordeaux
-2023,0,Toulouse,22,18,Castres
-2023,0,Racing 92,10,48,Paris
-2023,0,Bordeaux,40,10,Montpellier
-2023,0,Bayonne,23,18,Toulon
-2023,0,Castres,26,26,Racing 92
-2023,0,Lyon,27,30,Brive
-2023,0,Paris,37,3,Pau
-2023,0,Perpignan,10,29,La Rochelle
-2023,0,Clermont,13,32,Toulouse
-2023,0,Bordeaux,23,15,Bayonne
-2023,0,Clermont,31,20,Perpignan
-2023,0,Brive,26,17,Toulon
-2023,0,Pau,12,21,Lyon
-2023,0,Paris,26,7,Castres
-2023,0,La Rochelle,30,7,Toulouse
-2023,0,Montpellier,17,12,Racing 92
-2023,0,Lyon,34,14,Clermont
-2023,0,Bayonne,37,9,Brive
-2023,0,Castres,23,18,Bordeaux
-2023,0,Toulon,27,16,Pau
-2023,0,Perpignan,31,24,Paris
-2023,0,Racing 92,39,36,La Rochelle
-2023,0,Toulouse,23,9,Montpellier
-2023,0,Toulouse,21,16,Bayonne
-2023,0,Clermont,41,26,Castres
-2023,0,Brive,22,24,Perpignan
-2023,0,Pau,38,19,Racing 92
-2023,0,La Rochelle,16,20,Lyon
-2023,0,Montpellier,18,20,Toulon
-2023,0,Paris,12,6,Bordeaux
-2023,0,Bayonne,29,26,Paris
-2023,0,Castres,17,32,La Rochelle
-2023,0,Lyon,31,21,Montpellier
-2023,0,Racing 92,34,24,Brive
-2023,0,Perpignan,49,29,Pau
-2023,0,Toulon,17,6,Toulouse
-2023,0,Bordeaux,18,9,Clermont
-2023,0,Paris,27,17,Montpellier
-2023,0,Bayonne,41,10,Castres
-2023,0,Lyon,45,11,Racing 92
-2023,0,La Rochelle,32,16,Brive
-2023,0,Bordeaux,43,7,Perpignan
-2023,0,Toulouse,34,10,Pau
-2023,0,Clermont,36,21,Toulon
-2023,0,Montpellier,34,6,Clermont
-2023,0,Brive,7,28,Bordeaux
-2023,0,Castres,27,22,Lyon
-2023,0,Pau,32,36,La Rochelle
-2023,0,Perpignan,34,27,Bayonne
-2023,0,Toulon,37,9,Paris
-2023,0,Racing 92,35,39,Toulouse
-2023,0,Castres,27,17,Toulouse
-2023,0,Clermont,38,10,Brive
-2023,0,Bayonne,20,30,Pau
-2023,0,Lyon,23,27,Toulon
-2023,0,Perpignan,22,23,Montpellier
-2023,0,Bordeaux,6,36,La Rochelle
-2023,0,Paris,13,17,Racing 92
-2023,0,Racing 92,31,28,Bordeaux
-2023,0,Brive,22,27,Paris
-2023,0,Montpellier,19,28,Castres
-2023,0,Toulon,37,15,Perpignan
-2023,0,Pau,23,18,Clermont
-2023,0,La Rochelle,26,6,Bayonne
-2023,0,Toulouse,36,31,Lyon
-2023,0,La Rochelle,26,13,Clermont
-2023,0,Bayonne,33,30,Montpellier
-2023,0,Brive,22,17,Pau
-2023,0,Castres,31,18,Toulon
-2023,0,Perpignan,30,21,Racing 92
-2023,0,Paris,19,10,Toulouse
-2023,0,Bordeaux,23,9,Lyon
-2023,0,Clermont,32,16,Paris
-2023,0,Lyon,39,31,Perpignan
-2023,0,Montpellier,26,27,Brive
-2023,0,Racing 92,55,14,Bayonne
-2023,0,Pau,40,3,Castres
-2023,0,Toulon,8,23,La Rochelle
-2023,0,Toulouse,31,17,Bordeaux
-2023,0,Perpignan,26,21,Toulouse
-2023,0,Bayonne,21,18,Clermont
-2023,0,Brive,13,16,Castres
-2023,0,Montpellier,42,31,La Rochelle
-2023,0,Bordeaux,28,0,Pau
-2023,0,Racing 92,43,7,Toulon
-2023,0,Paris,31,31,Lyon
-2023,0,Clermont,32,25,Racing 92
-2023,0,Castres,26,16,Perpignan
-2023,0,Lyon,53,19,Bayonne
-2023,0,Toulon,35,19,Bordeaux
-2023,0,Pau,35,10,Montpellier
-2023,0,La Rochelle,14,10,Paris
-2023,0,Toulouse,54,10,Brive
-2023,0,Paris,20,33,Racing 92
-2023,0,Lyon,25,32,Bordeaux
-2023,0,Toulouse,41,14,Racing 92
-2023,0,La Rochelle,24,13,Bordeaux
-2023,0,Toulouse,29,26,La Rochelle
-2023,0,Grenoble,19,33,Perpignan
-2024,0,Bayonne,26,7,Toulouse
-2024,0,Racing 92,23,18,Bordeaux
-2024,0,Perpignan,7,29,Paris
-2024,0,Oyonnax,36,17,Clermont
-2024,0,Castres,24,23,Pau
-2024,0,Lyon,27,15,Toulon
-2024,0,Montpellier,26,15,La Rochelle
-2024,0,Paris,28,18,Oyonnax
-2024,0,La Rochelle,35,14,Lyon
-2024,0,Bordeaux,25,23,Castres
-2024,0,Clermont,38,14,Perpignan
-2024,0,Pau,19,17,Racing 92
-2024,0,Toulon,19,14,Bayonne
-2024,0,Toulouse,38,13,Montpellier
-2024,0,Oyonnax,21,27,Toulouse
-2024,0,Castres,37,0,Bayonne
-2024,0,Paris,24,9,Montpellier
-2024,0,Pau,40,10,Lyon
-2024,0,Racing 92,59,10,Perpignan
-2024,0,Clermont,11,10,La Rochelle
-2024,0,Bordeaux,22,17,Toulon
-2024,0,Bayonne,16,3,Paris
-2024,0,Perpignan,24,39,Pau
-2024,0,Lyon,41,22,Clermont
-2024,0,Montpellier,16,19,Racing 92
-2024,0,Toulon,41,7,Oyonnax
-2024,0,La Rochelle,24,27,Castres
-2024,0,Toulouse,29,22,Bordeaux
-2024,0,Oyonnax,19,17,La Rochelle
-2024,0,Perpignan,26,22,Toulon
-2024,0,Bordeaux,26,13,Montpellier
-2024,0,Clermont,46,14,Bayonne
-2024,0,Paris,39,16,Castres
-2024,0,Racing 92,22,20,Lyon
-2024,0,Pau,13,9,Toulouse
-2024,0,Toulouse,43,34,Perpignan
-2024,0,Castres,39,11,Oyonnax
-2024,0,Lyon,32,36,Paris
-2024,0,Montpellier,17,20,Clermont
-2024,0,Pau,20,11,Bordeaux
-2024,0,La Rochelle,18,15,Bayonne
-2024,0,Toulon,31,26,Racing 92
-2024,0,Paris,9,13,Racing 92
-2024,0,Bayonne,35,16,Pau
-2024,0,Perpignan,23,16,Montpellier
-2024,0,Oyonnax,38,20,Lyon
-2024,0,Clermont,27,30,Toulon
-2024,0,Castres,31,23,Toulouse
-2024,0,La Rochelle,25,21,Bordeaux
-2024,0,Toulon,41,19,Castres
-2024,0,Bordeaux,46,22,Perpignan
-2024,0,Lyon,42,29,Bayonne
-2024,0,Montpellier,21,26,Oyonnax
-2024,0,Pau,30,6,Paris
-2024,0,Toulouse,31,10,Clermont
-2024,0,Racing 92,32,10,La Rochelle
-2024,0,Toulon,36,13,Pau
-2024,0,Bayonne,34,19,Montpellier
-2024,0,Oyonnax,23,29,Bordeaux
-2024,0,Castres,29,14,Lyon
-2024,0,La Rochelle,35,6,Perpignan
-2024,0,Clermont,23,18,Racing 92
-2024,0,Paris,27,12,Toulouse
-2024,0,Perpignan,36,10,Bayonne
-2024,0,Bordeaux,46,10,Lyon
-2024,0,Montpellier,30,21,Castres
-2024,0,Racing 92,66,10,Oyonnax
-2024,0,Pau,22,11,Clermont
-2024,0,Paris,18,13,La Rochelle
-2024,0,Toulouse,25,17,Toulon
-2024,0,Oyonnax,34,13,Pau
-2024,0,Clermont,35,40,Bordeaux
-2024,0,Lyon,20,18,Montpellier
-2024,0,Bayonne,27,23,Racing 92
-2024,0,Toulon,19,5,Paris
-2024,0,La Rochelle,29,8,Toulouse
-2024,0,Castres,13,17,Perpignan
-2024,0,Pau,20,29,La Rochelle
-2024,0,Perpignan,27,12,Oyonnax
-2024,0,Bordeaux,24,23,Bayonne
-2024,0,Paris,14,14,Clermont
-2024,0,Racing 92,34,30,Castres
-2024,0,Toulouse,45,0,Lyon
-2024,0,Montpellier,27,17,Toulon
-2024,0,Bordeaux,26,30,Paris
-2024,0,Bayonne,21,17,Oyonnax
-2024,0,Castres,20,23,Clermont
-2024,0,Lyon,36,24,Perpignan
-2024,0,Montpellier,22,17,Pau
-2024,0,Toulon,25,23,La Rochelle
-2024,0,Racing 92,20,27,Toulouse
-2024,0,Perpignan,26,5,Racing 92
-2024,0,Oyonnax,19,23,Paris
-2024,0,Clermont,38,21,Lyon
-2024,0,La Rochelle,18,10,Montpellier
-2024,0,Pau,33,44,Castres
-2024,0,Toulouse,46,26,Bayonne
-2024,0,Toulon,32,37,Bordeaux
-2024,0,Lyon,28,17,La Rochelle
-2024,0,Bordeaux,10,20,Pau
-2024,0,Paris,32,19,Perpignan
-2024,0,Racing 92,20,44,Montpellier
-2024,0,Toulouse,61,34,Oyonnax
-2024,0,Bayonne,21,13,Clermont
-2024,0,Castres,25,17,Toulon
-2024,0,Montpellier,28,23,Bayonne
-2024,0,Perpignan,27,15,La Rochelle
-2024,0,Castres,41,12,Bordeaux
-2024,0,Lyon,43,26,Oyonnax
-2024,0,Pau,17,9,Toulon
-2024,0,Racing 92,11,27,Paris
-2024,0,Clermont,33,37,Toulouse
-2024,0,Toulouse,33,6,Castres
-2024,0,Bayonne,39,10,Lyon
-2024,0,Oyonnax,35,39,Montpellier
-2024,0,Paris,25,12,Pau
-2024,0,Toulon,44,22,Perpignan
-2024,0,Bordeaux,21,5,Racing 92
-2024,0,La Rochelle,42,3,Clermont
-2024,0,La Rochelle,23,3,Paris
-2024,0,Clermont,15,15,Oyonnax
-2024,0,Lyon,34,19,Castres
-2024,0,Montpellier,10,3,Bordeaux
-2024,0,Pau,42,40,Bayonne
-2024,0,Perpignan,27,17,Toulouse
-2024,0,Racing 92,20,6,Toulon
-2024,0,Toulon,54,7,Montpellier
-2024,0,Oyonnax,14,15,Perpignan
-2024,0,Castres,21,23,Racing 92
-2024,0,Clermont,31,28,Pau
-2024,0,Paris,22,13,Lyon
-2024,0,Bayonne,13,12,La Rochelle
-2024,0,Bordeaux,31,28,Toulouse
-2024,0,Montpellier,10,12,Paris
-2024,0,Perpignan,43,12,Castres
-2024,0,La Rochelle,40,21,Oyonnax
-2024,0,Lyon,27,10,Bordeaux
-2024,0,Racing 92,26,10,Clermont
-2024,0,Toulouse,31,29,Pau
-2024,0,Bayonne,10,46,Toulon
-2024,0,Castres,25,24,La Rochelle
-2024,0,Perpignan,51,20,Lyon
-2024,0,Oyonnax,13,43,Racing 92
-2024,0,Paris,28,24,Bayonne
-2024,0,Pau,31,23,Montpellier
-2024,0,Toulon,20,19,Toulouse
-2024,0,Bordeaux,41,7,Clermont
-2024,0,Toulouse,32,12,Racing 92
-2024,0,Bayonne,15,34,Bordeaux
-2024,0,Oyonnax,22,19,Castres
-2024,0,Lyon,38,20,Pau
-2024,0,Montpellier,20,25,Perpignan
-2024,0,Clermont,41,18,Paris
-2024,0,La Rochelle,27,17,Toulon
-2024,0,Perpignan,28,35,Clermont
-2024,0,Castres,27,26,Montpellier
-2024,0,Pau,39,17,Oyonnax
-2024,0,Racing 92,28,37,Bayonne
-2024,0,Toulon,30,24,Lyon
-2024,0,Bordeaux,34,14,La Rochelle
-2024,0,Toulouse,49,18,Paris
-2024,0,Montpellier,22,29,Toulouse
-2024,0,Bayonne,23,20,Perpignan
-2024,0,Oyonnax,17,27,Toulon
-2024,0,Clermont,36,20,Castres
-2024,0,Lyon,20,14,Racing 92
-2024,0,La Rochelle,25,23,Pau
-2024,0,Paris,22,18,Bordeaux
-2024,0,Racing 92,24,15,Pau
-2024,0,Perpignan,37,30,Bordeaux
-2024,0,Oyonnax,27,20,Bayonne
-2024,0,Castres,27,18,Paris
-2024,0,Montpellier,41,26,Lyon
-2024,0,Toulon,52,10,Clermont
-2024,0,Toulouse,31,31,La Rochelle
-2024,0,Bayonne,17,28,Castres
-2024,0,Bordeaux,40,7,Oyonnax
-2024,0,Clermont,52,15,Montpellier
-2024,0,La Rochelle,24,19,Racing 92
-2024,0,Lyon,40,28,Toulouse
-2024,0,Paris,23,20,Toulon
-2024,0,Pau,36,24,Perpignan
-2024,0,Toulon,29,34,La Rochelle
-2024,0,Bordeaux,31,17,Racing 92
-2024,0,Toulouse,39,23,La Rochelle
-2024,0,Paris,20,22,Bordeaux
-2024,0,Toulouse,59,3,Bordeaux
-2024,0,Grenoble,18,20,Montpellier
-2025,0,Bayonne,21,19,Perpignan
-2025,0,Clermont,39,7,Pau
-2025,0,Castres,31,28,Racing 92
-2025,0,Montpellier,22,26,Lyon
-2025,0,Bordeaux,46,26,Paris
-2025,0,La Rochelle,19,15,Toulon
-2025,0,Vannes,18,43,Toulouse
-2025,0,Toulon,30,28,Castres
-2025,0,Paris,34,31,Vannes
-2025,0,Racing 92,33,20,Clermont
-2025,0,Pau,51,29,Bayonne
-2025,0,Perpignan,7,26,Montpellier
-2025,0,Lyon,28,26,Bordeaux
-2025,0,Toulouse,35,27,La Rochelle
-2025,0,Montpellier,11,20,Toulouse
-2025,0,Clermont,26,10,Bayonne
-2025,0,Castres,27,12,Perpignan
-2025,0,Vannes,30,20,Lyon
-2025,0,La Rochelle,49,25,Pau
-2025,0,Bordeaux,52,34,Racing 92
-2025,0,Paris,10,14,Toulon
-2025,0,Perpignan,33,3,Clermont
-2025,0,Bayonne,28,27,Montpellier
-2025,0,Lyon,40,38,Castres
-2025,0,Racing 92,16,17,La Rochelle
-2025,0,Toulon,54,19,Vannes
-2025,0,Pau,30,16,Paris
-2025,0,Toulouse,12,16,Bordeaux
-2025,0,Vannes,24,27,Racing 92
-2025,0,Paris,29,20,Montpellier
-2025,0,La Rochelle,43,22,Lyon
-2025,0,Bordeaux,30,27,Bayonne
-2025,0,Perpignan,11,10,Pau
-2025,0,Castres,28,23,Toulouse
-2025,0,Clermont,19,18,Toulon
-2025,0,Racing 92,22,6,Toulon
-2025,0,Bayonne,37,7,La Rochelle
-2025,0,Montpellier,26,24,Vannes
-2025,0,Pau,33,26,Castres
-2025,0,Bordeaux,66,12,Perpignan
-2025,0,Toulouse,48,14,Clermont
-2025,0,Lyon,35,3,Paris
-2025,0,Bayonne,32,15,Racing 92
-2025,0,Clermont,55,33,Vannes
-2025,0,Castres,35,13,Paris
-2025,0,Toulon,30,17,Montpellier
-2025,0,Perpignan,29,26,Lyon
-2025,0,Pau,14,22,Toulouse
-2025,0,La Rochelle,32,22,Bordeaux
-2025,0,Bordeaux,19,6,Pau
-2025,0,Lyon,38,49,Bayonne
-2025,0,Montpellier,16,0,La Rochelle
-2025,0,Racing 92,30,23,Perpignan
-2025,0,Vannes,34,28,Castres
-2025,0,Paris,36,6,Clermont
-2025,0,Toulouse,57,5,Toulon
-2025,0,Clermont,32,27,Bordeaux
-2025,0,Castres,30,26,Montpellier
-2025,0,Toulon,21,10,Lyon
-2025,0,Pau,23,33,Racing 92
-2025,0,Perpignan,32,13,Vannes
-2025,0,La Rochelle,35,18,Paris
-2025,0,Bayonne,12,8,Toulouse
-2025,0,Toulon,39,19,Bayonne
-2025,0,Castres,28,24,La Rochelle
-2025,0,Lyon,22,30,Clermont
-2025,0,Montpellier,30,3,Pau
-2025,0,Toulouse,41,9,Perpignan
-2025,0,Vannes,29,37,Bordeaux
-2025,0,Paris,40,24,Racing 92
-2025,0,Racing 92,17,21,Toulouse
-2025,0,Clermont,54,10,Castres
-2025,0,Pau,29,15,Lyon
-2025,0,La Rochelle,14,23,Vannes
-2025,0,Bordeaux,9,6,Montpellier
-2025,0,Perpignan,13,22,Toulon
-2025,0,Bayonne,21,13,Paris
-2025,0,La Rochelle,20,15,Clermont
-2025,0,Montpellier,21,17,Racing 92
-2025,0,Toulon,56,25,Pau
-2025,0,Vannes,21,27,Bayonne
-2025,0,Paris,24,7,Perpignan
-2025,0,Castres,3,13,Bordeaux
-2025,0,Lyon,17,17,Toulouse
-2025,0,Pau,48,24,Vannes
-2025,0,Bayonne,33,12,Castres
-2025,0,Clermont,18,22,Montpellier
-2025,0,Bordeaux,21,17,Toulon
-2025,0,Racing 92,25,25,Lyon
-2025,0,Perpignan,21,13,La Rochelle
-2025,0,Toulouse,38,23,Paris
-2025,0,Toulon,36,24,Racing 92
-2025,0,Castres,24,19,Pau
-2025,0,Lyon,17,12,Perpignan
-2025,0,Montpellier,42,10,Bayonne
-2025,0,Paris,19,46,Bordeaux
-2025,0,La Rochelle,22,19,Toulouse
-2025,0,Vannes,19,20,Clermont
-2025,0,Toulouse,27,17,Montpellier
-2025,0,Racing 92,20,27,Castres
-2025,0,Vannes,33,28,Paris
-2025,0,Pau,20,14,Clermont
-2025,0,Perpignan,16,11,Bayonne
-2025,0,Bordeaux,20,22,Lyon
-2025,0,Toulon,45,26,La Rochelle
-2025,0,Bayonne,36,32,Bordeaux
-2025,0,Lyon,53,17,La Rochelle
-2025,0,Racing 92,25,30,Vannes
-2025,0,Paris,39,37,Pau
-2025,0,Perpignan,20,20,Castres
-2025,0,Montpellier,30,38,Toulon
-2025,0,Clermont,18,35,Toulouse
-2025,0,Castres,30,25,Lyon
-2025,0,Toulon,24,6,Paris
-2025,0,Vannes,37,24,Montpellier
-2025,0,Pau,23,6,Perpignan
-2025,0,La Rochelle,21,26,Racing 92
-2025,0,Toulouse,41,6,Bayonne
-2025,0,Bordeaux,22,18,Clermont
-2025,0,Paris,22,17,La Rochelle
-2025,0,Lyon,27,20,Toulon
-2025,0,Montpellier,21,17,Castres
-2025,0,Racing 92,29,47,Pau
-2025,0,Toulouse,63,21,Vannes
-2025,0,Perpignan,17,29,Bordeaux
-2025,0,Bayonne,31,18,Clermont
-2025,0,La Rochelle,12,12,Castres
-2025,0,Clermont,21,23,Racing 92
-2025,0,Lyon,36,21,Vannes
-2025,0,Pau,40,38,Montpellier
-2025,0,Paris,31,27,Bayonne
-2025,0,Toulon,40,19,Perpignan
-2025,0,Bordeaux,32,24,Toulouse
-2025,0,Toulouse,55,10,Pau
-2025,0,Clermont,33,19,La Rochelle
-2025,0,Bayonne,28,14,Lyon
-2025,0,Montpellier,38,32,Paris
-2025,0,Vannes,20,20,Perpignan
-2025,0,Castres,28,26,Toulon
-2025,0,Racing 92,36,31,Bordeaux
-2025,0,Pau,22,26,Bordeaux
-2025,0,Castres,32,13,Vannes
-2025,0,Lyon,32,23,Montpellier
-2025,0,La Rochelle,29,28,Bayonne
-2025,0,Perpignan,28,24,Racing 92
-2025,0,Toulon,31,24,Clermont
-2025,0,Paris,21,27,Toulouse
-2025,0,Toulouse,52,6,Castres
-2025,0,Clermont,39,31,Lyon
-2025,0,Bayonne,27,22,Pau
-2025,0,Montpellier,19,13,Perpignan
-2025,0,Vannes,29,19,Toulon
-2025,0,Bordeaux,10,21,La Rochelle
-2025,0,Racing 92,49,24,Paris
-2025,0,Lyon,27,29,Pau
-2025,0,Racing 92,24,24,Bayonne
-2025,0,Vannes,29,30,La Rochelle
-2025,0,Perpignan,20,18,Paris
-2025,0,Toulon,16,50,Toulouse
-2025,0,Montpellier,46,27,Bordeaux
-2025,0,Castres,34,29,Clermont
-2025,0,Bordeaux,34,29,Castres
-2025,0,Clermont,31,13,Perpignan
-2025,0,Bayonne,38,32,Vannes
-2025,0,Pau,25,21,Toulon
-2025,0,Paris,31,30,Lyon
-2025,0,Toulouse,35,37,Racing 92
-2025,0,La Rochelle,47,18,Montpellier
-2025,0,Clermont,55,20,Paris
-2025,0,Castres,33,3,Bayonne
-2025,0,Racing 92,25,27,Montpellier
-2025,0,Vannes,26,52,Pau
-2025,0,La Rochelle,38,15,Perpignan
-2025,0,Toulouse,43,3,Lyon
-2025,0,Toulon,27,10,Bordeaux
-2025,0,Bayonne,18,10,Toulon
-2025,0,Lyon,34,47,Racing 92
-2025,0,Montpellier,10,23,Clermont
-2025,0,Pau,32,18,La Rochelle
-2025,0,Paris,21,10,Castres
-2025,0,Bordeaux,59,28,Vannes
-2025,0,Perpignan,42,35,Toulouse
-2025,0,Bayonne,20,3,Clermont
-2025,0,Toulon,52,23,Castres
-2025,0,Toulouse,32,25,Bayonne
-2025,0,Bordeaux,39,24,Toulon
-2025,0,Toulouse,39,33,Bordeaux
-2025,0,Grenoble,11,13,Perpignan
+season,home_team,home_score,away_score,away_team
+2015,Bayonne,15,29,Toulon
+2015,Clermont,30,26,Grenoble
+2015,Bordeaux,18,9,Lyon
+2015,Brive,37,15,La Rochelle
+2015,Castres,22,25,Paris
+2015,Toulouse,20,19,Oyonnax
+2015,Montpellier,16,19,Racing 92
+2015,Toulouse,35,6,Castres
+2015,Brive,6,21,Clermont
+2015,Bayonne,38,12,Oyonnax
+2015,Bordeaux,30,21,Racing 92
+2015,Montpellier,20,17,Grenoble
+2015,Toulon,60,19,La Rochelle
+2015,Paris,23,20,Lyon
+2015,Clermont,20,21,Montpellier
+2015,La Rochelle,37,25,Toulouse
+2015,Castres,30,6,Bayonne
+2015,Grenoble,37,23,Bordeaux
+2015,Lyon,24,6,Brive
+2015,Oyonnax,33,6,Paris
+2015,Racing 92,17,10,Toulon
+2015,Montpellier,43,10,Castres
+2015,Brive,26,19,Toulouse
+2015,Clermont,32,6,Racing 92
+2015,Grenoble,30,12,La Rochelle
+2015,Lyon,26,23,Oyonnax
+2015,Paris,34,29,Bayonne
+2015,Toulon,18,13,Bordeaux
+2015,La Rochelle,41,16,Castres
+2015,Toulouse,9,13,Clermont
+2015,Bayonne,23,6,Brive
+2015,Oyonnax,40,27,Grenoble
+2015,Racing 92,28,11,Lyon
+2015,Toulon,24,28,Paris
+2015,Bordeaux,27,21,Montpellier
+2015,Brive,13,53,Toulon
+2015,Racing 92,27,16,Toulouse
+2015,Castres,27,18,Oyonnax
+2015,Clermont,43,12,Lyon
+2015,Grenoble,24,15,Bayonne
+2015,La Rochelle,26,29,Bordeaux
+2015,Montpellier,23,3,Paris
+2015,Bayonne,35,19,Toulouse
+2015,Toulon,40,17,Montpellier
+2015,Brive,34,24,Bordeaux
+2015,Grenoble,27,25,Racing 92
+2015,Lyon,28,18,Castres
+2015,Paris,43,10,La Rochelle
+2015,Oyonnax,8,19,Clermont
+2015,Oyonnax,18,21,Toulon
+2015,Bordeaux,51,21,Clermont
+2015,Bayonne,10,15,Montpellier
+2015,Castres,51,10,Grenoble
+2015,La Rochelle,29,10,Lyon
+2015,Racing 92,46,32,Brive
+2015,Toulouse,22,10,Paris
+2015,Grenoble,26,25,Brive
+2015,Bordeaux,59,7,Castres
+2015,Clermont,30,10,La Rochelle
+2015,Lyon,24,19,Bayonne
+2015,Montpellier,25,9,Oyonnax
+2015,Paris,23,19,Racing 92
+2015,Toulouse,21,10,Toulon
+2015,Lyon,17,41,Toulouse
+2015,Brive,21,15,Castres
+2015,La Rochelle,21,15,Montpellier
+2015,Paris,39,22,Bordeaux
+2015,Racing 92,17,21,Oyonnax
+2015,Bayonne,24,13,Clermont
+2015,Toulon,61,28,Grenoble
+2015,Montpellier,10,25,Brive
+2015,Castres,22,14,Toulon
+2015,Clermont,51,9,Paris
+2015,Grenoble,34,30,Lyon
+2015,Oyonnax,37,9,La Rochelle
+2015,Racing 92,27,10,Bayonne
+2015,Bordeaux,20,21,Toulouse
+2015,Toulon,27,19,Clermont
+2015,Castres,9,14,Racing 92
+2015,La Rochelle,19,19,Bayonne
+2015,Lyon,23,20,Montpellier
+2015,Oyonnax,28,23,Bordeaux
+2015,Toulouse,22,25,Grenoble
+2015,Paris,20,17,Brive
+2015,Grenoble,30,43,Paris
+2015,Montpellier,23,20,Toulouse
+2015,Bayonne,15,12,Bordeaux
+2015,Brive,19,6,Oyonnax
+2015,Racing 92,27,8,La Rochelle
+2015,Toulon,30,6,Lyon
+2015,Clermont,19,10,Castres
+2015,Toulouse,15,9,Racing 92
+2015,Bordeaux,46,10,Brive
+2015,Castres,27,9,Montpellier
+2015,La Rochelle,19,15,Grenoble
+2015,Oyonnax,12,9,Bayonne
+2015,Lyon,16,13,Clermont
+2015,Paris,30,6,Toulon
+2015,Lyon,12,9,Paris
+2015,Racing 92,12,9,Bordeaux
+2015,Brive,25,9,Bayonne
+2015,Castres,30,15,La Rochelle
+2015,Grenoble,33,19,Oyonnax
+2015,Montpellier,16,12,Toulon
+2015,Clermont,24,6,Toulouse
+2015,Paris,49,13,Castres
+2015,Toulon,32,23,Racing 92
+2015,Bayonne,23,22,Lyon
+2015,Bordeaux,34,16,Grenoble
+2015,Oyonnax,20,13,Montpellier
+2015,Toulouse,29,26,La Rochelle
+2015,Clermont,44,20,Brive
+2015,Toulon,24,17,Bayonne
+2015,Montpellier,34,24,Bordeaux
+2015,Brive,23,0,Grenoble
+2015,La Rochelle,16,12,Clermont
+2015,Lyon,11,13,Racing 92
+2015,Paris,13,15,Oyonnax
+2015,Castres,9,13,Toulouse
+2015,La Rochelle,19,12,Brive
+2015,Bordeaux,28,23,Toulon
+2015,Bayonne,23,6,Paris
+2015,Grenoble,20,18,Montpellier
+2015,Oyonnax,23,13,Castres
+2015,Toulouse,23,20,Lyon
+2015,Racing 92,13,13,Clermont
+2015,Oyonnax,9,3,Toulouse
+2015,Bordeaux,22,23,Paris
+2015,Castres,23,20,Lyon
+2015,Clermont,28,16,Bayonne
+2015,Montpellier,15,15,La Rochelle
+2015,Racing 92,34,29,Grenoble
+2015,Toulon,34,11,Brive
+2015,Clermont,31,23,Bordeaux
+2015,Toulouse,18,13,Montpellier
+2015,Bayonne,21,19,Castres
+2015,Brive,36,12,Racing 92
+2015,La Rochelle,35,20,Oyonnax
+2015,Paris,21,30,Grenoble
+2015,Lyon,14,22,Toulon
+2015,Bayonne,6,12,Racing 92
+2015,Paris,40,26,Clermont
+2015,Bordeaux,21,22,La Rochelle
+2015,Montpellier,45,17,Lyon
+2015,Oyonnax,24,3,Brive
+2015,Toulon,24,34,Toulouse
+2015,Grenoble,12,16,Castres
+2015,La Rochelle,19,19,Paris
+2015,Racing 92,24,24,Montpellier
+2015,Brive,22,20,Lyon
+2015,Clermont,10,11,Oyonnax
+2015,Toulouse,20,17,Bayonne
+2015,Grenoble,24,35,Toulon
+2015,Castres,22,20,Bordeaux
+2015,Paris,12,21,Toulouse
+2015,La Rochelle,32,29,Toulon
+2015,Bayonne,42,33,Grenoble
+2015,Brive,15,10,Montpellier
+2015,Lyon,22,37,Bordeaux
+2015,Oyonnax,21,16,Racing 92
+2015,Castres,31,10,Clermont
+2015,Toulon,37,21,Castres
+2015,Bordeaux,26,23,Oyonnax
+2015,Lyon,16,16,La Rochelle
+2015,Montpellier,33,16,Bayonne
+2015,Toulouse,67,19,Brive
+2015,Grenoble,17,37,Clermont
+2015,Racing 92,19,28,Paris
+2015,Oyonnax,28,10,Lyon
+2015,Grenoble,32,11,Toulouse
+2015,Bordeaux,38,20,Bayonne
+2015,Castres,32,12,Brive
+2015,La Rochelle,18,18,Racing 92
+2015,Paris,35,21,Montpellier
+2015,Clermont,22,19,Toulon
+2015,Bayonne,45,12,La Rochelle
+2015,Brive,27,0,Paris
+2015,Lyon,29,24,Grenoble
+2015,Montpellier,17,29,Clermont
+2015,Racing 92,53,10,Castres
+2015,Toulon,46,17,Oyonnax
+2015,Toulouse,23,22,Bordeaux
+2015,Paris,38,15,Racing 92
+2015,Toulouse,20,19,Oyonnax
+2015,Toulon,16,33,Paris
+2015,Clermont,18,14,Toulouse
+2015,Clermont,6,12,Paris
+2016,Toulon,22,27,Racing 92
+2016,La Rochelle,6,44,Clermont
+2016,Toulouse,24,7,Brive
+2016,Montpellier,35,19,Oyonnax
+2016,Grenoble,38,23,Agen
+2016,Bordeaux,19,16,Castres
+2016,Paris,34,18,Pau
+2016,Clermont,25,6,Grenoble
+2016,Agen,9,20,Toulouse
+2016,Racing 92,20,19,La Rochelle
+2016,Oyonnax,37,19,Bordeaux
+2016,Pau,26,16,Montpellier
+2016,Brive,22,13,Paris
+2016,Castres,24,9,Toulon
+2016,Oyonnax,24,41,Clermont
+2016,La Rochelle,21,18,Brive
+2016,Grenoble,41,15,Pau
+2016,Agen,30,18,Racing 92
+2016,Toulouse,37,20,Castres
+2016,Bordeaux,22,24,Montpellier
+2016,Paris,13,20,Toulon
+2016,Castres,35,26,Oyonnax
+2016,Toulon,45,24,La Rochelle
+2016,Racing 92,23,14,Grenoble
+2016,Montpellier,44,20,Paris
+2016,Clermont,26,26,Bordeaux
+2016,Brive,18,12,Agen
+2016,Pau,9,6,Toulouse
+2016,Clermont,35,10,Pau
+2016,Oyonnax,9,18,Racing 92
+2016,Grenoble,19,30,Montpellier
+2016,Agen,16,31,Bordeaux
+2016,Paris,22,9,Castres
+2016,Toulouse,39,22,La Rochelle
+2016,Brive,29,26,Toulon
+2016,Racing 92,27,18,Paris
+2016,Castres,23,31,Grenoble
+2016,Pau,13,18,Brive
+2016,Toulon,61,3,Oyonnax
+2016,Bordeaux,12,10,Toulouse
+2016,Montpellier,24,19,Clermont
+2016,La Rochelle,23,6,Agen
+2016,Bordeaux,21,16,La Rochelle
+2016,Oyonnax,42,23,Pau
+2016,Agen,28,23,Paris
+2016,Racing 92,17,14,Brive
+2016,Montpellier,25,33,Toulouse
+2016,Clermont,42,13,Castres
+2016,Grenoble,33,29,Toulon
+2016,Toulon,52,8,Montpellier
+2016,La Rochelle,38,3,Oyonnax
+2016,Pau,33,31,Agen
+2016,Brive,16,3,Bordeaux
+2016,Toulouse,52,12,Grenoble
+2016,Castres,34,8,Racing 92
+2016,Paris,14,9,Clermont
+2016,Montpellier,25,20,La Rochelle
+2016,Racing 92,28,13,Toulouse
+2016,Oyonnax,9,34,Brive
+2016,Bordeaux,46,10,Pau
+2016,Agen,18,23,Castres
+2016,Clermont,9,35,Toulon
+2016,Grenoble,19,21,Paris
+2016,Pau,15,15,Racing 92
+2016,Toulon,53,23,Agen
+2016,Castres,34,19,Montpellier
+2016,La Rochelle,33,16,Grenoble
+2016,Paris,21,24,Bordeaux
+2016,Toulouse,27,3,Oyonnax
+2016,Brive,21,26,Clermont
+2016,Oyonnax,25,12,Paris
+2016,Montpellier,45,20,Agen
+2016,Pau,15,11,La Rochelle
+2016,Castres,23,8,Brive
+2016,Bordeaux,25,19,Grenoble
+2016,Clermont,16,20,Racing 92
+2016,Toulouse,31,8,Toulon
+2016,Agen,16,33,Clermont
+2016,La Rochelle,25,21,Castres
+2016,Grenoble,42,17,Oyonnax
+2016,Racing 92,23,18,Bordeaux
+2016,Brive,19,18,Montpellier
+2016,Toulon,21,17,Pau
+2016,Paris,18,17,Toulouse
+2016,Bordeaux,15,12,Toulon
+2016,Paris,33,20,La Rochelle
+2016,Montpellier,60,7,Racing 92
+2016,Oyonnax,30,28,Agen
+2016,Pau,21,16,Castres
+2016,Grenoble,26,22,Brive
+2016,Clermont,32,23,Toulouse
+2016,Brive,28,6,La Rochelle
+2016,Clermont,15,19,Montpellier
+2016,Castres,19,9,Bordeaux
+2016,Racing 92,26,3,Oyonnax
+2016,Agen,27,33,Grenoble
+2016,Toulouse,54,3,Pau
+2016,Toulon,23,16,Paris
+2016,Paris,32,17,Brive
+2016,Castres,17,28,Clermont
+2016,Montpellier,16,19,Pau
+2016,Bordeaux,24,19,Agen
+2016,Grenoble,35,39,Racing 92
+2016,La Rochelle,28,8,Toulouse
+2016,Oyonnax,13,44,Toulon
+2016,Toulon,44,15,Brive
+2016,Paris,18,33,Grenoble
+2016,Agen,31,27,La Rochelle
+2016,Clermont,44,16,Oyonnax
+2016,Pau,3,15,Bordeaux
+2016,Racing 92,9,13,Castres
+2016,Toulouse,29,31,Montpellier
+2016,Grenoble,12,45,Clermont
+2016,Brive,21,21,Toulouse
+2016,Racing 92,38,13,Agen
+2016,Pau,19,12,Paris
+2016,Bordeaux,48,20,Oyonnax
+2016,Montpellier,22,19,Castres
+2016,La Rochelle,19,14,Toulon
+2016,Toulouse,13,13,Bordeaux
+2016,Paris,16,34,Racing 92
+2016,Clermont,25,6,Brive
+2016,La Rochelle,35,16,Pau
+2016,Castres,50,6,Agen
+2016,Toulon,38,8,Grenoble
+2016,Oyonnax,10,31,Montpellier
+2016,Racing 92,20,21,Toulon
+2016,Brive,23,22,Castres
+2016,Grenoble,39,23,La Rochelle
+2016,Agen,21,45,Montpellier
+2016,Pau,25,6,Oyonnax
+2016,Bordeaux,19,24,Clermont
+2016,Toulouse,36,3,Paris
+2016,Montpellier,19,3,Brive
+2016,Castres,15,9,Toulouse
+2016,Agen,26,33,Pau
+2016,Oyonnax,20,27,Grenoble
+2016,La Rochelle,21,18,Paris
+2016,Bordeaux,20,28,Racing 92
+2016,Toulon,18,19,Clermont
+2016,Grenoble,28,33,Castres
+2016,Pau,9,25,Toulon
+2016,Brive,31,13,Oyonnax
+2016,Clermont,38,10,Agen
+2016,La Rochelle,22,15,Bordeaux
+2016,Paris,20,26,Montpellier
+2016,Toulouse,14,3,Racing 92
+2016,Toulon,10,12,Toulouse
+2016,Montpellier,51,10,Grenoble
+2016,Oyonnax,17,16,La Rochelle
+2016,Castres,37,6,Pau
+2016,Agen,37,19,Brive
+2016,Bordeaux,35,25,Paris
+2016,Racing 92,26,20,Clermont
+2016,Grenoble,14,20,Bordeaux
+2016,La Rochelle,36,10,Montpellier
+2016,Pau,10,16,Clermont
+2016,Paris,69,8,Oyonnax
+2016,Brive,33,27,Racing 92
+2016,Toulouse,52,19,Agen
+2016,Toulon,17,7,Castres
+2016,Agen,13,52,Toulon
+2016,Racing 92,43,13,Pau
+2016,Castres,67,20,La Rochelle
+2016,Oyonnax,17,25,Toulouse
+2016,Brive,45,24,Grenoble
+2016,Montpellier,19,16,Bordeaux
+2016,Clermont,36,10,Paris
+2016,La Rochelle,14,30,Racing 92
+2016,Bordeaux,34,7,Brive
+2016,Paris,28,26,Agen
+2016,Pau,29,12,Grenoble
+2016,Oyonnax,20,25,Castres
+2016,Toulouse,22,11,Clermont
+2016,Montpellier,36,21,Toulon
+2016,Grenoble,14,53,Toulouse
+2016,Toulon,44,3,Bordeaux
+2016,Brive,46,10,Pau
+2016,Clermont,57,8,La Rochelle
+2016,Agen,23,19,Oyonnax
+2016,Racing 92,40,25,Montpellier
+2016,Castres,35,14,Paris
+2016,Racing 92,21,16,Toulouse
+2016,Montpellier,28,9,Castres
+2016,Clermont,33,34,Racing 92
+2016,Toulon,27,18,Montpellier
+2016,Toulon,21,29,Racing 92
+2017,Bordeaux,15,9,Racing 92
+2017,Castres,28,11,Pau
+2017,La Rochelle,30,30,Clermont
+2017,Lyon,15,15,Brive
+2017,Paris,54,20,Grenoble
+2017,Toulouse,20,12,Montpellier
+2017,Bayonne,28,23,Toulon
+2017,Pau,18,22,Toulon
+2017,Bayonne,12,12,Castres
+2017,Brive,28,20,Paris
+2017,Grenoble,19,22,La Rochelle
+2017,Racing 92,29,16,Lyon
+2017,Toulouse,22,17,Bordeaux
+2017,Montpellier,22,26,Clermont
+2017,Paris,30,30,Clermont
+2017,Castres,18,26,La Rochelle
+2017,Lyon,32,13,Grenoble
+2017,Pau,25,9,Bayonne
+2017,Toulon,21,25,Brive
+2017,Bordeaux,15,32,Montpellier
+2017,Racing 92,28,14,Toulouse
+2017,Paris,29,25,Castres
+2017,Bordeaux,40,20,Bayonne
+2017,La Rochelle,43,18,Lyon
+2017,Montpellier,41,13,Pau
+2017,Clermont,47,10,Racing 92
+2017,Grenoble,36,23,Brive
+2017,Toulouse,15,32,Toulon
+2017,Lyon,25,20,Toulouse
+2017,Bayonne,9,21,Montpellier
+2017,Brive,29,28,La Rochelle
+2017,Pau,23,6,Paris
+2017,Clermont,40,16,Bordeaux
+2017,Castres,46,9,Grenoble
+2017,Racing 92,41,30,Toulon
+2017,Castres,31,23,Racing 92
+2017,Bordeaux,32,10,Lyon
+2017,Grenoble,38,39,Pau
+2017,La Rochelle,34,17,Bayonne
+2017,Toulouse,23,18,Paris
+2017,Montpellier,42,13,Brive
+2017,Toulon,23,21,Clermont
+2017,Clermont,29,19,Castres
+2017,Bayonne,22,22,Lyon
+2017,Pau,28,30,Bordeaux
+2017,Toulouse,31,3,Grenoble
+2017,Brive,25,16,Racing 92
+2017,Paris,31,26,La Rochelle
+2017,Toulon,28,6,Montpellier
+2017,Racing 92,29,22,Paris
+2017,Bordeaux,27,25,Brive
+2017,Grenoble,44,16,Bayonne
+2017,Montpellier,28,19,Castres
+2017,La Rochelle,17,17,Toulon
+2017,Lyon,27,22,Pau
+2017,Clermont,29,25,Toulouse
+2017,Pau,20,24,Toulouse
+2017,Montpellier,12,11,La Rochelle
+2017,Paris,25,19,Lyon
+2017,Toulon,42,12,Grenoble
+2017,Bayonne,3,16,Racing 92
+2017,Castres,33,27,Bordeaux
+2017,Brive,16,40,Clermont
+2017,Bordeaux,37,19,Paris
+2017,Brive,26,9,Bayonne
+2017,Clermont,21,20,Grenoble
+2017,Toulouse,16,15,Castres
+2017,Racing 92,21,9,Montpellier
+2017,La Rochelle,27,6,Pau
+2017,Lyon,27,13,Toulon
+2017,Pau,26,17,Racing 92
+2017,Castres,32,13,Brive
+2017,Grenoble,22,24,Bordeaux
+2017,Montpellier,25,20,Lyon
+2017,Bayonne,22,14,Clermont
+2017,La Rochelle,25,19,Toulouse
+2017,Toulon,31,12,Paris
+2017,Castres,34,17,Toulon
+2017,Bordeaux,26,0,La Rochelle
+2017,Brive,38,25,Pau
+2017,Clermont,16,13,Lyon
+2017,Racing 92,29,24,Grenoble
+2017,Paris,21,17,Montpellier
+2017,Bayonne,16,13,Toulouse
+2017,Pau,40,35,Clermont
+2017,Grenoble,37,51,Montpellier
+2017,Lyon,19,23,Castres
+2017,Paris,51,5,Bayonne
+2017,La Rochelle,23,23,Racing 92
+2017,Toulouse,30,12,Brive
+2017,Toulon,37,10,Bordeaux
+2017,Grenoble,26,22,Toulouse
+2017,Brive,22,6,Lyon
+2017,Bayonne,17,42,La Rochelle
+2017,Bordeaux,16,18,Pau
+2017,Clermont,46,10,Paris
+2017,Racing 92,23,10,Castres
+2017,Montpellier,33,29,Toulon
+2017,Lyon,19,16,Bordeaux
+2017,Pau,32,27,Montpellier
+2017,Castres,47,18,Bayonne
+2017,Paris,12,10,Brive
+2017,Toulouse,26,20,Clermont
+2017,La Rochelle,40,3,Grenoble
+2017,Toulon,17,11,Racing 92
+2017,Montpellier,31,26,Bordeaux
+2017,Brive,23,22,Grenoble
+2017,La Rochelle,22,8,Castres
+2017,Paris,15,18,Toulouse
+2017,Clermont,30,6,Toulon
+2017,Racing 92,59,20,Bayonne
+2017,Pau,38,15,Lyon
+2017,Toulon,20,23,La Rochelle
+2017,Castres,38,25,Montpellier
+2017,Grenoble,44,22,Paris
+2017,Toulouse,10,20,Pau
+2017,Lyon,37,25,Racing 92
+2017,Bayonne,33,23,Brive
+2017,Bordeaux,23,23,Clermont
+2017,La Rochelle,37,18,Paris
+2017,Clermont,46,27,Bayonne
+2017,Pau,39,22,Grenoble
+2017,Racing 92,33,25,Brive
+2017,Toulon,31,17,Lyon
+2017,Bordeaux,17,29,Castres
+2017,Montpellier,27,18,Toulouse
+2017,Castres,26,16,Clermont
+2017,Bayonne,25,25,Pau
+2017,Grenoble,19,10,Racing 92
+2017,Brive,15,5,Toulon
+2017,Lyon,16,3,Montpellier
+2017,Paris,32,9,Bordeaux
+2017,Toulouse,21,27,La Rochelle
+2017,Bordeaux,46,14,Grenoble
+2017,Lyon,35,33,Paris
+2017,Toulon,82,14,Bayonne
+2017,Brive,21,19,Toulouse
+2017,Racing 92,15,38,La Rochelle
+2017,Pau,18,12,Castres
+2017,Clermont,19,28,Montpellier
+2017,Bayonne,24,20,Bordeaux
+2017,Clermont,65,13,Pau
+2017,La Rochelle,36,17,Brive
+2017,Toulouse,42,26,Lyon
+2017,Grenoble,23,23,Toulon
+2017,Castres,33,10,Paris
+2017,Montpellier,54,3,Racing 92
+2017,Racing 92,27,24,Clermont
+2017,Grenoble,21,20,Castres
+2017,Lyon,52,7,Bayonne
+2017,Pau,13,23,La Rochelle
+2017,Bordeaux,20,11,Toulouse
+2017,Brive,28,25,Montpellier
+2017,Paris,17,11,Toulon
+2017,La Rochelle,16,5,Bordeaux
+2017,Bayonne,16,32,Paris
+2017,Castres,16,17,Lyon
+2017,Montpellier,54,14,Grenoble
+2017,Clermont,21,26,Brive
+2017,Racing 92,34,32,Pau
+2017,Toulon,33,23,Toulouse
+2017,Toulon,23,14,Castres
+2017,Brive,19,22,Bordeaux
+2017,Grenoble,18,59,Clermont
+2017,Paris,51,16,Pau
+2017,Lyon,29,25,La Rochelle
+2017,Montpellier,61,22,Bayonne
+2017,Toulouse,8,10,Racing 92
+2017,Castres,52,7,Toulouse
+2017,Bayonne,43,35,Grenoble
+2017,Lyon,20,23,Clermont
+2017,Pau,32,27,Brive
+2017,Bordeaux,13,26,Toulon
+2017,La Rochelle,40,37,Montpellier
+2017,Paris,27,23,Racing 92
+2017,Brive,33,27,Castres
+2017,Clermont,30,26,La Rochelle
+2017,Grenoble,53,21,Lyon
+2017,Montpellier,27,26,Paris
+2017,Racing 92,22,20,Bordeaux
+2017,Toulon,32,12,Pau
+2017,Toulouse,40,12,Bayonne
+2017,Toulon,26,22,Castres
+2017,Montpellier,13,22,Racing 92
+2017,La Rochelle,15,18,Toulon
+2017,Clermont,37,31,Racing 92
+2017,Clermont,22,16,Toulon
+2018,Oyonnax,23,23,Toulouse
+2018,Brive,10,19,La Rochelle
+2018,Montpellier,48,19,Agen
+2018,Paris,16,25,Lyon
+2018,Racing 92,25,21,Castres
+2018,Bordeaux,32,25,Clermont
+2018,Toulon,41,14,Pau
+2018,Agen,23,19,Racing 92
+2018,Paris,35,24,La Rochelle
+2018,Castres,33,19,Bordeaux
+2018,Lyon,29,14,Brive
+2018,Montpellier,37,6,Oyonnax
+2018,Toulouse,23,19,Pau
+2018,Clermont,21,16,Toulon
+2018,La Rochelle,51,20,Clermont
+2018,Bordeaux,30,10,Paris
+2018,Brive,6,25,Racing 92
+2018,Oyonnax,12,10,Agen
+2018,Castres,17,22,Montpellier
+2018,Pau,30,14,Lyon
+2018,Toulon,20,16,Toulouse
+2018,Toulouse,53,17,Paris
+2018,Agen,15,20,La Rochelle
+2018,Lyon,49,14,Bordeaux
+2018,Pau,28,13,Castres
+2018,Clermont,62,6,Brive
+2018,Racing 92,25,13,Oyonnax
+2018,Montpellier,43,20,Toulon
+2018,Clermont,23,21,Racing 92
+2018,Agen,14,20,Pau
+2018,Bordeaux,47,17,Montpellier
+2018,La Rochelle,57,12,Oyonnax
+2018,Brive,19,22,Toulouse
+2018,Lyon,31,12,Castres
+2018,Paris,15,19,Toulon
+2018,Toulon,26,20,La Rochelle
+2018,Oyonnax,9,39,Bordeaux
+2018,Pau,23,25,Paris
+2018,Toulouse,30,10,Agen
+2018,Racing 92,17,20,Lyon
+2018,Montpellier,54,10,Brive
+2018,Castres,29,23,Clermont
+2018,Paris,31,20,Montpellier
+2018,Bordeaux,30,27,Toulon
+2018,Brive,27,22,Castres
+2018,Oyonnax,16,19,Pau
+2018,Agen,6,25,Lyon
+2018,La Rochelle,16,9,Racing 92
+2018,Toulouse,28,18,Clermont
+2018,Toulon,41,24,Brive
+2018,Lyon,52,18,Oyonnax
+2018,Pau,16,22,Montpellier
+2018,Racing 92,29,13,Bordeaux
+2018,Clermont,33,10,Paris
+2018,Castres,43,28,Agen
+2018,La Rochelle,37,21,Toulouse
+2018,Toulouse,38,37,Bordeaux
+2018,Lyon,15,19,La Rochelle
+2018,Oyonnax,19,32,Castres
+2018,Racing 92,23,20,Pau
+2018,Agen,26,24,Toulon
+2018,Brive,20,19,Paris
+2018,Montpellier,28,24,Clermont
+2018,Clermont,39,18,Lyon
+2018,Bordeaux,33,23,Agen
+2018,Castres,31,15,La Rochelle
+2018,Montpellier,32,22,Toulouse
+2018,Pau,34,15,Brive
+2018,Paris,39,35,Oyonnax
+2018,Toulon,29,40,Racing 92
+2018,Castres,20,19,Toulon
+2018,Agen,29,13,Paris
+2018,Bordeaux,27,27,Brive
+2018,La Rochelle,44,14,Pau
+2018,Oyonnax,32,32,Clermont
+2018,Racing 92,26,0,Montpellier
+2018,Lyon,9,17,Toulouse
+2018,La Rochelle,26,14,Montpellier
+2018,Brive,33,30,Oyonnax
+2018,Pau,27,17,Bordeaux
+2018,Toulouse,31,41,Castres
+2018,Toulon,39,11,Lyon
+2018,Clermont,35,26,Agen
+2018,Paris,27,17,Racing 92
+2018,Racing 92,23,19,Toulouse
+2018,Agen,27,13,Brive
+2018,Bordeaux,29,19,La Rochelle
+2018,Montpellier,38,17,Lyon
+2018,Castres,28,6,Paris
+2018,Pau,22,21,Clermont
+2018,Toulon,49,25,Oyonnax
+2018,La Rochelle,47,6,Agen
+2018,Paris,22,12,Bordeaux
+2018,Brive,29,10,Montpellier
+2018,Oyonnax,12,16,Racing 92
+2018,Toulouse,18,13,Toulon
+2018,Lyon,35,23,Pau
+2018,Clermont,27,31,Castres
+2018,Bordeaux,19,10,Lyon
+2018,Brive,13,12,Toulon
+2018,Agen,30,3,Castres
+2018,Oyonnax,38,38,La Rochelle
+2018,Montpellier,28,16,Paris
+2018,Pau,11,10,Toulouse
+2018,Racing 92,58,6,Clermont
+2018,Toulon,36,12,Bordeaux
+2018,La Rochelle,33,24,Brive
+2018,Lyon,71,17,Agen
+2018,Toulouse,37,15,Oyonnax
+2018,Castres,13,18,Racing 92
+2018,Paris,5,40,Pau
+2018,Clermont,29,30,Montpellier
+2018,Toulon,43,5,Paris
+2018,Agen,25,52,Toulouse
+2018,Brive,16,21,Pau
+2018,Oyonnax,30,43,Montpellier
+2018,Lyon,36,10,Clermont
+2018,Bordeaux,6,7,Castres
+2018,Racing 92,19,12,La Rochelle
+2018,Montpellier,11,10,Bordeaux
+2018,Castres,33,22,Lyon
+2018,Clermont,12,18,Oyonnax
+2018,Paris,34,36,Agen
+2018,Pau,24,15,Racing 92
+2018,Toulouse,45,28,Brive
+2018,La Rochelle,20,27,Toulon
+2018,Lyon,15,6,Toulon
+2018,Agen,31,29,Montpellier
+2018,Castres,27,29,Pau
+2018,Racing 92,17,13,Brive
+2018,Bordeaux,19,25,Toulouse
+2018,Oyonnax,33,27,Paris
+2018,Clermont,21,17,La Rochelle
+2018,Montpellier,41,3,Racing 92
+2018,Bordeaux,20,26,Oyonnax
+2018,Pau,18,15,La Rochelle
+2018,Toulon,54,5,Agen
+2018,Brive,9,11,Clermont
+2018,Paris,23,17,Castres
+2018,Toulouse,20,27,Lyon
+2018,Racing 92,28,22,Paris
+2018,Agen,10,15,Bordeaux
+2018,La Rochelle,19,15,Lyon
+2018,Oyonnax,29,26,Toulon
+2018,Clermont,38,14,Pau
+2018,Castres,37,28,Brive
+2018,Toulouse,22,14,Montpellier
+2018,La Rochelle,31,20,Bordeaux
+2018,Paris,33,37,Toulouse
+2018,Brive,15,12,Agen
+2018,Pau,33,12,Oyonnax
+2018,Montpellier,45,7,Castres
+2018,Toulon,49,0,Clermont
+2018,Lyon,22,24,Racing 92
+2018,Castres,28,23,Toulouse
+2018,Bordeaux,19,18,Pau
+2018,Brive,25,27,Lyon
+2018,Paris,50,13,Clermont
+2018,Agen,36,21,Oyonnax
+2018,Montpellier,40,24,La Rochelle
+2018,Racing 92,17,13,Toulon
+2018,Toulon,32,17,Montpellier
+2018,Clermont,33,3,Bordeaux
+2018,Oyonnax,40,17,Brive
+2018,Pau,22,33,Agen
+2018,Lyon,44,3,Paris
+2018,La Rochelle,18,26,Castres
+2018,Toulouse,42,27,Racing 92
+2018,Toulon,59,13,Castres
+2018,Agen,27,17,Clermont
+2018,Montpellier,45,13,Pau
+2018,Oyonnax,39,18,Lyon
+2018,Paris,30,22,Brive
+2018,Bordeaux,15,39,Racing 92
+2018,Toulouse,19,14,La Rochelle
+2018,Brive,22,20,Bordeaux
+2018,Castres,54,3,Oyonnax
+2018,La Rochelle,31,7,Paris
+2018,Lyon,32,24,Montpellier
+2018,Pau,38,26,Toulon
+2018,Racing 92,42,13,Agen
+2018,Clermont,36,26,Toulouse
+2018,Toulon,19,19,Lyon
+2018,Toulouse,11,23,Castres
+2018,Montpellier,40,14,Lyon
+2018,Racing 92,14,19,Castres
+2018,Montpellier,13,29,Castres
+2018,Grenoble,47,22,Oyonnax
+2019,Perpignan,15,46,Paris
+2019,La Rochelle,28,21,Grenoble
+2019,Bordeaux,41,19,Pau
+2019,Clermont,67,23,Agen
+2019,Lyon,16,16,Toulouse
+2019,Toulon,9,25,Racing 92
+2019,Montpellier,20,25,Castres
+2019,Pau,20,10,Toulon
+2019,Paris,20,8,Bordeaux
+2019,Castres,19,16,Lyon
+2019,Montpellier,36,14,La Rochelle
+2019,Grenoble,20,23,Toulouse
+2019,Agen,25,23,Perpignan
+2019,Racing 92,17,40,Clermont
+2019,Bordeaux,9,9,Montpellier
+2019,Toulouse,33,26,La Rochelle
+2019,Racing 92,59,7,Agen
+2019,Perpignan,16,22,Lyon
+2019,Clermont,42,20,Paris
+2019,Grenoble,21,24,Pau
+2019,Toulon,28,27,Castres
+2019,Lyon,55,13,Montpellier
+2019,Pau,23,27,Clermont
+2019,Agen,22,17,Bordeaux
+2019,Castres,29,13,Grenoble
+2019,Toulouse,30,17,Racing 92
+2019,La Rochelle,37,10,Perpignan
+2019,Paris,37,10,Toulon
+2019,Bordeaux,23,19,Clermont
+2019,La Rochelle,30,13,Lyon
+2019,Toulon,33,3,Agen
+2019,Grenoble,31,22,Perpignan
+2019,Racing 92,27,11,Castres
+2019,Pau,13,25,Paris
+2019,Montpellier,66,15,Toulouse
+2019,Toulouse,22,26,Castres
+2019,Agen,25,28,Pau
+2019,Bordeaux,34,22,La Rochelle
+2019,Lyon,34,6,Grenoble
+2019,Perpignan,20,23,Montpellier
+2019,Clermont,28,8,Toulon
+2019,Paris,16,17,Racing 92
+2019,La Rochelle,16,12,Clermont
+2019,Grenoble,28,25,Bordeaux
+2019,Pau,12,9,Perpignan
+2019,Racing 92,13,19,Lyon
+2019,Toulouse,10,0,Agen
+2019,Castres,9,14,Paris
+2019,Montpellier,29,17,Toulon
+2019,Clermont,41,6,Castres
+2019,Agen,9,9,Grenoble
+2019,Perpignan,18,36,Toulouse
+2019,Racing 92,48,28,Pau
+2019,Paris,25,20,Montpellier
+2019,Bordeaux,35,13,Lyon
+2019,Toulon,9,13,La Rochelle
+2019,Grenoble,27,27,Clermont
+2019,Castres,37,10,Pau
+2019,La Rochelle,33,29,Agen
+2019,Toulon,26,16,Perpignan
+2019,Toulouse,40,0,Bordeaux
+2019,Lyon,41,6,Paris
+2019,Montpellier,13,27,Racing 92
+2019,Bordeaux,36,25,Toulon
+2019,Agen,15,18,Montpellier
+2019,Pau,13,15,Toulouse
+2019,Perpignan,12,16,Castres
+2019,Racing 92,24,23,Grenoble
+2019,Paris,12,14,La Rochelle
+2019,Clermont,31,11,Lyon
+2019,Montpellier,23,28,Clermont
+2019,Castres,13,16,Agen
+2019,Lyon,30,10,Pau
+2019,La Rochelle,16,11,Racing 92
+2019,Toulon,22,3,Grenoble
+2019,Perpignan,11,22,Bordeaux
+2019,Toulouse,49,20,Paris
+2019,Agen,6,19,Paris
+2019,Toulon,40,7,Lyon
+2019,Grenoble,17,16,Montpellier
+2019,Pau,23,28,La Rochelle
+2019,Racing 92,64,28,Perpignan
+2019,Castres,13,32,Bordeaux
+2019,Clermont,20,20,Toulouse
+2019,Lyon,52,20,Agen
+2019,Paris,23,20,Grenoble
+2019,La Rochelle,53,27,Castres
+2019,Perpignan,16,37,Clermont
+2019,Montpellier,41,13,Pau
+2019,Bordeaux,40,7,Racing 92
+2019,Toulouse,39,0,Toulon
+2019,Paris,27,8,Perpignan
+2019,Grenoble,6,16,Castres
+2019,Montpellier,14,25,Lyon
+2019,Pau,40,23,Bordeaux
+2019,Agen,20,27,Toulouse
+2019,Racing 92,22,13,Toulon
+2019,Clermont,44,19,La Rochelle
+2019,Castres,24,16,Clermont
+2019,Bordeaux,25,17,Agen
+2019,Perpignan,24,30,Pau
+2019,La Rochelle,27,25,Montpellier
+2019,Lyon,32,11,Racing 92
+2019,Toulouse,29,16,Grenoble
+2019,Toulon,33,30,Paris
+2019,Clermont,40,20,Bordeaux
+2019,Montpellier,10,28,Perpignan
+2019,Paris,13,24,Lyon
+2019,Pau,9,14,Castres
+2019,Agen,19,10,Toulon
+2019,Grenoble,21,28,La Rochelle
+2019,Racing 92,29,34,Toulouse
+2019,Bordeaux,47,31,Grenoble
+2019,Perpignan,13,20,Agen
+2019,Toulon,38,11,Pau
+2019,Toulouse,27,14,Montpellier
+2019,La Rochelle,14,27,Paris
+2019,Castres,18,9,Racing 92
+2019,Lyon,19,13,Clermont
+2019,Racing 92,50,14,La Rochelle
+2019,Clermont,52,17,Grenoble
+2019,Montpellier,37,10,Bordeaux
+2019,Pau,27,17,Agen
+2019,Lyon,15,23,Castres
+2019,Perpignan,11,24,Toulon
+2019,Paris,9,28,Toulouse
+2019,Toulon,18,21,Montpellier
+2019,Agen,19,7,La Rochelle
+2019,Castres,36,17,Perpignan
+2019,Grenoble,16,34,Racing 92
+2019,Bordeaux,26,12,Paris
+2019,Clermont,27,14,Pau
+2019,Toulouse,53,21,Lyon
+2019,Lyon,42,33,Toulon
+2019,Paris,32,16,Castres
+2019,Pau,15,24,Montpellier
+2019,Perpignan,22,16,Grenoble
+2019,Agen,13,28,Clermont
+2019,Racing 92,45,27,Bordeaux
+2019,La Rochelle,19,23,Toulouse
+2019,Toulon,25,10,Toulouse
+2019,Bordeaux,31,22,Perpignan
+2019,Grenoble,21,17,Paris
+2019,Montpellier,33,17,Agen
+2019,Castres,25,11,La Rochelle
+2019,Pau,24,27,Lyon
+2019,Clermont,31,31,Racing 92
+2019,Bordeaux,12,16,Castres
+2019,Lyon,47,9,Perpignan
+2019,Paris,25,22,Agen
+2019,La Rochelle,71,21,Pau
+2019,Grenoble,19,18,Toulon
+2019,Racing 92,26,25,Montpellier
+2019,Toulouse,47,44,Clermont
+2019,Pau,29,27,Racing 92
+2019,Castres,20,21,Toulouse
+2019,Agen,25,15,Lyon
+2019,Montpellier,47,12,Grenoble
+2019,Perpignan,29,49,La Rochelle
+2019,Toulon,45,17,Bordeaux
+2019,Paris,25,41,Clermont
+2019,Toulouse,83,6,Pau
+2019,Castres,9,12,Montpellier
+2019,Clermont,35,13,Perpignan
+2019,Grenoble,11,29,Agen
+2019,La Rochelle,30,21,Toulon
+2019,Lyon,34,10,Bordeaux
+2019,Racing 92,23,27,Paris
+2019,Agen,10,17,Castres
+2019,Pau,22,0,Grenoble
+2019,Perpignan,14,52,Racing 92
+2019,Lyon,29,19,La Rochelle
+2019,Montpellier,42,25,Paris
+2019,Bordeaux,36,43,Toulouse
+2019,Toulon,32,11,Clermont
+2019,Agen,3,35,Racing 92
+2019,Castres,16,25,Toulon
+2019,Clermont,27,28,Montpellier
+2019,Grenoble,23,24,Lyon
+2019,Paris,31,17,Pau
+2019,La Rochelle,81,12,Bordeaux
+2019,Toulouse,47,7,Perpignan
+2019,Racing 92,13,19,La Rochelle
+2019,Lyon,21,16,Montpellier
+2019,Toulouse,20,6,La Rochelle
+2019,Clermont,33,13,Lyon
+2019,Toulouse,24,18,Clermont
+2019,Brive,28,22,Grenoble
+2020,Agen,25,44,Toulon
+2020,Castres,26,25,Montpellier
+2020,Lyon,43,9,Paris
+2020,Pau,33,14,Brive
+2020,Racing 92,17,24,Bayonne
+2020,Bordeaux,30,25,Toulouse
+2020,Clermont,28,10,La Rochelle
+2020,Bayonne,30,34,Clermont
+2020,Agen,16,10,Brive
+2020,La Rochelle,28,26,Paris
+2020,Montpellier,43,22,Pau
+2020,Bordeaux,34,12,Toulon
+2020,Racing 92,23,14,Castres
+2020,Lyon,22,12,Toulouse
+2020,Castres,32,34,Bordeaux
+2020,Toulon,6,20,Lyon
+2020,Montpellier,30,16,La Rochelle
+2020,Paris,33,27,Bayonne
+2020,Pau,18,12,Agen
+2020,Brive,28,21,Clermont
+2020,Toulouse,20,17,Racing 92
+2020,La Rochelle,28,13,Toulouse
+2020,Bayonne,27,17,Castres
+2020,Clermont,28,37,Pau
+2020,Lyon,59,3,Brive
+2020,Bordeaux,52,3,Paris
+2020,Agen,29,10,Montpellier
+2020,Toulon,32,29,Racing 92
+2020,Brive,39,17,Toulon
+2020,Bayonne,23,22,La Rochelle
+2020,Castres,30,27,Agen
+2020,Toulouse,24,23,Pau
+2020,Racing 92,20,31,Lyon
+2020,Montpellier,17,17,Bordeaux
+2020,Paris,18,32,Clermont
+2020,Clermont,20,13,Montpellier
+2020,Agen,27,29,Bayonne
+2020,Brive,23,9,Toulouse
+2020,Castres,46,16,Paris
+2020,Lyon,25,23,Bordeaux
+2020,Pau,3,31,Racing 92
+2020,Toulon,23,3,La Rochelle
+2020,Bayonne,28,24,Montpellier
+2020,Toulouse,36,15,Castres
+2020,La Rochelle,41,17,Brive
+2020,Lyon,27,8,Pau
+2020,Racing 92,27,27,Agen
+2020,Paris,33,30,Toulon
+2020,Bordeaux,42,15,Clermont
+2020,Montpellier,33,22,Toulouse
+2020,Agen,27,14,Paris
+2020,Brive,30,9,Bordeaux
+2020,Pau,37,24,Castres
+2020,Toulon,20,9,Bayonne
+2020,La Rochelle,12,6,Racing 92
+2020,Clermont,24,15,Lyon
+2020,Toulon,19,19,Montpellier
+2020,Bayonne,3,9,Pau
+2020,Bordeaux,23,0,Agen
+2020,Castres,28,26,Brive
+2020,Toulouse,34,8,Clermont
+2020,Lyon,45,17,La Rochelle
+2020,Paris,9,25,Racing 92
+2020,Racing 92,30,34,Bordeaux
+2020,Clermont,30,13,Agen
+2020,La Rochelle,22,13,Castres
+2020,Pau,9,19,Toulon
+2020,Montpellier,33,8,Lyon
+2020,Brive,26,21,Paris
+2020,Toulouse,45,10,Bayonne
+2020,Bayonne,6,6,Brive
+2020,Castres,29,12,Lyon
+2020,Racing 92,29,25,Montpellier
+2020,Agen,8,13,Toulouse
+2020,Paris,21,18,Pau
+2020,Bordeaux,20,15,La Rochelle
+2020,Toulon,41,19,Clermont
+2020,Lyon,52,9,Bayonne
+2020,Brive,20,44,Racing 92
+2020,Montpellier,20,20,Paris
+2020,La Rochelle,40,8,Agen
+2020,Pau,23,27,Bordeaux
+2020,Clermont,39,22,Castres
+2020,Toulouse,13,13,Toulon
+2020,Agen,12,13,Lyon
+2020,Racing 92,27,19,Clermont
+2020,Bordeaux,22,3,Bayonne
+2020,Montpellier,29,26,Brive
+2020,Pau,13,44,La Rochelle
+2020,Toulon,43,3,Castres
+2020,Paris,30,18,Toulouse
+2020,Lyon,27,12,Toulon
+2020,Brive,33,26,Pau
+2020,Castres,0,27,Racing 92
+2020,La Rochelle,35,30,Montpellier
+2020,Clermont,29,19,Paris
+2020,Bayonne,22,23,Agen
+2020,Toulouse,22,14,Bordeaux
+2020,Bordeaux,37,19,Lyon
+2020,Montpellier,31,29,Bayonne
+2020,Pau,20,23,Clermont
+2020,Toulon,34,17,Brive
+2020,Paris,21,20,La Rochelle
+2020,Agen,24,43,Castres
+2020,Racing 92,30,27,Toulouse
+2020,La Rochelle,17,12,Toulon
+2020,Bayonne,28,17,Paris
+2020,Brive,16,30,Agen
+2020,Castres,26,16,Pau
+2020,Clermont,22,31,Bordeaux
+2020,Lyon,29,20,Racing 92
+2020,Toulouse,25,7,Montpellier
+2020,Racing 92,49,0,La Rochelle
+2020,Agen,15,32,Clermont
+2020,Bayonne,20,10,Toulouse
+2020,Pau,19,15,Montpellier
+2020,Brive,30,16,Lyon
+2020,Bordeaux,26,24,Castres
+2020,Toulon,19,18,Paris
+2021,Montpellier,23,26,Pau
+2021,La Rochelle,29,15,Toulon
+2021,Agen,22,26,Castres
+2021,Lyon,23,27,Racing 92
+2021,Brive,42,23,Bayonne
+2021,Clermont,33,30,Toulouse
+2021,Paris,26,16,Bordeaux
+2021,Pau,33,23,Agen
+2021,Racing 92,41,17,Montpellier
+2021,Toulouse,39,23,La Rochelle
+2021,Bayonne,21,19,Clermont
+2021,Bordeaux,25,20,Brive
+2021,Castres,16,22,Paris
+2021,Toulon,36,14,Lyon
+2021,Brive,19,13,Pau
+2021,Paris,19,26,Bayonne
+2021,Clermont,31,12,Agen
+2021,Toulouse,39,19,Toulon
+2021,Lyon,27,10,Bordeaux
+2021,La Rochelle,9,6,Racing 92
+2021,Montpellier,19,21,Castres
+2021,Bayonne,19,36,La Rochelle
+2021,Agen,3,20,Paris
+2021,Toulon,25,21,Montpellier
+2021,Racing 92,24,30,Toulouse
+2021,Pau,29,29,Lyon
+2021,Castres,24,25,Brive
+2021,Bordeaux,16,16,Clermont
+2021,La Rochelle,62,3,Castres
+2021,Montpellier,42,13,Agen
+2021,Pau,29,24,Bordeaux
+2021,Brive,16,36,Toulouse
+2021,Lyon,62,10,Bayonne
+2021,Clermont,41,27,Paris
+2021,Racing 92,23,29,Toulon
+2021,Toulon,19,6,Castres
+2021,Toulouse,7,16,Lyon
+2021,Paris,25,27,Racing 92
+2021,Agen,15,26,Bayonne
+2021,Clermont,50,29,Pau
+2021,Montpellier,30,6,Brive
+2021,La Rochelle,20,6,Bordeaux
+2021,Brive,21,43,Clermont
+2021,Bordeaux,71,5,Agen
+2021,Castres,28,26,Racing 92
+2021,Pau,24,35,La Rochelle
+2021,Paris,48,14,Toulouse
+2021,Bayonne,35,29,Toulon
+2021,Lyon,24,20,Montpellier
+2021,Toulon,35,19,Brive
+2021,Toulouse,16,16,Castres
+2021,Bordeaux,43,19,Bayonne
+2021,Racing 92,24,22,Pau
+2021,Agen,16,19,Lyon
+2021,La Rochelle,19,10,Clermont
+2021,Montpellier,31,6,Paris
+2021,Castres,29,30,Bordeaux
+2021,Pau,16,22,Toulouse
+2021,Agen,9,38,Toulon
+2021,Bayonne,29,20,Montpellier
+2021,Brive,19,23,Racing 92
+2021,Paris,35,13,La Rochelle
+2021,Clermont,26,18,Lyon
+2021,Castres,14,40,Clermont
+2021,Toulon,18,13,Pau
+2021,La Rochelle,36,22,Brive
+2021,Montpellier,22,23,Bordeaux
+2021,Toulouse,63,18,Agen
+2021,Racing 92,43,17,Bayonne
+2021,Lyon,20,19,Paris
+2021,Clermont,15,21,Montpellier
+2021,Bordeaux,12,17,Racing 92
+2021,Agen,6,15,Brive
+2021,Bayonne,20,24,Toulouse
+2021,Lyon,22,18,La Rochelle
+2021,Pau,13,17,Castres
+2021,Paris,24,23,Toulon
+2021,La Rochelle,22,9,Montpellier
+2021,Brive,12,8,Lyon
+2021,Racing 92,45,10,Agen
+2021,Toulouse,45,23,Bordeaux
+2021,Pau,29,27,Paris
+2021,Toulon,27,9,Clermont
+2021,Castres,31,21,Bayonne
+2021,Bordeaux,31,18,Toulon
+2021,Montpellier,9,16,Toulouse
+2021,Agen,13,43,La Rochelle
+2021,Lyon,14,15,Castres
+2021,Paris,51,21,Brive
+2021,Clermont,22,24,Racing 92
+2021,Bayonne,22,23,Pau
+2021,Castres,39,23,Agen
+2021,Brive,23,22,Montpellier
+2021,Pau,31,42,Clermont
+2021,Bordeaux,31,9,Lyon
+2021,Toulouse,48,24,Paris
+2021,Racing 92,26,22,La Rochelle
+2021,Toulon,14,16,Bayonne
+2021,Montpellier,22,24,Racing 92
+2021,Clermont,36,37,Bordeaux
+2021,Brive,25,23,Toulon
+2021,Lyon,17,18,Pau
+2021,Paris,29,9,Castres
+2021,La Rochelle,11,14,Toulouse
+2021,Bayonne,48,20,Agen
+2021,Toulouse,31,9,Pau
+2021,Bordeaux,44,6,Paris
+2021,Castres,48,17,Montpellier
+2021,Racing 92,34,26,Lyon
+2021,Toulon,11,29,La Rochelle
+2021,Bayonne,26,23,Brive
+2021,Agen,16,52,Clermont
+2021,Racing 92,23,20,Castres
+2021,La Rochelle,16,11,Paris
+2021,Agen,19,39,Montpellier
+2021,Brive,25,23,Bordeaux
+2021,Clermont,73,3,Bayonne
+2021,Pau,29,33,Toulon
+2021,Lyon,31,23,Toulouse
+2021,Montpellier,22,16,Clermont
+2021,Toulouse,42,17,Brive
+2021,Bayonne,20,28,Lyon
+2021,Bordeaux,29,23,Pau
+2021,Castres,22,15,La Rochelle
+2021,Paris,40,21,Agen
+2021,Toulon,25,21,Racing 92
+2021,La Rochelle,40,3,Bayonne
+2021,Racing 92,32,33,Bordeaux
+2021,Agen,0,59,Toulouse
+2021,Clermont,59,19,Castres
+2021,Montpellier,16,21,Lyon
+2021,Pau,27,32,Brive
+2021,Toulon,35,13,Paris
+2021,Paris,27,34,Clermont
+2021,Bayonne,23,13,Racing 92
+2021,Bordeaux,11,26,La Rochelle
+2021,Brive,57,3,Agen
+2021,Castres,38,33,Pau
+2021,Toulouse,16,29,Montpellier
+2021,Lyon,54,16,Toulon
+2021,Pau,43,33,Bayonne
+2021,Castres,26,24,Toulouse
+2021,La Rochelle,38,23,Lyon
+2021,Racing 92,29,35,Paris
+2021,Clermont,37,27,Brive
+2021,Montpellier,29,10,Toulon
+2021,Agen,3,49,Bordeaux
+2021,Lyon,41,30,Clermont
+2021,Paris,46,32,Pau
+2021,Toulouse,34,16,Racing 92
+2021,Bayonne,23,26,Castres
+2021,Toulon,34,17,Agen
+2021,Brive,24,12,La Rochelle
+2021,Bordeaux,57,9,Montpellier
+2021,Castres,37,29,Lyon
+2021,Racing 92,45,19,Clermont
+2021,Agen,7,47,Pau
+2021,Bayonne,22,47,Bordeaux
+2021,Brive,28,31,Paris
+2021,Montpellier,32,22,La Rochelle
+2021,Toulon,44,10,Toulouse
+2021,Pau,29,35,Racing 92
+2021,Bordeaux,20,16,Castres
+2021,La Rochelle,59,0,Agen
+2021,Lyon,24,7,Brive
+2021,Paris,32,10,Montpellier
+2021,Toulouse,28,32,Bayonne
+2021,Clermont,25,16,Toulon
+2021,Paris,46,27,Lyon
+2021,Toulon,25,19,Bordeaux
+2021,Agen,14,54,Racing 92
+2021,Brive,28,33,Castres
+2021,La Rochelle,51,27,Pau
+2021,Montpellier,23,19,Bayonne
+2021,Toulouse,36,27,Clermont
+2021,Bayonne,9,12,Paris
+2021,Castres,46,24,Toulon
+2021,Clermont,25,20,La Rochelle
+2021,Lyon,52,7,Agen
+2021,Pau,41,25,Montpellier
+2021,Racing 92,55,12,Brive
+2021,Bordeaux,10,21,Toulouse
+2021,Racing 92,38,21,Paris
+2021,Bordeaux,25,16,Clermont
+2021,La Rochelle,19,6,Racing 92
+2021,Toulouse,24,21,Bordeaux
+2021,Toulouse,18,8,La Rochelle
+2021,Biarritz,6,6,Bayonne
+2022,Biarritz,27,15,Bordeaux
+2022,Brive,36,15,Perpignan
+2022,Castres,16,12,Pau
+2022,Paris,21,36,Racing 92
+2022,Toulon,24,24,Montpellier
+2022,Lyon,28,19,Clermont
+2022,La Rochelle,16,20,Toulouse
+2022,Clermont,30,34,Castres
+2022,Montpellier,39,17,Brive
+2022,Pau,21,17,Lyon
+2022,Perpignan,33,20,Biarritz
+2022,Bordeaux,37,10,Paris
+2022,Racing 92,23,10,La Rochelle
+2022,Toulouse,41,10,Toulon
+2022,Biarritz,28,19,Racing 92
+2022,Brive,30,13,Pau
+2022,Castres,23,23,Bordeaux
+2022,Lyon,47,3,Perpignan
+2022,Montpellier,15,17,Toulouse
+2022,Clermont,23,22,La Rochelle
+2022,Toulon,38,5,Paris
+2022,Bordeaux,29,10,Brive
+2022,Pau,23,22,Montpellier
+2022,Paris,34,10,Castres
+2022,La Rochelle,59,17,Biarritz
+2022,Racing 92,24,20,Lyon
+2022,Perpignan,12,9,Toulon
+2022,Toulouse,27,15,Clermont
+2022,Brive,19,12,Paris
+2022,Lyon,15,20,Bordeaux
+2022,Montpellier,21,11,La Rochelle
+2022,Perpignan,14,29,Pau
+2022,Biarritz,11,17,Toulouse
+2022,Castres,27,16,Toulon
+2022,Clermont,26,17,Racing 92
+2022,Biarritz,5,40,Lyon
+2022,Bordeaux,27,23,Montpellier
+2022,Racing 92,17,14,Perpignan
+2022,La Rochelle,29,10,Castres
+2022,Toulouse,38,10,Pau
+2022,Toulon,13,9,Brive
+2022,Paris,22,14,Clermont
+2022,Brive,6,8,La Rochelle
+2022,Castres,38,20,Biarritz
+2022,Pau,33,37,Bordeaux
+2022,Perpignan,22,23,Paris
+2022,Montpellier,20,22,Clermont
+2022,Toulon,20,27,Racing 92
+2022,Lyon,25,19,Toulouse
+2022,Clermont,42,20,Pau
+2022,Biarritz,37,9,Brive
+2022,Bordeaux,39,13,Perpignan
+2022,Paris,23,18,Lyon
+2022,Racing 92,21,32,Montpellier
+2022,Toulouse,41,0,Castres
+2022,La Rochelle,39,6,Toulon
+2022,Castres,23,22,Brive
+2022,Toulon,13,9,Biarritz
+2022,Pau,18,9,Paris
+2022,Perpignan,22,13,La Rochelle
+2022,Montpellier,30,8,Lyon
+2022,Bordeaux,25,9,Clermont
+2022,Racing 92,27,18,Toulouse
+2022,La Rochelle,26,3,Bordeaux
+2022,Lyon,30,23,Castres
+2022,Pau,33,21,Biarritz
+2022,Paris,27,31,Montpellier
+2022,Toulouse,37,15,Perpignan
+2022,Brive,12,10,Racing 92
+2022,Clermont,31,16,Toulon
+2022,Biarritz,17,14,Paris
+2022,Montpellier,25,24,Castres
+2022,La Rochelle,36,8,Pau
+2022,Perpignan,26,24,Clermont
+2022,Toulon,19,13,Lyon
+2022,Toulouse,18,11,Brive
+2022,Racing 92,14,37,Bordeaux
+2022,Clermont,39,11,Biarritz
+2022,Castres,25,3,Racing 92
+2022,Lyon,41,0,Brive
+2022,Montpellier,30,6,Perpignan
+2022,Pau,16,16,Toulon
+2022,Bordeaux,17,7,Toulouse
+2022,Paris,25,20,La Rochelle
+2022,Perpignan,19,20,Castres
+2022,Biarritz,12,27,Montpellier
+2022,La Rochelle,25,3,Lyon
+2022,Toulouse,28,29,Paris
+2022,Racing 92,35,29,Pau
+2022,Brive,27,20,Clermont
+2022,Toulon,21,18,Bordeaux
+2022,Paris,27,17,Perpignan
+2022,Clermont,16,13,Toulouse
+2022,Pau,43,20,Brive
+2022,Bordeaux,30,27,Biarritz
+2022,Castres,31,30,La Rochelle
+2022,Lyon,37,35,Racing 92
+2022,Montpellier,18,16,Toulon
+2022,Castres,15,9,Paris
+2022,Biarritz,23,25,Perpignan
+2022,Brive,19,22,Bordeaux
+2022,Lyon,35,10,Pau
+2022,Racing 92,33,28,Clermont
+2022,Toulon,41,11,La Rochelle
+2022,Toulouse,35,10,Montpellier
+2022,Bordeaux,23,10,Castres
+2022,Brive,33,10,Biarritz
+2022,La Rochelle,23,29,Montpellier
+2022,Perpignan,23,28,Lyon
+2022,Toulouse,15,20,Racing 92
+2022,Pau,28,20,Clermont
+2022,Paris,26,24,Toulon
+2022,Perpignan,36,13,Toulouse
+2022,Lyon,26,22,Paris
+2022,Montpellier,29,12,Pau
+2022,Racing 92,57,19,Brive
+2022,Toulon,10,22,Castres
+2022,Biarritz,27,24,La Rochelle
+2022,Clermont,29,26,Bordeaux
+2022,Pau,27,22,Toulouse
+2022,Brive,16,16,Montpellier
+2022,Castres,19,17,Lyon
+2022,Toulon,29,18,Perpignan
+2022,Paris,65,19,Biarritz
+2022,La Rochelle,31,27,Clermont
+2022,Bordeaux,13,16,Racing 92
+2022,Clermont,52,12,Perpignan
+2022,Lyon,34,15,Biarritz
+2022,Racing 92,45,25,Castres
+2022,Pau,16,22,La Rochelle
+2022,Brive,17,10,Toulon
+2022,Montpellier,30,3,Paris
+2022,Toulouse,12,11,Bordeaux
+2022,Castres,25,9,Montpellier
+2022,Biarritz,17,45,Toulon
+2022,Bordeaux,16,23,Pau
+2022,La Rochelle,41,15,Brive
+2022,Perpignan,34,13,Racing 92
+2022,Clermont,25,16,Lyon
+2022,Paris,23,16,Toulouse
+2022,Toulon,32,22,Clermont
+2022,Brive,28,12,Castres
+2022,Montpellier,37,22,Biarritz
+2022,Pau,27,22,Perpignan
+2022,La Rochelle,19,0,Racing 92
+2022,Paris,18,31,Bordeaux
+2022,Toulouse,27,19,Lyon
+2022,Castres,19,13,Toulouse
+2022,Clermont,41,10,Brive
+2022,Biarritz,19,42,Pau
+2022,Lyon,10,43,Toulon
+2022,Perpignan,13,23,Montpellier
+2022,Bordeaux,15,16,La Rochelle
+2022,Racing 92,53,20,Paris
+2022,Castres,12,0,Clermont
+2022,Paris,21,18,Pau
+2022,Brive,17,31,Lyon
+2022,Racing 92,40,7,Biarritz
+2022,La Rochelle,32,16,Perpignan
+2022,Toulon,19,15,Toulouse
+2022,Montpellier,22,23,Bordeaux
+2022,Lyon,43,20,Montpellier
+2022,Clermont,29,26,Paris
+2022,Biarritz,13,48,Castres
+2022,Pau,21,42,Racing 92
+2022,Perpignan,27,10,Brive
+2022,Toulouse,23,16,La Rochelle
+2022,Bordeaux,16,29,Toulon
+2022,Bordeaux,42,10,Lyon
+2022,Biarritz,8,26,Clermont
+2022,Montpellier,22,13,Racing 92
+2022,Toulon,37,20,Pau
+2022,La Rochelle,32,13,Paris
+2022,Brive,8,26,Toulouse
+2022,Castres,28,12,Perpignan
+2022,Clermont,20,15,Montpellier
+2022,Lyon,26,29,La Rochelle
+2022,Racing 92,21,16,Toulon
+2022,Pau,16,26,Castres
+2022,Paris,17,33,Brive
+2022,Toulouse,80,7,Biarritz
+2022,Perpignan,22,15,Bordeaux
+2022,Toulouse,33,28,La Rochelle
+2022,Bordeaux,36,16,Racing 92
+2022,Castres,24,18,Toulouse
+2022,Montpellier,19,10,Bordeaux
+2022,Castres,10,29,Montpellier
+2022,Mt.Marsan,16,41,Perpignan
+2023,Racing 92,25,19,Castres
+2023,Brive,27,31,Lyon
+2023,Toulon,40,25,Bayonne
+2023,Pau,16,14,Perpignan
+2023,Paris,24,18,Clermont
+2023,La Rochelle,26,22,Montpellier
+2023,Bordeaux,25,26,Toulouse
+2023,Lyon,21,23,La Rochelle
+2023,Clermont,33,24,Pau
+2023,Bayonne,31,25,Racing 92
+2023,Castres,30,20,Paris
+2023,Perpignan,6,17,Brive
+2023,Montpellier,29,19,Bordeaux
+2023,Toulouse,28,8,Toulon
+2023,Bordeaux,33,12,Castres
+2023,Brive,26,31,Montpellier
+2023,Racing 92,32,19,Lyon
+2023,Paris,26,16,Bayonne
+2023,La Rochelle,43,8,Perpignan
+2023,Pau,26,16,Toulouse
+2023,Toulon,30,29,Clermont
+2023,Perpignan,19,13,Toulon
+2023,Bayonne,20,15,Bordeaux
+2023,Castres,12,6,Brive
+2023,Lyon,33,27,Paris
+2023,Montpellier,43,17,Pau
+2023,Toulouse,37,10,Racing 92
+2023,Clermont,22,13,La Rochelle
+2023,Bordeaux,15,10,Paris
+2023,Clermont,43,20,Lyon
+2023,Brive,25,22,Bayonne
+2023,Pau,17,34,Toulon
+2023,Perpignan,14,10,Castres
+2023,La Rochelle,24,19,Racing 92
+2023,Montpellier,17,19,Toulouse
+2023,Castres,26,13,Montpellier
+2023,Bayonne,29,13,La Rochelle
+2023,Racing 92,26,13,Pau
+2023,Toulon,47,0,Brive
+2023,Paris,52,3,Perpignan
+2023,Toulouse,46,10,Clermont
+2023,Lyon,36,21,Bordeaux
+2023,Brive,7,45,Toulouse
+2023,Castres,39,22,Bayonne
+2023,Montpellier,26,33,Lyon
+2023,Pau,29,31,Paris
+2023,Perpignan,10,20,Clermont
+2023,Bordeaux,29,17,Racing 92
+2023,La Rochelle,32,5,Toulon
+2023,Racing 92,38,31,Montpellier
+2023,Bayonne,24,20,Perpignan
+2023,Lyon,31,27,Pau
+2023,Toulon,28,20,Castres
+2023,Paris,27,0,Brive
+2023,Clermont,23,23,Bordeaux
+2023,Toulouse,26,17,La Rochelle
+2023,Castres,26,22,Clermont
+2023,Brive,38,43,Racing 92
+2023,Montpellier,23,19,Paris
+2023,La Rochelle,21,38,Pau
+2023,Perpignan,28,21,Lyon
+2023,Bayonne,26,22,Toulouse
+2023,Bordeaux,27,26,Toulon
+2023,Toulouse,16,16,Paris
+2023,Clermont,20,25,Bayonne
+2023,Brive,17,19,La Rochelle
+2023,Lyon,26,20,Castres
+2023,Racing 92,44,20,Perpignan
+2023,Pau,33,7,Bordeaux
+2023,Toulon,16,26,Montpellier
+2023,Montpellier,35,14,Bayonne
+2023,Pau,22,6,Brive
+2023,La Rochelle,53,7,Castres
+2023,Perpignan,23,20,Bordeaux
+2023,Paris,12,17,Toulon
+2023,Racing 92,46,12,Clermont
+2023,Lyon,21,14,Toulouse
+2023,Clermont,19,14,Montpellier
+2023,Bayonne,19,7,Lyon
+2023,Toulouse,34,13,Perpignan
+2023,Bordeaux,33,13,Brive
+2023,Paris,27,14,La Rochelle
+2023,Castres,26,22,Pau
+2023,Toulon,14,31,Racing 92
+2023,Toulon,21,3,Lyon
+2023,Brive,20,16,Clermont
+2023,Montpellier,38,10,Perpignan
+2023,Pau,22,22,Bayonne
+2023,La Rochelle,8,12,Bordeaux
+2023,Toulouse,22,18,Castres
+2023,Racing 92,10,48,Paris
+2023,Bordeaux,40,10,Montpellier
+2023,Bayonne,23,18,Toulon
+2023,Castres,26,26,Racing 92
+2023,Lyon,27,30,Brive
+2023,Paris,37,3,Pau
+2023,Perpignan,10,29,La Rochelle
+2023,Clermont,13,32,Toulouse
+2023,Bordeaux,23,15,Bayonne
+2023,Clermont,31,20,Perpignan
+2023,Brive,26,17,Toulon
+2023,Pau,12,21,Lyon
+2023,Paris,26,7,Castres
+2023,La Rochelle,30,7,Toulouse
+2023,Montpellier,17,12,Racing 92
+2023,Lyon,34,14,Clermont
+2023,Bayonne,37,9,Brive
+2023,Castres,23,18,Bordeaux
+2023,Toulon,27,16,Pau
+2023,Perpignan,31,24,Paris
+2023,Racing 92,39,36,La Rochelle
+2023,Toulouse,23,9,Montpellier
+2023,Toulouse,21,16,Bayonne
+2023,Clermont,41,26,Castres
+2023,Brive,22,24,Perpignan
+2023,Pau,38,19,Racing 92
+2023,La Rochelle,16,20,Lyon
+2023,Montpellier,18,20,Toulon
+2023,Paris,12,6,Bordeaux
+2023,Bayonne,29,26,Paris
+2023,Castres,17,32,La Rochelle
+2023,Lyon,31,21,Montpellier
+2023,Racing 92,34,24,Brive
+2023,Perpignan,49,29,Pau
+2023,Toulon,17,6,Toulouse
+2023,Bordeaux,18,9,Clermont
+2023,Paris,27,17,Montpellier
+2023,Bayonne,41,10,Castres
+2023,Lyon,45,11,Racing 92
+2023,La Rochelle,32,16,Brive
+2023,Bordeaux,43,7,Perpignan
+2023,Toulouse,34,10,Pau
+2023,Clermont,36,21,Toulon
+2023,Montpellier,34,6,Clermont
+2023,Brive,7,28,Bordeaux
+2023,Castres,27,22,Lyon
+2023,Pau,32,36,La Rochelle
+2023,Perpignan,34,27,Bayonne
+2023,Toulon,37,9,Paris
+2023,Racing 92,35,39,Toulouse
+2023,Castres,27,17,Toulouse
+2023,Clermont,38,10,Brive
+2023,Bayonne,20,30,Pau
+2023,Lyon,23,27,Toulon
+2023,Perpignan,22,23,Montpellier
+2023,Bordeaux,6,36,La Rochelle
+2023,Paris,13,17,Racing 92
+2023,Racing 92,31,28,Bordeaux
+2023,Brive,22,27,Paris
+2023,Montpellier,19,28,Castres
+2023,Toulon,37,15,Perpignan
+2023,Pau,23,18,Clermont
+2023,La Rochelle,26,6,Bayonne
+2023,Toulouse,36,31,Lyon
+2023,La Rochelle,26,13,Clermont
+2023,Bayonne,33,30,Montpellier
+2023,Brive,22,17,Pau
+2023,Castres,31,18,Toulon
+2023,Perpignan,30,21,Racing 92
+2023,Paris,19,10,Toulouse
+2023,Bordeaux,23,9,Lyon
+2023,Clermont,32,16,Paris
+2023,Lyon,39,31,Perpignan
+2023,Montpellier,26,27,Brive
+2023,Racing 92,55,14,Bayonne
+2023,Pau,40,3,Castres
+2023,Toulon,8,23,La Rochelle
+2023,Toulouse,31,17,Bordeaux
+2023,Perpignan,26,21,Toulouse
+2023,Bayonne,21,18,Clermont
+2023,Brive,13,16,Castres
+2023,Montpellier,42,31,La Rochelle
+2023,Bordeaux,28,0,Pau
+2023,Racing 92,43,7,Toulon
+2023,Paris,31,31,Lyon
+2023,Clermont,32,25,Racing 92
+2023,Castres,26,16,Perpignan
+2023,Lyon,53,19,Bayonne
+2023,Toulon,35,19,Bordeaux
+2023,Pau,35,10,Montpellier
+2023,La Rochelle,14,10,Paris
+2023,Toulouse,54,10,Brive
+2023,Paris,20,33,Racing 92
+2023,Lyon,25,32,Bordeaux
+2023,Toulouse,41,14,Racing 92
+2023,La Rochelle,24,13,Bordeaux
+2023,Toulouse,29,26,La Rochelle
+2023,Grenoble,19,33,Perpignan
+2024,Bayonne,26,7,Toulouse
+2024,Racing 92,23,18,Bordeaux
+2024,Perpignan,7,29,Paris
+2024,Oyonnax,36,17,Clermont
+2024,Castres,24,23,Pau
+2024,Lyon,27,15,Toulon
+2024,Montpellier,26,15,La Rochelle
+2024,Paris,28,18,Oyonnax
+2024,La Rochelle,35,14,Lyon
+2024,Bordeaux,25,23,Castres
+2024,Clermont,38,14,Perpignan
+2024,Pau,19,17,Racing 92
+2024,Toulon,19,14,Bayonne
+2024,Toulouse,38,13,Montpellier
+2024,Oyonnax,21,27,Toulouse
+2024,Castres,37,0,Bayonne
+2024,Paris,24,9,Montpellier
+2024,Pau,40,10,Lyon
+2024,Racing 92,59,10,Perpignan
+2024,Clermont,11,10,La Rochelle
+2024,Bordeaux,22,17,Toulon
+2024,Bayonne,16,3,Paris
+2024,Perpignan,24,39,Pau
+2024,Lyon,41,22,Clermont
+2024,Montpellier,16,19,Racing 92
+2024,Toulon,41,7,Oyonnax
+2024,La Rochelle,24,27,Castres
+2024,Toulouse,29,22,Bordeaux
+2024,Oyonnax,19,17,La Rochelle
+2024,Perpignan,26,22,Toulon
+2024,Bordeaux,26,13,Montpellier
+2024,Clermont,46,14,Bayonne
+2024,Paris,39,16,Castres
+2024,Racing 92,22,20,Lyon
+2024,Pau,13,9,Toulouse
+2024,Toulouse,43,34,Perpignan
+2024,Castres,39,11,Oyonnax
+2024,Lyon,32,36,Paris
+2024,Montpellier,17,20,Clermont
+2024,Pau,20,11,Bordeaux
+2024,La Rochelle,18,15,Bayonne
+2024,Toulon,31,26,Racing 92
+2024,Paris,9,13,Racing 92
+2024,Bayonne,35,16,Pau
+2024,Perpignan,23,16,Montpellier
+2024,Oyonnax,38,20,Lyon
+2024,Clermont,27,30,Toulon
+2024,Castres,31,23,Toulouse
+2024,La Rochelle,25,21,Bordeaux
+2024,Toulon,41,19,Castres
+2024,Bordeaux,46,22,Perpignan
+2024,Lyon,42,29,Bayonne
+2024,Montpellier,21,26,Oyonnax
+2024,Pau,30,6,Paris
+2024,Toulouse,31,10,Clermont
+2024,Racing 92,32,10,La Rochelle
+2024,Toulon,36,13,Pau
+2024,Bayonne,34,19,Montpellier
+2024,Oyonnax,23,29,Bordeaux
+2024,Castres,29,14,Lyon
+2024,La Rochelle,35,6,Perpignan
+2024,Clermont,23,18,Racing 92
+2024,Paris,27,12,Toulouse
+2024,Perpignan,36,10,Bayonne
+2024,Bordeaux,46,10,Lyon
+2024,Montpellier,30,21,Castres
+2024,Racing 92,66,10,Oyonnax
+2024,Pau,22,11,Clermont
+2024,Paris,18,13,La Rochelle
+2024,Toulouse,25,17,Toulon
+2024,Oyonnax,34,13,Pau
+2024,Clermont,35,40,Bordeaux
+2024,Lyon,20,18,Montpellier
+2024,Bayonne,27,23,Racing 92
+2024,Toulon,19,5,Paris
+2024,La Rochelle,29,8,Toulouse
+2024,Castres,13,17,Perpignan
+2024,Pau,20,29,La Rochelle
+2024,Perpignan,27,12,Oyonnax
+2024,Bordeaux,24,23,Bayonne
+2024,Paris,14,14,Clermont
+2024,Racing 92,34,30,Castres
+2024,Toulouse,45,0,Lyon
+2024,Montpellier,27,17,Toulon
+2024,Bordeaux,26,30,Paris
+2024,Bayonne,21,17,Oyonnax
+2024,Castres,20,23,Clermont
+2024,Lyon,36,24,Perpignan
+2024,Montpellier,22,17,Pau
+2024,Toulon,25,23,La Rochelle
+2024,Racing 92,20,27,Toulouse
+2024,Perpignan,26,5,Racing 92
+2024,Oyonnax,19,23,Paris
+2024,Clermont,38,21,Lyon
+2024,La Rochelle,18,10,Montpellier
+2024,Pau,33,44,Castres
+2024,Toulouse,46,26,Bayonne
+2024,Toulon,32,37,Bordeaux
+2024,Lyon,28,17,La Rochelle
+2024,Bordeaux,10,20,Pau
+2024,Paris,32,19,Perpignan
+2024,Racing 92,20,44,Montpellier
+2024,Toulouse,61,34,Oyonnax
+2024,Bayonne,21,13,Clermont
+2024,Castres,25,17,Toulon
+2024,Montpellier,28,23,Bayonne
+2024,Perpignan,27,15,La Rochelle
+2024,Castres,41,12,Bordeaux
+2024,Lyon,43,26,Oyonnax
+2024,Pau,17,9,Toulon
+2024,Racing 92,11,27,Paris
+2024,Clermont,33,37,Toulouse
+2024,Toulouse,33,6,Castres
+2024,Bayonne,39,10,Lyon
+2024,Oyonnax,35,39,Montpellier
+2024,Paris,25,12,Pau
+2024,Toulon,44,22,Perpignan
+2024,Bordeaux,21,5,Racing 92
+2024,La Rochelle,42,3,Clermont
+2024,La Rochelle,23,3,Paris
+2024,Clermont,15,15,Oyonnax
+2024,Lyon,34,19,Castres
+2024,Montpellier,10,3,Bordeaux
+2024,Pau,42,40,Bayonne
+2024,Perpignan,27,17,Toulouse
+2024,Racing 92,20,6,Toulon
+2024,Toulon,54,7,Montpellier
+2024,Oyonnax,14,15,Perpignan
+2024,Castres,21,23,Racing 92
+2024,Clermont,31,28,Pau
+2024,Paris,22,13,Lyon
+2024,Bayonne,13,12,La Rochelle
+2024,Bordeaux,31,28,Toulouse
+2024,Montpellier,10,12,Paris
+2024,Perpignan,43,12,Castres
+2024,La Rochelle,40,21,Oyonnax
+2024,Lyon,27,10,Bordeaux
+2024,Racing 92,26,10,Clermont
+2024,Toulouse,31,29,Pau
+2024,Bayonne,10,46,Toulon
+2024,Castres,25,24,La Rochelle
+2024,Perpignan,51,20,Lyon
+2024,Oyonnax,13,43,Racing 92
+2024,Paris,28,24,Bayonne
+2024,Pau,31,23,Montpellier
+2024,Toulon,20,19,Toulouse
+2024,Bordeaux,41,7,Clermont
+2024,Toulouse,32,12,Racing 92
+2024,Bayonne,15,34,Bordeaux
+2024,Oyonnax,22,19,Castres
+2024,Lyon,38,20,Pau
+2024,Montpellier,20,25,Perpignan
+2024,Clermont,41,18,Paris
+2024,La Rochelle,27,17,Toulon
+2024,Perpignan,28,35,Clermont
+2024,Castres,27,26,Montpellier
+2024,Pau,39,17,Oyonnax
+2024,Racing 92,28,37,Bayonne
+2024,Toulon,30,24,Lyon
+2024,Bordeaux,34,14,La Rochelle
+2024,Toulouse,49,18,Paris
+2024,Montpellier,22,29,Toulouse
+2024,Bayonne,23,20,Perpignan
+2024,Oyonnax,17,27,Toulon
+2024,Clermont,36,20,Castres
+2024,Lyon,20,14,Racing 92
+2024,La Rochelle,25,23,Pau
+2024,Paris,22,18,Bordeaux
+2024,Racing 92,24,15,Pau
+2024,Perpignan,37,30,Bordeaux
+2024,Oyonnax,27,20,Bayonne
+2024,Castres,27,18,Paris
+2024,Montpellier,41,26,Lyon
+2024,Toulon,52,10,Clermont
+2024,Toulouse,31,31,La Rochelle
+2024,Bayonne,17,28,Castres
+2024,Bordeaux,40,7,Oyonnax
+2024,Clermont,52,15,Montpellier
+2024,La Rochelle,24,19,Racing 92
+2024,Lyon,40,28,Toulouse
+2024,Paris,23,20,Toulon
+2024,Pau,36,24,Perpignan
+2024,Toulon,29,34,La Rochelle
+2024,Bordeaux,31,17,Racing 92
+2024,Toulouse,39,23,La Rochelle
+2024,Paris,20,22,Bordeaux
+2024,Toulouse,59,3,Bordeaux
+2024,Grenoble,18,20,Montpellier
+2025,Bayonne,21,19,Perpignan
+2025,Clermont,39,7,Pau
+2025,Castres,31,28,Racing 92
+2025,Montpellier,22,26,Lyon
+2025,Bordeaux,46,26,Paris
+2025,La Rochelle,19,15,Toulon
+2025,Vannes,18,43,Toulouse
+2025,Toulon,30,28,Castres
+2025,Paris,34,31,Vannes
+2025,Racing 92,33,20,Clermont
+2025,Pau,51,29,Bayonne
+2025,Perpignan,7,26,Montpellier
+2025,Lyon,28,26,Bordeaux
+2025,Toulouse,35,27,La Rochelle
+2025,Montpellier,11,20,Toulouse
+2025,Clermont,26,10,Bayonne
+2025,Castres,27,12,Perpignan
+2025,Vannes,30,20,Lyon
+2025,La Rochelle,49,25,Pau
+2025,Bordeaux,52,34,Racing 92
+2025,Paris,10,14,Toulon
+2025,Perpignan,33,3,Clermont
+2025,Bayonne,28,27,Montpellier
+2025,Lyon,40,38,Castres
+2025,Racing 92,16,17,La Rochelle
+2025,Toulon,54,19,Vannes
+2025,Pau,30,16,Paris
+2025,Toulouse,12,16,Bordeaux
+2025,Vannes,24,27,Racing 92
+2025,Paris,29,20,Montpellier
+2025,La Rochelle,43,22,Lyon
+2025,Bordeaux,30,27,Bayonne
+2025,Perpignan,11,10,Pau
+2025,Castres,28,23,Toulouse
+2025,Clermont,19,18,Toulon
+2025,Racing 92,22,6,Toulon
+2025,Bayonne,37,7,La Rochelle
+2025,Montpellier,26,24,Vannes
+2025,Pau,33,26,Castres
+2025,Bordeaux,66,12,Perpignan
+2025,Toulouse,48,14,Clermont
+2025,Lyon,35,3,Paris
+2025,Bayonne,32,15,Racing 92
+2025,Clermont,55,33,Vannes
+2025,Castres,35,13,Paris
+2025,Toulon,30,17,Montpellier
+2025,Perpignan,29,26,Lyon
+2025,Pau,14,22,Toulouse
+2025,La Rochelle,32,22,Bordeaux
+2025,Bordeaux,19,6,Pau
+2025,Lyon,38,49,Bayonne
+2025,Montpellier,16,0,La Rochelle
+2025,Racing 92,30,23,Perpignan
+2025,Vannes,34,28,Castres
+2025,Paris,36,6,Clermont
+2025,Toulouse,57,5,Toulon
+2025,Clermont,32,27,Bordeaux
+2025,Castres,30,26,Montpellier
+2025,Toulon,21,10,Lyon
+2025,Pau,23,33,Racing 92
+2025,Perpignan,32,13,Vannes
+2025,La Rochelle,35,18,Paris
+2025,Bayonne,12,8,Toulouse
+2025,Toulon,39,19,Bayonne
+2025,Castres,28,24,La Rochelle
+2025,Lyon,22,30,Clermont
+2025,Montpellier,30,3,Pau
+2025,Toulouse,41,9,Perpignan
+2025,Vannes,29,37,Bordeaux
+2025,Paris,40,24,Racing 92
+2025,Racing 92,17,21,Toulouse
+2025,Clermont,54,10,Castres
+2025,Pau,29,15,Lyon
+2025,La Rochelle,14,23,Vannes
+2025,Bordeaux,9,6,Montpellier
+2025,Perpignan,13,22,Toulon
+2025,Bayonne,21,13,Paris
+2025,La Rochelle,20,15,Clermont
+2025,Montpellier,21,17,Racing 92
+2025,Toulon,56,25,Pau
+2025,Vannes,21,27,Bayonne
+2025,Paris,24,7,Perpignan
+2025,Castres,3,13,Bordeaux
+2025,Lyon,17,17,Toulouse
+2025,Pau,48,24,Vannes
+2025,Bayonne,33,12,Castres
+2025,Clermont,18,22,Montpellier
+2025,Bordeaux,21,17,Toulon
+2025,Racing 92,25,25,Lyon
+2025,Perpignan,21,13,La Rochelle
+2025,Toulouse,38,23,Paris
+2025,Toulon,36,24,Racing 92
+2025,Castres,24,19,Pau
+2025,Lyon,17,12,Perpignan
+2025,Montpellier,42,10,Bayonne
+2025,Paris,19,46,Bordeaux
+2025,La Rochelle,22,19,Toulouse
+2025,Vannes,19,20,Clermont
+2025,Toulouse,27,17,Montpellier
+2025,Racing 92,20,27,Castres
+2025,Vannes,33,28,Paris
+2025,Pau,20,14,Clermont
+2025,Perpignan,16,11,Bayonne
+2025,Bordeaux,20,22,Lyon
+2025,Toulon,45,26,La Rochelle
+2025,Bayonne,36,32,Bordeaux
+2025,Lyon,53,17,La Rochelle
+2025,Racing 92,25,30,Vannes
+2025,Paris,39,37,Pau
+2025,Perpignan,20,20,Castres
+2025,Montpellier,30,38,Toulon
+2025,Clermont,18,35,Toulouse
+2025,Castres,30,25,Lyon
+2025,Toulon,24,6,Paris
+2025,Vannes,37,24,Montpellier
+2025,Pau,23,6,Perpignan
+2025,La Rochelle,21,26,Racing 92
+2025,Toulouse,41,6,Bayonne
+2025,Bordeaux,22,18,Clermont
+2025,Paris,22,17,La Rochelle
+2025,Lyon,27,20,Toulon
+2025,Montpellier,21,17,Castres
+2025,Racing 92,29,47,Pau
+2025,Toulouse,63,21,Vannes
+2025,Perpignan,17,29,Bordeaux
+2025,Bayonne,31,18,Clermont
+2025,La Rochelle,12,12,Castres
+2025,Clermont,21,23,Racing 92
+2025,Lyon,36,21,Vannes
+2025,Pau,40,38,Montpellier
+2025,Paris,31,27,Bayonne
+2025,Toulon,40,19,Perpignan
+2025,Bordeaux,32,24,Toulouse
+2025,Toulouse,55,10,Pau
+2025,Clermont,33,19,La Rochelle
+2025,Bayonne,28,14,Lyon
+2025,Montpellier,38,32,Paris
+2025,Vannes,20,20,Perpignan
+2025,Castres,28,26,Toulon
+2025,Racing 92,36,31,Bordeaux
+2025,Pau,22,26,Bordeaux
+2025,Castres,32,13,Vannes
+2025,Lyon,32,23,Montpellier
+2025,La Rochelle,29,28,Bayonne
+2025,Perpignan,28,24,Racing 92
+2025,Toulon,31,24,Clermont
+2025,Paris,21,27,Toulouse
+2025,Toulouse,52,6,Castres
+2025,Clermont,39,31,Lyon
+2025,Bayonne,27,22,Pau
+2025,Montpellier,19,13,Perpignan
+2025,Vannes,29,19,Toulon
+2025,Bordeaux,10,21,La Rochelle
+2025,Racing 92,49,24,Paris
+2025,Lyon,27,29,Pau
+2025,Racing 92,24,24,Bayonne
+2025,Vannes,29,30,La Rochelle
+2025,Perpignan,20,18,Paris
+2025,Toulon,16,50,Toulouse
+2025,Montpellier,46,27,Bordeaux
+2025,Castres,34,29,Clermont
+2025,Bordeaux,34,29,Castres
+2025,Clermont,31,13,Perpignan
+2025,Bayonne,38,32,Vannes
+2025,Pau,25,21,Toulon
+2025,Paris,31,30,Lyon
+2025,Toulouse,35,37,Racing 92
+2025,La Rochelle,47,18,Montpellier
+2025,Clermont,55,20,Paris
+2025,Castres,33,3,Bayonne
+2025,Racing 92,25,27,Montpellier
+2025,Vannes,26,52,Pau
+2025,La Rochelle,38,15,Perpignan
+2025,Toulouse,43,3,Lyon
+2025,Toulon,27,10,Bordeaux
+2025,Bayonne,18,10,Toulon
+2025,Lyon,34,47,Racing 92
+2025,Montpellier,10,23,Clermont
+2025,Pau,32,18,La Rochelle
+2025,Paris,21,10,Castres
+2025,Bordeaux,59,28,Vannes
+2025,Perpignan,42,35,Toulouse
+2025,Bayonne,20,3,Clermont
+2025,Toulon,52,23,Castres
+2025,Toulouse,32,25,Bayonne
+2025,Bordeaux,39,24,Toulon
+2025,Toulouse,39,33,Bordeaux
+2025,Grenoble,11,13,Perpignan
